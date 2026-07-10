@@ -49,10 +49,11 @@ def run(dry_run: bool = False):
         jobs.extend(source.fetch())
     stats = {"total": len(jobs)}
 
-    # 2. Dedup
-    seen = load_seen()
-    fresh = [j for j in jobs if j.id not in seen]
-    print(f"[dedup] {len(fresh)} new of {len(jobs)}")
+    # 2. Dedup (seen ids + already-applied URLs)
+    from .track import tracked_urls
+    seen, applied = load_seen(), tracked_urls()
+    fresh = [j for j in jobs if j.id not in seen and j.url not in applied]
+    print(f"[dedup] {len(fresh)} new of {len(jobs)} ({len(applied)} tracked applications excluded)")
 
     # 3. Rule gate
     candidates, rejected = [], 0
@@ -80,10 +81,15 @@ def run(dry_run: bool = False):
     top = [(j, r) for j, r in judged if r["match_score"] >= threshold][:TOP_N]
     near = [(j, r) for j, r in judged if 0 < r["match_score"] < threshold][:NEAR_MISS_N]
 
-    # 5. Notify
+    # 5. Notify (NOTIFY=email|telegram|both, default email)
     if top or near:
-        from .notify.email import send_digest
-        send_digest(top, near, stats)
+        channels = os.environ.get("NOTIFY", "email").lower()
+        if channels in ("email", "both"):
+            from .notify.email import send_digest as send_email
+            send_email(top, near, stats)
+        if channels in ("telegram", "both"):
+            from .notify.telegram import send_digest as send_tg
+            send_tg(top, near, stats)
     else:
         print("[notify] nothing to send today")
 

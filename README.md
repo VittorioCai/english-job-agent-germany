@@ -22,7 +22,10 @@ difference. This agent reads the fine print for you:
   your German level (B1 ≠ zero: "German is a plus" jobs stay in)
 - 📊 **Scored, not dumped** — every match comes with a 0-100 fit score, the working
   language, and red flags (unpaid, enrollment requirements, on-site 5 days…)
-- 📬 **One email a day** — top 5 matches plus 3 near-misses so you can tune your filters
+- 📬 **One digest a day** — email or Telegram; top 5 matches plus 3 near-misses so
+  you can tune your filters
+- 📋 **Application tracker** — mark jobs as applied/interview/offer and they vanish
+  from future digests
 - 🆓 **Zero infrastructure** — GitHub Actions + your own LLM key
   (Anthropic / OpenAI / DeepSeek / any OpenAI-compatible endpoint)
 
@@ -49,7 +52,10 @@ no scraping behind login walls, no ToS violations.
 
 4. **Optional variables** (same page → Variables): `LLM_PROVIDER`
    (`anthropic` default / `openai` / `deepseek`), `LLM_MODEL`, `MAIL_TO`,
-   `MAX_LLM_CALLS` (default 25/day to cap costs)
+   `MAX_LLM_CALLS` (default 25/day to cap costs), `NOTIFY`
+   (`email` default / `telegram` / `both` — Telegram needs
+   `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` secrets, see
+   [`src/notify/telegram.py`](src/notify/telegram.py))
 5. **Test it**: Actions tab → *Daily job scan* → *Run workflow*
 
 Your digest arrives every morning at ~7:00 German time.
@@ -63,14 +69,26 @@ python -m src.main --dry-run   # no LLM calls, no email — see what passes the 
 python -m src.main             # full run
 ```
 
+### Track your applications
+
+```bash
+python -m src.track add https://n26.com/en/careers/positions/12345   # marks as applied
+python -m src.track add <url> interview "phone screen on Friday"
+python -m src.track list
+python -m src.track stats
+```
+
+Tracked jobs never reappear in your digest. Commit `data/applications.json`
+to sync state with the GitHub Actions runs.
+
 ## How it works
 
 ```
 Arbeitnow API ─┐
                ├─→ dedup ─→ rule gate ─→ LLM judge ─→ email digest
 ATS feeds ─────┘   (seen.json)  (free)     (≤25 calls)    (top 5 + near misses)
-(Greenhouse/Lever/Ashby,
- 24 German tech companies)
+(Greenhouse/Ashby,
+ 16 verified German tech companies)
 ```
 
 The LLM returns structured judgment per job:
@@ -102,8 +120,9 @@ Not legal advice, but the rules the agent flags:
 
 The most valuable PR: **add English-friendly companies** to
 [`data/companies.yaml`](data/companies.yaml) — one line each, slug from the company's
-careers URL. Also welcome: new source adapters (`src/sources/`), better German-requirement
-patterns (`src/filters/rules.py`), Telegram notifier.
+careers URL (please verify the API responds before submitting). Also welcome: new
+source adapters (`src/sources/`), better German-requirement patterns
+(`src/filters/rules.py`), new notifiers (`src/notify/`).
 
 ## License
 
