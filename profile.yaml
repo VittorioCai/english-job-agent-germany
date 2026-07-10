@@ -1,0 +1,42 @@
+# Your job-search profile. Edit this — it drives everything.
+
+# What kind of positions? (must appear in the job TITLE)
+role_keywords:
+  - werkstudent
+  - working student
+  - intern
+  - internship
+  - praktikum
+  - praktikant
+
+# Your field (must appear somewhere in the posting)
+field_keywords:
+  - software
+  - engineer
+  - developer
+  - data
+  - machine learning
+  - python
+  - backend
+  - frontend
+
+# Target cities (substring match on location; "remote" catches remote roles)
+cities:
+  - berlin
+  - munich
+  - münchen
+  - hamburg
+  - remote
+  - germany
+
+# Your German level: A1/A2/B1/B2/C1. Jobs requiring more get score-capped.
+german_level: B1
+
+# Minimum LLM match score (0-100) to appear in "Today's matches"
+min_score: 60
+
+# Short pitch used by the LLM to judge fit — write it like a 3-line CV.
+cv_summary: |
+  CS Master's student at TU Munich (graduating 2027). Python, PyTorch, SQL,
+  some React. One previous internship in data engineering. Interested in
+  ML/backend roles. Work permit via student visa (140 full days/year).

@@ -1,0 +1,32 @@
+# English-friendly companies in Germany with public ATS feeds (no auth needed).
+# Add more via PR — find the slug in the company's careers page URL.
+#   greenhouse: boards.greenhouse.io/<slug>  → api: boards-api.greenhouse.io/v1/boards/<slug>/jobs
+#   lever:      jobs.lever.co/<slug>         → api: api.lever.co/v0/postings/<slug>
+#   ashby:      jobs.ashbyhq.com/<slug>      → api: api.ashbyhq.com/posting-api/job-board/<slug>
+# Dead slugs are skipped gracefully — but please prune them.
+
+companies:
+  - {name: N26, ats: greenhouse, slug: n26}
+  - {name: HelloFresh, ats: greenhouse, slug: hellofresh}
+  - {name: Delivery Hero, ats: greenhouse, slug: deliveryhero}
+  - {name: GetYourGuide, ats: greenhouse, slug: getyourguide}
+  - {name: Celonis, ats: greenhouse, slug: celonis}
+  - {name: Zalando, ats: greenhouse, slug: zalando}
+  - {name: Trade Republic, ats: greenhouse, slug: traderepublic}
+  - {name: Flink, ats: greenhouse, slug: flink}
+  - {name: Solaris, ats: greenhouse, slug: solarisbank}
+  - {name: Forto, ats: greenhouse, slug: forto}
+  - {name: Raisin, ats: greenhouse, slug: raisin}
+  - {name: Contentful, ats: greenhouse, slug: contentful}
+  - {name: Babbel, ats: greenhouse, slug: babbel}
+  - {name: Moss, ats: greenhouse, slug: moss}
+  - {name: Wefox, ats: greenhouse, slug: wefox}
+  - {name: Pitch, ats: greenhouse, slug: pitch}
+  - {name: Personio, ats: greenhouse, slug: personio}
+  - {name: Aleph Alpha, ats: greenhouse, slug: alephalpha}
+  - {name: Helsing, ats: lever, slug: helsing}
+  - {name: DeepL, ats: greenhouse, slug: deepl}
+  - {name: Parloa, ats: greenhouse, slug: parloa}
+  - {name: Tacto, ats: ashby, slug: tacto}
+  - {name: Choco, ats: greenhouse, slug: choco}
+  - {name: Grover, ats: greenhouse, slug: grover}
