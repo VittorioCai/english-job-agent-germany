@@ -11,20 +11,25 @@ role_keywords:
 
 # Your field (must appear somewhere in the posting)
 field_keywords:
-  - software
-  - engineer
-  - developer
+  - supply chain
+  - logistics
+  - operations
+  - procurement
+  - scm
   - data
+  - analytics
+  - analyst
+  - business intelligence
   - machine learning
-  - python
-  - backend
-  - frontend
+  - artificial intelligence
 
 # Target cities (substring match on location; "remote" catches remote roles)
 cities:
-  - berlin
   - munich
   - münchen
+  - heilbronn
+  - stuttgart
+  - berlin
   - hamburg
   - remote
   - germany
@@ -37,6 +42,9 @@ min_score: 60
 
 # Short pitch used by the LLM to judge fit — write it like a 3-line CV.
 cv_summary: |
-  CS Master's student at TU Munich (graduating 2027). Python, PyTorch, SQL,
-  some React. One previous internship in data engineering. Interested in
-  ML/backend roles. Work permit via student visa (140 full days/year).
+  Master in Management & Digital Technology (MMDT) student at TUM.
+  Focus: supply chain management, data analytics, and AI applications in
+  business. Skills: Python, SQL, Excel, data visualization (Tableau/Power BI),
+  basic machine learning. Looking for Werkstudent or internship roles in
+  supply chain analytics, data analysis, business intelligence, or AI —
+  English working environment. Non-EU student visa (140 full days/year).
