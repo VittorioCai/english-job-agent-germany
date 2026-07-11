@@ -21,7 +21,7 @@ Analyze this job posting and answer in strict JSON (no markdown, no commentary):
 
 Rules:
 - An English JD does NOT imply an English workplace. Look for explicit language cues.
-- If german_required exceeds the student's level {german_level}, cap match_score at 30.
+- If german_required exceeds the student's level {german_level}, cap match_score at 25.
 - Customer-facing roles in the German market usually need German even if unstated — flag it.
 
 Job posting:

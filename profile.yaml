@@ -35,7 +35,7 @@ germany_only: true
 german_level: A1
 
 # Minimum LLM match score (0-100) to appear in "Today's matches"
-min_score: 50
+min_score: 30
 
 # Short pitch used by the LLM to judge fit — write it like a 3-line CV.
 cv_summary: |
