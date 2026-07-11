@@ -93,8 +93,10 @@ def run(dry_run: bool = False):
     else:
         print("[notify] nothing to send today")
 
-    # 6. Persist — only judged jobs count as seen, so unjudged ones retry tomorrow.
-    seen |= {job.id for job, _ in judged}
+    # 6. Persist — only successfully judged jobs count as seen; failed judgments
+    # (e.g. bad API key) and unjudged jobs retry tomorrow.
+    seen |= {job.id for job, r in judged
+             if not any(str(f).startswith("LLM error") for f in r.get("red_flags", []))}
     seen |= {job.id for job in fresh if gate(job, profile)[0] == "reject"}
     save_seen(seen)
     print("[done]")
