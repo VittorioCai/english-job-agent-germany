@@ -103,6 +103,47 @@ LLM 对每个岗位输出结构化判断:
 如果岗位要求的德语超过你的 `german_level`,匹配分会被限制在 30 以内——
 它会进入"差一点"区域而不是日报头条。
 
+## 覆盖哪些岗位来源
+
+两类来源,全部公开免鉴权:
+
+- **[Arbeitnow](https://www.arbeitnow.com/english-speaking-jobs)** —— 德国英语友好
+  岗位聚合板,约 300 个在招岗位,以创业公司和中型科技公司为主。公司每天都在变,
+  无需配置。
+- **[`data/companies.yaml`](data/companies.yaml) 中固定监控的 35 家公司**,直接从
+  各家 ATS 接口拉取:金融科技(N26、Trade Republic、Solaris、德意志银行……)、
+  消费科技(HelloFresh、GetYourGuide、Flix、FreeNow、Scout24……)、企业软件
+  (Celonis、Contentful、commercetools、KONUX……)、工业制造(Airbus、蒂森克虏伯、
+  蔡司、BorgWarner、Zeppelin、Isar Aerospace)、医药(辉瑞、Moderna、GSK、IQVIA)等。
+
+**不覆盖**:使用 SuccessFactors 或完全自建招聘系统的公司(宝马、奔驰、奥迪、大众、
+西门子、博世、SAP、DHL……)。它们的学生岗偶尔会出现在 Arbeitnow 里,但别指望。
+公司列表一行一家,想盯谁就加谁,欢迎提 PR。
+
+## 按你的情况定制(任何专业、任何德语水平)
+
+所有个人化配置都在 [`profile.yaml`](profile.yaml),不用改代码。默认档案面向
+商科/数据方向,其他情况这样改:
+
+- **你的专业** → `field_keywords`。机械工程:`[mechanical, cad, simulation,
+  automotive, manufacturing]`;市场营销:`[marketing, social media, content, seo,
+  brand]`;金融:`[finance, accounting, controlling, audit, m&a]`。岗位描述中
+  至少命中一个关键词才会保留。
+- **岗位类型** → `role_keywords`。默认覆盖 Werkstudent / intern / Praktikum /
+  thesis;找全职初级岗就换成 `[graduate, junior, entry level, trainee]`。
+- **德语水平** → `german_level: A1..C1`。这是核心功能:LLM 会把每个岗位的*真实*
+  语言要求(常藏在小字里)和你的水平对比。`apply_anyway: true` 时超出你水平的
+  岗位仍会出现,但会扣分并挂红旗,由你自己决定投不投;设为 `false` 则直接过滤。
+- **地点** → 指定城市用 `cities: [berlin, munich]`;全德国用 `cities: []` +
+  `germany_only: true`。
+- **数量与精度** → `min_score`(进日报的分数线),以及仓库 Variables:
+  `MAX_LLM_CALLS`(每日 LLM 预算)、`TOP_N` / `NEAR_MISS_N`(日报条数)。
+- **自我介绍** → `cv_summary`:3-5 行你的背景。LLM 按这段文字给每个岗位打分,
+  写得越具体,排序越准。
+
+改完档案后,如果想让已处理过的存量岗位按新规则重评,把 `data/seen.json` 重置为
+`{"seen": []}` 即可。
+
 ## 签证与工作规则须知 📋
 
 不构成法律建议,但这些是 agent 会标注的规则:

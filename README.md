@@ -110,6 +110,51 @@ The LLM returns structured judgment per job:
 If a job needs more German than your `german_level`, its score is capped at 30 —
 it lands in "near misses" instead of your inbox headline.
 
+## What's covered (job sources)
+
+Two kinds of sources, both public and auth-free:
+
+- **[Arbeitnow](https://www.arbeitnow.com/english-speaking-jobs)** — a Germany-focused
+  English-friendly job board, ~300 live postings, mostly startups and mid-size tech.
+  Companies here change daily; you don't configure anything.
+- **35 monitored companies** in [`data/companies.yaml`](data/companies.yaml), fetched
+  directly from their ATS feeds:
+  fintech (N26, Trade Republic, Solaris, Deutsche Bank...), consumer tech (HelloFresh,
+  GetYourGuide, Flix, FreeNow, Scout24...), B2B software (Celonis, Contentful,
+  commercetools, KONUX...), industrial (Airbus, thyssenkrupp Steel, ZEISS, BorgWarner,
+  Zeppelin, Isar Aerospace), pharma (Pfizer, Moderna, GSK, IQVIA) and more.
+
+**Not covered:** companies on SuccessFactors or fully custom career portals
+(BMW, Mercedes-Benz, Audi, VW, Siemens, Bosch, SAP, DHL...). Their student roles
+occasionally surface via Arbeitnow, but don't rely on it. Every company list entry
+is one line — add your targets and open a PR.
+
+## Make it yours (any major, any German level)
+
+Everything personal lives in [`profile.yaml`](profile.yaml) — no code changes needed.
+The default file targets a business/data student; here is how to adapt it:
+
+- **Your field** → `field_keywords`. Mechanical engineering: `[mechanical, cad,
+  simulation, automotive, manufacturing]`. Marketing: `[marketing, social media,
+  content, seo, brand]`. Finance: `[finance, accounting, controlling, audit, m&a]`.
+  Jobs must mention at least one keyword anywhere in the posting.
+- **Role types** → `role_keywords`. Defaults cover Werkstudent / intern / Praktikum /
+  thesis. Hunting full-time entry roles instead? Use `[graduate, junior, entry level,
+  trainee]`.
+- **Your German level** → `german_level: A1..C1`. This is the core feature: the LLM
+  compares each job's *actual* language requirement (often hidden in fine print)
+  against your level. With `apply_anyway: true` harder-language jobs still appear,
+  penalized and red-flagged, so *you* decide; set it to `false` to hard-filter them.
+- **Location** → `cities: [berlin, munich]` for specific cities, or `cities: []` +
+  `germany_only: true` for all of Germany.
+- **Volume vs. precision** → `min_score` (digest threshold), plus repo variables
+  `MAX_LLM_CALLS` (LLM budget/day), `TOP_N` / `NEAR_MISS_N` (digest length).
+- **Your pitch** → `cv_summary`: 3-5 lines about your background. The LLM scores
+  every job against this text — the more concrete, the better the ranking.
+
+After profile changes, reset `data/seen.json` to `{"seen": []}` if you want the
+already-processed backlog re-evaluated under the new rules.
+
 ## Good to know (visa & work rules) 📋
 
 Not legal advice, but the rules the agent flags:
