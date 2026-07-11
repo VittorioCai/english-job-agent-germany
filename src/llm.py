@@ -16,11 +16,12 @@ DEFAULTS = {
 
 
 def complete(prompt: str, max_tokens: int = 1024) -> str:
-    provider = os.environ.get("LLM_PROVIDER", "anthropic").lower()
+    # Use `or` (not .get defaults): CI often injects unset vars as empty strings.
+    provider = (os.environ.get("LLM_PROVIDER") or "anthropic").lower()
     api_key = os.environ["LLM_API_KEY"]
-    base, model = DEFAULTS.get(provider, (os.environ.get("LLM_BASE_URL", ""), ""))
-    base = os.environ.get("LLM_BASE_URL", base)
-    model = os.environ.get("LLM_MODEL", model)
+    base, model = DEFAULTS.get(provider, ("", ""))
+    base = os.environ.get("LLM_BASE_URL") or base
+    model = os.environ.get("LLM_MODEL") or model
 
     if provider == "anthropic":
         resp = requests.post(

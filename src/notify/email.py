@@ -47,10 +47,10 @@ def send_digest(top: list, near_misses: list, stats: dict):
     msg = MIMEText("".join(parts), "html")
     msg["Subject"] = f"[no-german-required] {len(top)} matches · {stats['total']} jobs scanned"
     msg["From"] = os.environ["SMTP_USER"]
-    msg["To"] = os.environ.get("MAIL_TO", os.environ["SMTP_USER"])
+    msg["To"] = os.environ.get("MAIL_TO") or os.environ["SMTP_USER"]
 
-    host = os.environ.get("SMTP_HOST", "smtp.gmail.com")
-    port = int(os.environ.get("SMTP_PORT", "465"))
+    host = os.environ.get("SMTP_HOST") or "smtp.gmail.com"
+    port = int(os.environ.get("SMTP_PORT") or "465")
     with smtplib.SMTP_SSL(host, port) as s:
         s.login(os.environ["SMTP_USER"], os.environ["SMTP_PASS"])
         s.send_message(msg)
