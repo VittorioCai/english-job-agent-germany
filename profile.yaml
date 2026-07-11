@@ -2,12 +2,14 @@
 
 # What kind of positions? (must appear in the job TITLE)
 role_keywords:
-  - werkstudent
+  - werkstud          # matches Werkstudent AND Werkstudierende
   - working student
   - intern
   - internship
-  - praktikum
-  - praktikant
+  - praktik           # Praktikum / Praktikant / Praktikantin
+  - studentische      # Studentische Hilfskraft
+  - student assistant
+  - thesis            # Bachelor/Master thesis positions
 
 # Your field (must appear somewhere in the posting)
 field_keywords:
@@ -33,7 +35,7 @@ germany_only: true
 german_level: A1
 
 # Minimum LLM match score (0-100) to appear in "Today's matches"
-min_score: 60
+min_score: 50
 
 # Short pitch used by the LLM to judge fit — write it like a 3-line CV.
 cv_summary: |

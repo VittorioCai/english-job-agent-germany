@@ -21,6 +21,9 @@ companies:
   - {name: Staffbase, ats: greenhouse, slug: staffbase}
   - {name: Blacklane, ats: greenhouse, slug: blacklane}
   - {name: SumUp, ats: greenhouse, slug: sumup}
+  - {name: Flix (FlixBus), ats: greenhouse, slug: flix}
+  - {name: FreeNow, ats: greenhouse, slug: freenow}
+  - {name: Isar Aerospace, ats: greenhouse, slug: isaraerospace}
   - {name: Moss, ats: ashby, slug: moss}
   - {name: Tacto, ats: ashby, slug: tacto}
 
