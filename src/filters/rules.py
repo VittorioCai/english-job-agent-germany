@@ -48,6 +48,15 @@ GERMANY_HINTS = {
     "saarbrücken", "saarbruecken", "erfurt", "magdeburg", "lübeck",
     "luebeck", "paderborn", "würzburg", "wuerzburg", "tübingen",
     "tuebingen", "garching", "unterföhring", "walldorf", "bad homburg",
+    # Corporate-HQ towns often listed without "Germany":
+    "pullach", "unterschleißheim", "unterschleissheim", "neubiberg",
+    "ottobrunn", "taufkirchen", "oberkochen", "ratingen", "leverkusen",
+    "ludwigshafen", "gütersloh", "guetersloh", "herzogenaurach",
+    "metzingen", "neckarsulm", "weinheim", "waiblingen", "böblingen",
+    "boeblingen", "sindelfingen", "friedrichshafen", "gaggenau",
+    "leinfelden", "eschborn", "rüsselsheim", "ruesselsheim", "hallbergmoos",
+    "aschheim", "planegg", "martinsried", "penzberg", "biberach",
+    "monheim", "bad neustadt", "veitshöchheim", "kirchheim",
 }
 
 
