@@ -1,5 +1,7 @@
 # no-german-required 🇩🇪🚫🗣️
 
+**English** | [简体中文](README.zh-CN.md)
+
 **A job-hunting agent for international students in Germany who don't speak fluent German.**
 
 It scans English-friendly job sources daily, detects hidden German-language requirements
