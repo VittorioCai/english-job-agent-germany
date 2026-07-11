@@ -11,7 +11,7 @@ import requests
 DEFAULTS = {
     "anthropic": ("https://api.anthropic.com", "claude-haiku-4-5-20251001"),
     "openai": ("https://api.openai.com/v1", "gpt-4o-mini"),
-    "deepseek": ("https://api.deepseek.com", "deepseek-chat"),
+    "deepseek": ("https://api.deepseek.com", "deepseek-v4-flash"),
 }
 
 
