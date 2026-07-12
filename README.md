@@ -1,8 +1,11 @@
-# no-german-required 🇩🇪🚫🗣️
+# English Job Agent for Germany 🇩🇪🔍
 
 **English** | [简体中文](README.zh-CN.md)
 
-**A job-hunting agent for international students in Germany who don't speak fluent German.**
+**No German Required? Check before you apply.**
+
+Finds and ranks English-friendly student jobs in Germany, detects hidden German
+requirements, and sends a daily digest.
 
 It scans English-friendly job sources daily, detects hidden German-language requirements
 that keyword filters miss, scores each job against *your* profile with an LLM, and emails

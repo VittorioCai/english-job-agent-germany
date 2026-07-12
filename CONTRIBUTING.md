@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping improve `no-german-required`. Small, verified changes are the most useful.
+Thanks for helping improve English Job Agent for Germany. Small, verified changes are the most useful.
 
 ## Local setup
 

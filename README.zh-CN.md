@@ -1,8 +1,11 @@
-# no-german-required 🇩🇪🚫🗣️
+# English Job Agent for Germany 🇩🇪🔍
 
 [English](README.md) | **简体中文**
 
-**为德语不流利的在德留学生打造的找工作 agent。**
+**No German Required? Check before you apply.**
+
+为在德国寻找英语友好岗位的留学生自动发现、筛选和排序职位,识别隐藏的德语要求,
+并发送每日摘要。
 
 每天自动扫描英语友好的岗位源,识别关键词过滤器抓不住的隐藏德语要求,用 LLM 按*你的*
 个人档案给每个岗位打分,再把精简日报发到你邮箱。Fork 仓库、填两个 secret 就能用——

@@ -55,7 +55,7 @@ def send_digest(top: list, near_misses: list, stats: dict):
         parts += [_card(job, j) for job, j in near_misses]
 
     msg = MIMEText("".join(parts), "html")
-    msg["Subject"] = f"[no-german-required] {len(top)} matches · {stats['total']} jobs scanned"
+    msg["Subject"] = f"[English Job Agent for Germany] {len(top)} matches · {stats['total']} jobs scanned"
     msg["From"] = os.environ["SMTP_USER"]
     msg["To"] = os.environ.get("MAIL_TO") or os.environ["SMTP_USER"]
 

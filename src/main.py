@@ -1,4 +1,4 @@
-"""no-german-required: daily pipeline.
+"""English Job Agent for Germany: daily pipeline.
 
 fetch → dedup → rule gate → LLM judge → email digest → persist seen ids
 Run: python -m src.main [--dry-run]

@@ -26,6 +26,15 @@ class ReadmeTests(unittest.TestCase):
         self.assertIn("Top 10", english)
         self.assertNotIn("add two secrets", english)
 
+    def test_project_uses_descriptive_brand(self):
+        english = (ROOT / "README.md").read_text(encoding="utf-8")
+        email = (ROOT / "src/notify/email.py").read_text(encoding="utf-8")
+        self.assertTrue(english.startswith("# English Job Agent for Germany"))
+        self.assertIn("No German Required? Check before you apply.", english)
+        self.assertIn("[English Job Agent for Germany]", email)
+        for relative in ("README.md", "README.zh-CN.md", "CONTRIBUTING.md", "LICENSE", "src/main.py", "src/notify/email.py"):
+            self.assertNotIn("no-german-required", (ROOT / relative).read_text(encoding="utf-8"))
+
 
 if __name__ == "__main__":
     unittest.main()
