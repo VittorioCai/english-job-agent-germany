@@ -45,13 +45,32 @@ def judge(job, profile) -> dict:
         title=job.title, company=job.company,
         location=job.location, description=job.description[:5000],
     )
-    try:
-        result = complete_json(prompt)
-        result.setdefault("match_score", 0)
-        result.setdefault("red_flags", [])
-        return result
-    except Exception as e:
-        print(f"[judge] {job.id} failed: {e}")
-        return {"working_language": "unclear", "german_required": "unclear",
-                "evidence": "", "match_score": 0, "red_flags": [f"LLM error: {e}"],
-                "summary": "judgment failed"}
+    error = None
+    for _ in range(2):
+        try:
+            return _validate_judgment(complete_json(prompt))
+        except Exception as e:
+            error = e
+    print(f"[judge] {job.id} failed after retry: {error}")
+    return {"working_language": "unclear", "german_required": "unclear",
+            "evidence": "", "match_score": 0,
+            "red_flags": [f"LLM error: {error}"], "summary": "judgment failed"}
+
+
+def _validate_judgment(result: dict) -> dict:
+    if not isinstance(result, dict):
+        raise ValueError("judgment must be a JSON object")
+    if result.get("working_language") not in {"English", "German", "unclear"}:
+        raise ValueError("invalid working_language")
+    if result.get("german_required") not in {"none", "nice-to-have", "B1-B2", "C1+"}:
+        raise ValueError("invalid german_required")
+    for field in ("evidence", "summary"):
+        if not isinstance(result.get(field), str):
+            raise ValueError(f"{field} must be a string")
+    score = result.get("match_score")
+    if isinstance(score, bool) or not isinstance(score, (int, float)) or not 0 <= score <= 100:
+        raise ValueError("match_score must be a number from 0 to 100")
+    flags = result.get("red_flags")
+    if not isinstance(flags, list) or not all(isinstance(flag, str) for flag in flags):
+        raise ValueError("red_flags must be a list of strings")
+    return result

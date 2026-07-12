@@ -107,8 +107,9 @@ The LLM returns structured judgment per job:
 }
 ```
 
-If a job needs more German than your `german_level`, its score is capped at 30 —
-it lands in "near misses" instead of your inbox headline.
+If a job needs more German than your `german_level`, the LLM subtracts 10-20 points
+and adds a clear red flag. Strong matches remain visible so you can decide whether
+the language stretch is worth applying for.
 
 ## What's covered (job sources)
 

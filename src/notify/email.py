@@ -1,12 +1,14 @@
 """Daily digest via SMTP (Gmail app password works out of the box)."""
 import os
 import smtplib
+from html import escape
 from email.mime.text import MIMEText
+from urllib.parse import urlparse
 
 CARD = """
 <div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:12px 0;font-family:sans-serif">
   <div style="font-size:16px;font-weight:bold">
-    <a href="{url}" style="color:#1a73e8;text-decoration:none">{title}</a>
+    {title}
     <span style="float:right;color:{score_color}">{score}/100</span>
   </div>
   <div style="color:#555;margin:4px 0">{company} · {location} · working language: {lang} · German needed: {german}</div>
@@ -21,13 +23,20 @@ def _card(job, j):
     flags = ""
     if j["red_flags"]:
         flags = ('<div style="color:#c5221f;font-size:13px;margin-top:4px">⚠ '
-                 + " · ".join(j["red_flags"]) + "</div>")
+                 + " · ".join(escape(str(flag)) for flag in j["red_flags"]) + "</div>")
+    parsed = urlparse(job.url)
+    safe_url = escape(job.url, quote=True) if parsed.scheme in {"http", "https"} else ""
+    title = escape(job.title)
+    linked_title = (f'<a href="{safe_url}" style="color:#1a73e8;text-decoration:none">'
+                    f"{title}</a>") if safe_url else title
     return CARD.format(
-        url=job.url, title=job.title, score=score,
+        url=safe_url, title=linked_title, score=score,
         score_color="#188038" if score >= 70 else "#e37400",
-        company=job.company, location=job.location,
-        lang=j.get("working_language", "?"), german=j.get("german_required", "?"),
-        summary=j.get("summary", ""), evidence=j.get("evidence", "")[:200], flags=flags,
+        company=escape(job.company), location=escape(job.location),
+        lang=escape(str(j.get("working_language", "?"))),
+        german=escape(str(j.get("german_required", "?"))),
+        summary=escape(str(j.get("summary", ""))),
+        evidence=escape(str(j.get("evidence", ""))[:200]), flags=flags,
     )
 
 

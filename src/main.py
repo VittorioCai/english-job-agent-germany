@@ -59,15 +59,15 @@ def run(dry_run: bool = False):
     print(f"[dedup] {len(fresh)} new of {len(jobs)} ({len(applied)} tracked applications excluded)")
 
     # 3. Rule gate
-    candidates, rejected = [], 0
+    candidates, rejected_ids = [], set()
     for job in fresh:
         verdict, reason = gate(job, profile)
         if verdict == "pass":
             candidates.append(job)
         else:
-            rejected += 1
+            rejected_ids.add(job.id)
     stats["gated"] = len(candidates)
-    print(f"[gate] {len(candidates)} passed, {rejected} rejected")
+    print(f"[gate] {len(candidates)} passed, {len(rejected_ids)} rejected")
 
     if dry_run:
         for job in candidates[:20]:
@@ -84,7 +84,14 @@ def run(dry_run: bool = False):
     top = [(j, r) for j, r in judged if r["match_score"] >= threshold][:TOP_N]
     near = [(j, r) for j, r in judged if 0 < r["match_score"] < threshold][:NEAR_MISS_N]
 
-    # 5. Notify (NOTIFY=email|telegram|both, default email)
+    # 5. Persist before external notifications. Successfully judged jobs should
+    # not consume another paid call if a notification provider is unavailable.
+    seen |= {job.id for job, r in judged
+             if not any(str(f).startswith("LLM error") for f in r.get("red_flags", []))}
+    seen |= rejected_ids
+    save_seen(seen)
+
+    # 6. Notify (NOTIFY=email|telegram|both, default email)
     if top or near:
         channels = os.environ.get("NOTIFY", "email").lower()
         if channels in ("email", "both"):
@@ -96,12 +103,6 @@ def run(dry_run: bool = False):
     else:
         print("[notify] nothing to send today")
 
-    # 6. Persist — only successfully judged jobs count as seen; failed judgments
-    # (e.g. bad API key) and unjudged jobs retry tomorrow.
-    seen |= {job.id for job, r in judged
-             if not any(str(f).startswith("LLM error") for f in r.get("red_flags", []))}
-    seen |= {job.id for job in fresh if gate(job, profile)[0] == "reject"}
-    save_seen(seen)
     print("[done]")
 
 
