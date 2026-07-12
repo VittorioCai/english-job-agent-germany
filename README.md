@@ -6,7 +6,8 @@
 
 It scans English-friendly job sources daily, detects hidden German-language requirements
 that keyword filters miss, scores each job against *your* profile with an LLM, and emails
-you a short digest. Fork it, add two secrets, done — runs free on GitHub Actions.
+you a short digest. Fork it, add your provider and notification secrets, done —
+runs free on GitHub Actions.
 
 ## Why this exists
 
@@ -24,7 +25,7 @@ difference. This agent reads the fine print for you:
   your German level (B1 ≠ zero: "German is a plus" jobs stay in)
 - 📊 **Scored, not dumped** — every match comes with a 0-100 fit score, the working
   language, and red flags (unpaid, enrollment requirements, on-site 5 days…)
-- 📬 **One digest a day** — email or Telegram; top 5 matches plus 3 near-misses so
+- 📬 **One digest a day** — email or Telegram; Top 10 matches plus 3 near-misses so
   you can tune your filters
 - 📋 **Application tracker** — mark jobs as applied/interview/offer and they vanish
   from future digests
@@ -60,7 +61,8 @@ no scraping behind login walls, no ToS violations.
    [`src/notify/telegram.py`](src/notify/telegram.py))
 5. **Test it**: Actions tab → *Daily job scan* → *Run workflow*
 
-Your digest arrives every morning at ~7:00 German time.
+Your digest runs at 06:00 UTC: approximately 07:00 German time in winter and 08:00
+in summer. GitHub Actions schedules can occasionally start a little later.
 
 ### Run locally
 
@@ -100,6 +102,7 @@ The LLM returns structured judgment per job:
 {
   "working_language": "English",
   "german_required": "nice-to-have",
+  "language_confidence": 0.92,
   "evidence": "Our company language is English; German is a plus.",
   "match_score": 85,
   "red_flags": ["requires enrollment for 2+ more semesters"],
@@ -166,6 +169,10 @@ Not legal advice, but the rules the agent flags:
 - Many Werkstudent roles require current enrollment (*Immatrikulationsbescheinigung*)
 
 ## Contributing
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for local setup, tests, and source-adapter
+guidance. Please report security issues privately as described in
+[`SECURITY.md`](SECURITY.md).
 
 The most valuable PR: **add English-friendly companies** to
 [`data/companies.yaml`](data/companies.yaml) — one line each, slug from the company's

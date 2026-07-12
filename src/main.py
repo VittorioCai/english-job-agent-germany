@@ -6,10 +6,12 @@ Run: python -m src.main [--dry-run]
 import json
 import os
 import sys
+from collections import Counter
+from datetime import datetime, timezone
 
 import yaml
 
-from .filters.rules import gate
+from .filters.rules import gate, pre_score
 from .sources.arbeitnow import ArbeitnowSource
 from .sources.ats import ATSSource
 
@@ -28,15 +30,25 @@ def load_yaml(path):
 def load_seen():
     try:
         with open(SEEN_PATH, encoding="utf-8") as f:
-            return set(json.load(f)["seen"])
-    except (FileNotFoundError, json.JSONDecodeError, KeyError):
-        return set()
+            records = json.load(f)["seen"]
+        seen = {}
+        for record in records:
+            if isinstance(record, str):
+                seen[record] = "1970-01-01T00:00:00+00:00"
+            elif isinstance(record, dict) and isinstance(record.get("id"), str) \
+                    and isinstance(record.get("seen_at"), str):
+                seen[record["id"]] = record["seen_at"]
+        return seen
+    except (FileNotFoundError, json.JSONDecodeError, KeyError, TypeError):
+        return {}
 
 
-def save_seen(seen: set):
+def save_seen(seen: dict):
     os.makedirs(os.path.dirname(SEEN_PATH), exist_ok=True)
+    newest = sorted(seen.items(), key=lambda item: item[1])[-20000:]
     with open(SEEN_PATH, "w", encoding="utf-8") as f:
-        json.dump({"seen": sorted(seen)[-20000:]}, f, indent=0)
+        json.dump({"seen": [{"id": job_id, "seen_at": seen_at}
+                            for job_id, seen_at in newest]}, f, indent=0)
 
 
 def run(dry_run: bool = False):
@@ -59,15 +71,18 @@ def run(dry_run: bool = False):
     print(f"[dedup] {len(fresh)} new of {len(jobs)} ({len(applied)} tracked applications excluded)")
 
     # 3. Rule gate
-    candidates, rejected_ids = [], set()
+    candidates, rejected_ids, rejection_reasons = [], set(), Counter()
     for job in fresh:
         verdict, reason = gate(job, profile)
         if verdict == "pass":
             candidates.append(job)
         else:
             rejected_ids.add(job.id)
+            rejection_reasons[reason] += 1
     stats["gated"] = len(candidates)
     print(f"[gate] {len(candidates)} passed, {len(rejected_ids)} rejected")
+    for reason, count in sorted(rejection_reasons.items(), key=lambda item: (-item[1], item[0])):
+        print(f"  REJECT {count:4}  {reason}")
 
     if dry_run:
         for job in candidates[:20]:
@@ -76,6 +91,7 @@ def run(dry_run: bool = False):
 
     # 4. LLM judge (budget-capped)
     from .filters.llm_judge import judge
+    candidates.sort(key=lambda job: pre_score(job, profile), reverse=True)
     judged = [(job, judge(job, profile)) for job in candidates[:MAX_LLM_CALLS]]
     stats["judged"] = len(judged)
     judged.sort(key=lambda x: x[1]["match_score"], reverse=True)
@@ -86,9 +102,12 @@ def run(dry_run: bool = False):
 
     # 5. Persist before external notifications. Successfully judged jobs should
     # not consume another paid call if a notification provider is unavailable.
-    seen |= {job.id for job, r in judged
-             if not any(str(f).startswith("LLM error") for f in r.get("red_flags", []))}
-    seen |= rejected_ids
+    now = datetime.now(timezone.utc).isoformat()
+    for job, result in judged:
+        if not any(str(flag).startswith("LLM error") for flag in result.get("red_flags", [])):
+            seen[job.id] = now
+    for job_id in rejected_ids:
+        seen[job_id] = now
     save_seen(seen)
 
     # 6. Notify (NOTIFY=email|telegram|both, default email)

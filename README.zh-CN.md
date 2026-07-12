@@ -21,7 +21,7 @@
   且理解你的德语水平(B1 ≠ 零基础:"German is a plus" 的岗位会保留)
 - 📊 **打分推荐,不是灌列表** —— 每个匹配岗位附 0-100 匹配分、工作语言判断和
   红旗提示(无薪、注册学籍要求、每周 5 天到岗……)
-- 📬 **每天一份日报** —— 邮件或 Telegram;Top 5 匹配 + 3 个"差一点"的岗位,
+- 📬 **每天一份日报** —— 邮件或 Telegram;Top 10 匹配 + 3 个"差一点"的岗位,
   方便你校准过滤器
 - 📋 **申请追踪** —— 标记为已申请/面试/offer 后,该岗位不再出现在日报里
 - 🆓 **零基础设施** —— GitHub Actions + 你自己的 LLM key
@@ -54,7 +54,8 @@ API**([Arbeitnow](https://www.arbeitnow.com/api)、Greenhouse/Lever/Ashby 公开
    见 [`src/notify/telegram.py`](src/notify/telegram.py))
 5. **测试**:Actions 页 → *Daily job scan* → *Run workflow*
 
-之后每天早上 ~7 点(德国时间)日报准时送达。
+任务每天 06:00 UTC 运行:德国冬令时约 07:00、夏令时约 08:00。GitHub Actions
+有时会稍晚开始执行。
 
 ### 本地运行
 
@@ -82,9 +83,9 @@ GitHub Actions 的运行状态同步。
 ```
 Arbeitnow API ─┐
                ├─→ 去重 ─→ 规则筛选 ─→ LLM 精判 ─→ 日报推送
-ATS 公开接口 ──┘  (seen.json)  (免费)    (≤25 次调用)  (Top 5 + 差一点的)
+ATS 公开接口 ──┘  (seen.json)  (免费)    (≤25 次调用)  (Top 10 + 差一点的)
 (Greenhouse/Ashby,
- 16 家已验证的德国科技公司)
+ 35 家已验证的德国公司)
 ```
 
 LLM 对每个岗位输出结构化判断:
@@ -93,6 +94,7 @@ LLM 对每个岗位输出结构化判断:
 {
   "working_language": "English",
   "german_required": "nice-to-have",
+  "language_confidence": 0.92,
   "evidence": "Our company language is English; German is a plus.",
   "match_score": 85,
   "red_flags": ["要求剩余注册学期 ≥2 个"],
@@ -154,6 +156,9 @@ LLM 对每个岗位输出结构化判断:
 - 许多 Werkstudent 岗位要求在读注册证明(*Immatrikulationsbescheinigung*)
 
 ## 参与贡献
+
+本地配置、测试和数据源适配说明见 [`CONTRIBUTING.md`](CONTRIBUTING.md)。安全问题
+请按 [`SECURITY.md`](SECURITY.md) 中的方式私下报告。
 
 最有价值的 PR:向 [`data/companies.yaml`](data/companies.yaml) **添加英语友好的
 公司**——每家一行,slug 从公司招聘页 URL 获取(提交前请先验证 API 有响应)。

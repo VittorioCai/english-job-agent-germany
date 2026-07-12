@@ -14,6 +14,18 @@ class ReadmeTests(unittest.TestCase):
         self.assertNotIn("score is capped at 30", english)
         self.assertNotIn("限制在 30", chinese)
 
+    def test_workflow_serializes_scans(self):
+        workflow = (ROOT / ".github/workflows/daily.yml").read_text(encoding="utf-8")
+        self.assertIn("concurrency:", workflow)
+        self.assertIn("cancel-in-progress: false", workflow)
+
+    def test_community_documents_and_current_defaults_are_documented(self):
+        english = (ROOT / "README.md").read_text(encoding="utf-8")
+        self.assertTrue((ROOT / "CONTRIBUTING.md").exists())
+        self.assertTrue((ROOT / "SECURITY.md").exists())
+        self.assertIn("Top 10", english)
+        self.assertNotIn("add two secrets", english)
+
 
 if __name__ == "__main__":
     unittest.main()

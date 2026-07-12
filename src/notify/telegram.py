@@ -25,7 +25,8 @@ def _card(job, j) -> str:
     return (
         f"<b>{j['match_score']}/100</b> · {linked_title}\n"
         f"{_esc(job.company)} · {_esc(job.location)} · "
-        f"lang: {_esc(str(j.get('working_language', '?')))} · "
+        f"lang: {_esc(str(j.get('working_language', '?')))} "
+        f"({round(float(j.get('language_confidence', 0)) * 100)}% confidence) · "
         f"German: {_esc(str(j.get('german_required', '?')))}\n"
         f"{_esc(j.get('summary', ''))}{flags}"
     )

@@ -13,6 +13,7 @@ Analyze this job posting and answer in strict JSON (no markdown, no commentary):
 {{
   "working_language": "English" | "German" | "unclear",
   "german_required": "none" | "nice-to-have" | "B1-B2" | "C1+",
+  "language_confidence": <0.0-1.0, confidence in the language judgment>,
   "evidence": "<short quote from the posting supporting your language judgment>",
   "match_score": <0-100, fit with the profile>,
   "red_flags": ["<e.g. requires enrollment ≥2 semesters, on-site 5 days, unpaid>"],
@@ -53,7 +54,7 @@ def judge(job, profile) -> dict:
             error = e
     print(f"[judge] {job.id} failed after retry: {error}")
     return {"working_language": "unclear", "german_required": "unclear",
-            "evidence": "", "match_score": 0,
+            "language_confidence": 0, "evidence": "", "match_score": 0,
             "red_flags": [f"LLM error: {error}"], "summary": "judgment failed"}
 
 
@@ -73,4 +74,8 @@ def _validate_judgment(result: dict) -> dict:
     flags = result.get("red_flags")
     if not isinstance(flags, list) or not all(isinstance(flag, str) for flag in flags):
         raise ValueError("red_flags must be a list of strings")
+    confidence = result.get("language_confidence")
+    if isinstance(confidence, bool) or not isinstance(confidence, (int, float)) \
+            or not 0 <= confidence <= 1:
+        raise ValueError("language_confidence must be a number from 0 to 1")
     return result

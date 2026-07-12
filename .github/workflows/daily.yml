@@ -5,6 +5,10 @@ on:
     - cron: "0 6 * * *"   # 06:00 UTC ≈ 07:00/08:00 German time
   workflow_dispatch: {}     # manual trigger for testing
 
+concurrency:
+  group: daily-job-scan
+  cancel-in-progress: false
+
 permissions:
   contents: write           # to persist data/seen.json
 

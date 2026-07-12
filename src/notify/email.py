@@ -11,7 +11,7 @@ CARD = """
     {title}
     <span style="float:right;color:{score_color}">{score}/100</span>
   </div>
-  <div style="color:#555;margin:4px 0">{company} · {location} · working language: {lang} · German needed: {german}</div>
+  <div style="color:#555;margin:4px 0">{company} · {location} · working language: {lang} ({confidence}% confidence) · German needed: {german}</div>
   <div style="margin:6px 0">{summary}</div>
   <div style="color:#888;font-size:13px">Evidence: “{evidence}”</div>
   {flags}
@@ -34,6 +34,7 @@ def _card(job, j):
         score_color="#188038" if score >= 70 else "#e37400",
         company=escape(job.company), location=escape(job.location),
         lang=escape(str(j.get("working_language", "?"))),
+        confidence=round(float(j.get("language_confidence", 0)) * 100),
         german=escape(str(j.get("german_required", "?"))),
         summary=escape(str(j.get("summary", ""))),
         evidence=escape(str(j.get("evidence", ""))[:200]), flags=flags,
