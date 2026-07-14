@@ -2,7 +2,8 @@ name: Daily job scan
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # 06:00 UTC ≈ 07:00/08:00 German time
+    - cron: "20 11 * * *"
+      timezone: "Europe/Berlin"  # after most morning postings; avoids top-of-hour load
   workflow_dispatch: {}     # manual trigger for testing
 
 concurrency:

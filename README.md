@@ -70,8 +70,9 @@ no scraping behind login walls, no ToS violations.
    `COMPANY_INTEL_TTL_DAYS` (default 30) controls cache refreshes.
 5. **Test it**: Actions tab → *Daily job scan* → *Run workflow*
 
-Your digest runs at 06:00 UTC: approximately 07:00 German time in winter and 08:00
-in summer. GitHub Actions schedules can occasionally start a little later.
+The scan starts at 11:20 Europe/Berlin, after most morning postings are live. A
+normal run sends the digest around 11:25–11:35, although GitHub Actions schedules
+can still be delayed.
 
 ### Run locally
 

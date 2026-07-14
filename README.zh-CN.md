@@ -61,8 +61,8 @@ Workday、Personio、SmartRecruiters、Recruitee)——
    中预留,`COMPANY_INTEL_TTL_DAYS`(默认 30)控制缓存刷新周期。
 5. **测试**:Actions 页 → *Daily job scan* → *Run workflow*
 
-任务每天 06:00 UTC 运行:德国冬令时约 07:00、夏令时约 08:00。GitHub Actions
-有时会稍晚开始执行。
+扫描每天 11:20 Europe/Berlin 开始,覆盖大多数上午发布的岗位。正常约
+11:25–11:35 收到邮件,但 GitHub Actions 仍可能延迟。
 
 ### 本地运行
 

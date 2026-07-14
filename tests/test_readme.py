@@ -20,6 +20,17 @@ class ReadmeTests(unittest.TestCase):
         self.assertIn("concurrency:", workflow)
         self.assertIn("cancel-in-progress: false", workflow)
 
+    def test_schedule_runs_after_morning_posting_window_in_berlin_time(self):
+        workflow = (ROOT / ".github/workflows/daily.yml").read_text(encoding="utf-8")
+        english = (ROOT / "README.md").read_text(encoding="utf-8")
+        chinese = (ROOT / "README.zh-CN.md").read_text(encoding="utf-8")
+        self.assertIn('cron: "20 11 * * *"', workflow)
+        self.assertIn('timezone: "Europe/Berlin"', workflow)
+        self.assertIn("11:20 Europe/Berlin", english)
+        self.assertIn("11:20 Europe/Berlin", chinese)
+        self.assertNotIn("06:00 UTC", english)
+        self.assertNotIn("06:00 UTC", chinese)
+
     def test_optional_agents_are_documented_and_persisted_safely(self):
         english = (ROOT / "README.md").read_text(encoding="utf-8")
         chinese = (ROOT / "README.zh-CN.md").read_text(encoding="utf-8")
