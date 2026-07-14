@@ -34,6 +34,12 @@ class EmptySource(Source):
 
 
 class MainTests(unittest.TestCase):
+    def test_llm_budgets_reserve_intel_within_total_cap(self):
+        self.assertEqual(main._llm_budgets(25, False, 3), (25, 0))
+        self.assertEqual(main._llm_budgets(25, True, 3), (22, 3))
+        self.assertEqual(main._llm_budgets(2, True, 5), (0, 2))
+        self.assertEqual(main._llm_budgets(-1, True, 3), (0, 0))
+
     def test_load_seen_accepts_legacy_and_timestamped_records(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / "seen.json"

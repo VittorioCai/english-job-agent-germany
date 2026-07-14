@@ -23,9 +23,20 @@ from .sources.smartrecruiters import SmartRecruitersSource
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SEEN_PATH = os.path.join(ROOT, "data", "seen.json")
 MAX_LLM_CALLS = int(os.environ.get("MAX_LLM_CALLS") or "25")
+MAX_INTEL_CALLS = int(os.environ.get("MAX_INTEL_CALLS") or "3")
 TOP_N = int(os.environ.get("TOP_N") or "10")
 NEAR_MISS_N = int(os.environ.get("NEAR_MISS_N") or "3")
 TRACKING_PARAMS = {"source", "ref", "referrer", "gh_src", "lever-source"}
+
+
+def _env_flag(name: str) -> bool:
+    return (os.environ.get(name) or "").strip().lower() in {"1", "true", "yes", "on"}
+
+
+def _llm_budgets(total: int, intel_enabled: bool, intel_max: int) -> tuple[int, int]:
+    total = max(total, 0)
+    intel = min(max(intel_max, 0), total) if intel_enabled else 0
+    return total - intel, intel
 
 
 def load_yaml(path):
@@ -158,7 +169,9 @@ def run(dry_run: bool = False):
     # 4. LLM judge (budget-capped)
     from .filters.llm_judge import judge
     candidates.sort(key=lambda job: pre_score(job, profile), reverse=True)
-    judged = [(job, judge(job, profile)) for job in candidates[:MAX_LLM_CALLS]]
+    judge_budget, _intel_budget = _llm_budgets(
+        MAX_LLM_CALLS, _env_flag("ENABLE_COMPANY_INTEL"), MAX_INTEL_CALLS)
+    judged = [(job, judge(job, profile)) for job in candidates[:judge_budget]]
     stats["judged"] = len(judged)
     judged.sort(key=lambda x: x[1]["match_score"], reverse=True)
 
