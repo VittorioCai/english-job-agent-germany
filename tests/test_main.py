@@ -84,6 +84,7 @@ class MainTests(unittest.TestCase):
              patch.object(main, "gate", return_value=("pass", "ok")), \
              patch("src.filters.llm_judge.judge", return_value=JUDGMENT), \
              patch.object(main, "save_seen", side_effect=save_seen), \
+             patch.object(main, "save_matches"), \
              patch("src.notify.email.send_digest", side_effect=fail_notification), \
              patch.dict(os.environ, {"NOTIFY": "email"}):
             with self.assertRaisesRegex(RuntimeError, "SMTP unavailable"):
@@ -102,6 +103,9 @@ class MainTests(unittest.TestCase):
             events.append(("intel", max_calls, ttl_days, len(pairs)))
             return 1
 
+        def save_matches(pairs):
+            events.append(("matches", len(pairs)))
+
         def notify(*args):
             events.append(("notify", None))
 
@@ -116,6 +120,7 @@ class MainTests(unittest.TestCase):
              patch.object(main, "gate", return_value=("pass", "ok")), \
              patch("src.filters.llm_judge.judge", return_value=JUDGMENT.copy()), \
              patch.object(main, "save_seen", side_effect=save_seen), \
+             patch.object(main, "save_matches", side_effect=save_matches), \
              patch("src.agents.intel.enrich", side_effect=enrich), \
              patch("src.notify.email.send_digest", side_effect=notify), \
              patch.object(main, "MAX_LLM_CALLS", 2), \
@@ -124,8 +129,9 @@ class MainTests(unittest.TestCase):
             main.run()
 
         self.assertEqual(events[0], ("save", {JOB.id}))
-        self.assertEqual(events[1], ("intel", 1, 30, 1))
-        self.assertEqual(events[2][0], "notify")
+        self.assertEqual(events[1], ("matches", 1))
+        self.assertEqual(events[2], ("intel", 1, 30, 1))
+        self.assertEqual(events[3][0], "notify")
 
     def test_pipeline_prioritizes_candidates_and_reports_rejection_reasons(self):
         weak = Job("weak", "Data Intern", "A", "Berlin", "https://a", "data", "test", country="DE")
@@ -153,7 +159,8 @@ class MainTests(unittest.TestCase):
              patch("src.sources.workday.WorkdaySource", EmptySource), \
              patch.object(main, "gate", side_effect=gate), \
              patch("src.filters.llm_judge.judge", side_effect=judge), \
-             patch.object(main, "save_seen"), patch.object(main, "MAX_LLM_CALLS", 1), \
+             patch.object(main, "save_seen"), patch.object(main, "save_matches"), \
+             patch.object(main, "MAX_LLM_CALLS", 1), \
              redirect_stdout(output):
             main.run()
 

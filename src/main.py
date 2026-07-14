@@ -22,6 +22,7 @@ from .sources.smartrecruiters import SmartRecruitersSource
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SEEN_PATH = os.path.join(ROOT, "data", "seen.json")
+MATCHES_PATH = os.path.join(ROOT, "data", "matches.json")
 MAX_LLM_CALLS = int(os.environ.get("MAX_LLM_CALLS") or "25")
 MAX_INTEL_CALLS = int(os.environ.get("MAX_INTEL_CALLS") or "3")
 COMPANY_INTEL_TTL_DAYS = int(os.environ.get("COMPANY_INTEL_TTL_DAYS") or "30")
@@ -67,6 +68,34 @@ def save_seen(seen: dict):
     with open(SEEN_PATH, "w", encoding="utf-8") as f:
         json.dump({"seen": [{"id": job_id, "seen_at": seen_at}
                             for job_id, seen_at in newest]}, f, indent=0)
+
+
+def save_matches(pairs: list, path: str = None, now: datetime = None):
+    """Keep recent digest jobs for the manual cover-letter CLI."""
+    path = path or MATCHES_PATH
+    try:
+        with open(path, encoding="utf-8") as f:
+            matches = json.load(f)
+        if not isinstance(matches, dict):
+            matches = {}
+    except (FileNotFoundError, json.JSONDecodeError):
+        matches = {}
+
+    saved_at = (now or datetime.now(timezone.utc)).isoformat()
+    for job, result in pairs:
+        matches[job.url] = {
+            "title": job.title,
+            "company": job.company,
+            "score": result["match_score"],
+            "saved_at": saved_at,
+            "description": job.description[:4000],
+        }
+    newest = sorted(matches.items(), key=lambda item: str(item[1].get("saved_at", "")))[-200:]
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    temporary = f"{path}.tmp"
+    with open(temporary, "w", encoding="utf-8") as f:
+        json.dump(dict(newest), f, indent=1, ensure_ascii=False)
+    os.replace(temporary, path)
 
 
 def _canonical_url(url: str) -> str:
@@ -189,6 +218,7 @@ def run(dry_run: bool = False):
     for job_id in rejected_ids:
         seen[job_id] = now
     save_seen(seen)
+    save_matches(top + near)
 
     # Optional company context shares the same total LLM budget and runs only
     # after paid judgment progress is safely persisted.
