@@ -92,6 +92,41 @@ class MainTests(unittest.TestCase):
         self.assertEqual(set(events[0][1]), {JOB.id})
         self.assertEqual(events[1][0], "notify")
 
+    def test_opt_in_intel_runs_after_state_save_and_before_notification(self):
+        events = []
+
+        def save_seen(seen):
+            events.append(("save", set(seen)))
+
+        def enrich(pairs, max_calls, ttl_days):
+            events.append(("intel", max_calls, ttl_days, len(pairs)))
+            return 1
+
+        def notify(*args):
+            events.append(("notify", None))
+
+        profile = {"min_score": 30}
+        companies = {"companies": []}
+        with patch.object(main, "load_yaml", side_effect=[profile, companies]), \
+             patch.object(main, "load_seen", return_value={}), \
+             patch("src.track.tracked_urls", return_value=set()), \
+             patch.object(main, "ArbeitnowSource", Source), \
+             patch.object(main, "ATSSource", Source), \
+             patch("src.sources.workday.WorkdaySource", Source), \
+             patch.object(main, "gate", return_value=("pass", "ok")), \
+             patch("src.filters.llm_judge.judge", return_value=JUDGMENT.copy()), \
+             patch.object(main, "save_seen", side_effect=save_seen), \
+             patch("src.agents.intel.enrich", side_effect=enrich), \
+             patch("src.notify.email.send_digest", side_effect=notify), \
+             patch.object(main, "MAX_LLM_CALLS", 2), \
+             patch.object(main, "MAX_INTEL_CALLS", 1), \
+             patch.dict(os.environ, {"ENABLE_COMPANY_INTEL": "true", "NOTIFY": "email"}):
+            main.run()
+
+        self.assertEqual(events[0], ("save", {JOB.id}))
+        self.assertEqual(events[1], ("intel", 1, 30, 1))
+        self.assertEqual(events[2][0], "notify")
+
     def test_pipeline_prioritizes_candidates_and_reports_rejection_reasons(self):
         weak = Job("weak", "Data Intern", "A", "Berlin", "https://a", "data", "test", country="DE")
         strong = Job("strong", "Data Analytics Intern", "B", "Berlin", "https://b",

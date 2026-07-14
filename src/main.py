@@ -24,6 +24,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SEEN_PATH = os.path.join(ROOT, "data", "seen.json")
 MAX_LLM_CALLS = int(os.environ.get("MAX_LLM_CALLS") or "25")
 MAX_INTEL_CALLS = int(os.environ.get("MAX_INTEL_CALLS") or "3")
+COMPANY_INTEL_TTL_DAYS = int(os.environ.get("COMPANY_INTEL_TTL_DAYS") or "30")
 TOP_N = int(os.environ.get("TOP_N") or "10")
 NEAR_MISS_N = int(os.environ.get("NEAR_MISS_N") or "3")
 TRACKING_PARAMS = {"source", "ref", "referrer", "gh_src", "lever-source"}
@@ -169,7 +170,7 @@ def run(dry_run: bool = False):
     # 4. LLM judge (budget-capped)
     from .filters.llm_judge import judge
     candidates.sort(key=lambda job: pre_score(job, profile), reverse=True)
-    judge_budget, _intel_budget = _llm_budgets(
+    judge_budget, intel_budget = _llm_budgets(
         MAX_LLM_CALLS, _env_flag("ENABLE_COMPANY_INTEL"), MAX_INTEL_CALLS)
     judged = [(job, judge(job, profile)) for job in candidates[:judge_budget]]
     stats["judged"] = len(judged)
@@ -188,6 +189,12 @@ def run(dry_run: bool = False):
     for job_id in rejected_ids:
         seen[job_id] = now
     save_seen(seen)
+
+    # Optional company context shares the same total LLM budget and runs only
+    # after paid judgment progress is safely persisted.
+    if top and intel_budget:
+        from .agents.intel import enrich
+        enrich(top, max_calls=intel_budget, ttl_days=COMPANY_INTEL_TTL_DAYS)
 
     # 6. Notify (NOTIFY=email|telegram|both, default email)
     if top or near:
