@@ -20,12 +20,31 @@ class ReadmeTests(unittest.TestCase):
         self.assertIn("concurrency:", workflow)
         self.assertIn("cancel-in-progress: false", workflow)
 
+    def test_optional_agents_are_documented_and_persisted_safely(self):
+        english = (ROOT / "README.md").read_text(encoding="utf-8")
+        chinese = (ROOT / "README.zh-CN.md").read_text(encoding="utf-8")
+        workflow = (ROOT / ".github/workflows/daily.yml").read_text(encoding="utf-8")
+        env_example = (ROOT / ".env.example").read_text(encoding="utf-8")
+        for name in ("ENABLE_COMPANY_INTEL", "MAX_INTEL_CALLS", "COMPANY_INTEL_TTL_DAYS"):
+            self.assertIn(name, english)
+            self.assertIn(name, chinese)
+            self.assertIn(name, workflow)
+            self.assertIn(name, env_example)
+        self.assertIn("python -m src.agents.draft --list", english)
+        self.assertIn("python -m src.agents.draft --list", chinese)
+        self.assertIn("disabled by default", english)
+        self.assertIn("默认关闭", chinese)
+        self.assertIn("if: always()", workflow)
+        self.assertIn("data/matches.json data/company_intel.json", workflow)
+
     def test_community_documents_and_current_defaults_are_documented(self):
         english = (ROOT / "README.md").read_text(encoding="utf-8")
+        chinese = (ROOT / "README.zh-CN.md").read_text(encoding="utf-8")
         self.assertTrue((ROOT / "CONTRIBUTING.md").exists())
         self.assertTrue((ROOT / "SECURITY.md").exists())
         self.assertIn("Top 10", english)
         self.assertNotIn("add two secrets", english)
+        self.assertNotIn("填两个 secret", chinese)
 
     def test_project_uses_descriptive_brand(self):
         english = (ROOT / "README.md").read_text(encoding="utf-8")

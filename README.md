@@ -62,7 +62,10 @@ no scraping behind login walls, no ToS violations.
    `MAX_LLM_CALLS` (default 25/day to cap costs), `NOTIFY`
    (`email` default / `telegram` / `both` — Telegram needs
    `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` secrets, see
-   [`src/notify/telegram.py`](src/notify/telegram.py))
+   [`src/notify/telegram.py`](src/notify/telegram.py)). Optional company intel is
+   disabled by default; enable it with `ENABLE_COMPANY_INTEL=true`. Its
+   `MAX_INTEL_CALLS` (default 3) is reserved inside the same total budget, and
+   `COMPANY_INTEL_TTL_DAYS` (default 30) controls cache refreshes.
 5. **Test it**: Actions tab → *Daily job scan* → *Run workflow*
 
 Your digest runs at 06:00 UTC: approximately 07:00 German time in winter and 08:00
@@ -88,6 +91,26 @@ python -m src.track stats
 
 Tracked jobs never reappear in your digest. Commit `data/applications.json`
 to sync state with the GitHub Actions runs.
+
+### Optional research and drafting helpers
+
+Company intel adds a short, cached company briefing to email cards. It is **disabled by
+default** because it uses extra LLM calls. With the defaults, enabling it reserves up to
+3 of the daily 25 calls for intel, leaving 22 for job judgments; cached briefings use no
+call. Treat the summary as orientation and verify important facts before an interview.
+
+The cover-letter helper is manual and local. It drafts but never applies or sends:
+
+```bash
+python -m src.agents.draft --list
+python -m src.agents.draft <job-url>       # English draft
+python -m src.agents.draft <job-url> --de  # simple German draft
+```
+
+Drafts are saved under the gitignored `drafts/` directory and never overwrite an
+existing file. The selected posting and your `cv_summary` are sent to your configured
+LLM provider only when you run this command. `data/matches.json` stores job data, not
+your applicant profile. These are focused helpers, not autonomous application agents.
 
 ## How it works
 
@@ -157,7 +180,7 @@ The default file targets a business/data student; here is how to adapt it:
 - **Location** → `cities: [berlin, munich]` for specific cities, or `cities: []` +
   `germany_only: true` for all of Germany.
 - **Volume vs. precision** → `min_score` (digest threshold), plus repo variables
-  `MAX_LLM_CALLS` (LLM budget/day), `TOP_N` / `NEAR_MISS_N` (digest length).
+  `MAX_LLM_CALLS` (total LLM budget/day), `TOP_N` / `NEAR_MISS_N` (digest length).
 - **Your pitch** → `cv_summary`: 3-5 lines about your background. The LLM scores
   every job against this text — the more concrete, the better the ranking.
 

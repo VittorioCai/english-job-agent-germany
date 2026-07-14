@@ -38,6 +38,9 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           MAIL_TO: ${{ vars.MAIL_TO }}
           MAX_LLM_CALLS: ${{ vars.MAX_LLM_CALLS || '25' }}
+          ENABLE_COMPANY_INTEL: ${{ vars.ENABLE_COMPANY_INTEL || 'false' }}
+          MAX_INTEL_CALLS: ${{ vars.MAX_INTEL_CALLS || '3' }}
+          COMPANY_INTEL_TTL_DAYS: ${{ vars.COMPANY_INTEL_TTL_DAYS || '30' }}
           TOP_N: ${{ vars.TOP_N || '10' }}
           NEAR_MISS_N: ${{ vars.NEAR_MISS_N || '3' }}
           NOTIFY: ${{ vars.NOTIFY || 'email' }}
@@ -45,9 +48,10 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python -m src.main
 
-      - name: Persist seen jobs
+      - name: Persist scan state
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/seen.json data/applications.json 2>/dev/null || git add data/seen.json
+          git add data/seen.json data/applications.json data/matches.json data/company_intel.json 2>/dev/null || git add data/seen.json
           git diff --cached --quiet || (git commit -m "chore: update seen jobs [skip ci]" && git push)

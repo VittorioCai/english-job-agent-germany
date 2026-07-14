@@ -8,8 +8,8 @@
 并发送每日摘要。
 
 每天自动扫描英语友好的岗位源,识别关键词过滤器抓不住的隐藏德语要求,用 LLM 按*你的*
-个人档案给每个岗位打分,再把精简日报发到你邮箱。Fork 仓库、填两个 secret 就能用——
-跑在 GitHub Actions 上,完全免费。
+个人档案给每个岗位打分,再把精简日报发到你邮箱。Fork 仓库、配置模型和通知密钥即可——
+运行在 GitHub Actions 上,不需要单独服务器。
 
 ## 为什么做这个项目
 
@@ -55,7 +55,9 @@ Workday、Personio、SmartRecruiters、Recruitee)——
    `openai` / `deepseek`)、`LLM_MODEL`、`MAIL_TO`、`MAX_LLM_CALLS`(默认每天
    25 次以控制成本)、`NOTIFY`(默认 `email` / `telegram` / `both` —— Telegram
    需要额外配置 `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` secrets,
-   见 [`src/notify/telegram.py`](src/notify/telegram.py))
+   见 [`src/notify/telegram.py`](src/notify/telegram.py))。公司情报默认关闭,设置
+   `ENABLE_COMPANY_INTEL=true` 后启用;`MAX_INTEL_CALLS`(默认 3)从同一个总预算
+   中预留,`COMPANY_INTEL_TTL_DAYS`(默认 30)控制缓存刷新周期。
 5. **测试**:Actions 页 → *Daily job scan* → *Run workflow*
 
 任务每天 06:00 UTC 运行:德国冬令时约 07:00、夏令时约 08:00。GitHub Actions
@@ -81,6 +83,24 @@ python -m src.track stats
 
 已追踪的岗位不会再出现在日报里。提交 `data/applications.json` 可与
 GitHub Actions 的运行状态同步。
+
+### 可选的公司情报与求职信助手
+
+公司情报会在邮件卡片中增加一段简短的公司背景。它**默认关闭**,因为生成新情报会
+消耗 LLM 调用。按默认配置启用后,每天 25 次总预算中最多预留 3 次用于公司情报,
+其余 22 次用于岗位判断;命中缓存不消耗调用。重要事实应在面试前自行核实。
+
+求职信助手只在本地手动运行,只生成草稿,不会自动申请或发送:
+
+```bash
+python -m src.agents.draft --list
+python -m src.agents.draft <岗位链接>       # 英文草稿
+python -m src.agents.draft <岗位链接> --de  # 简单德语草稿
+```
+
+草稿保存在 Git 忽略的 `drafts/` 目录,不会覆盖已有文件。只有手动执行命令时,
+所选岗位和 `cv_summary` 才会发送给你配置的 LLM 提供商。`data/matches.json`
+只保存岗位信息,不保存个人档案。这两个功能是专用助手,不是自动投递的自治 agent。
 
 ## 工作原理
 
@@ -144,7 +164,7 @@ LLM 对每个岗位输出结构化判断:
 - **地点** → 指定城市用 `cities: [berlin, munich]`;全德国用 `cities: []` +
   `germany_only: true`。
 - **数量与精度** → `min_score`(进日报的分数线),以及仓库 Variables:
-  `MAX_LLM_CALLS`(每日 LLM 预算)、`TOP_N` / `NEAR_MISS_N`(日报条数)。
+  `MAX_LLM_CALLS`(每日 LLM 总预算)、`TOP_N` / `NEAR_MISS_N`(日报条数)。
 - **自我介绍** → `cv_summary`:3-5 行你的背景。LLM 按这段文字给每个岗位打分,
   写得越具体,排序越准。
 
