@@ -37,5 +37,44 @@
     "Show your skill in translating business rules into precise decision tables that engineers can implement directly."
    ]
   }
+ },
+ "UnternehmerTUM": {
+  "updated_at": "2026-07-16T11:17:50.892716+00:00",
+  "intel": {
+   "what": "UnternehmerTUM is an innovation and entrepreneurship center that supports startups and established companies in developing new solutions.",
+   "scale": "unknown",
+   "language_culture": "English",
+   "talking_points": [
+    "Experience with AI tools (e.g., Claude, ChatGPT) and automation platforms (e.g., Make, Notion, Zapier)",
+    "Interest in applying AI to entrepreneurship education and operational efficiency",
+    "Practical, execution-oriented approach with structured independence"
+   ]
+  }
+ },
+ "Airbus": {
+  "updated_at": "2026-07-16T11:17:50.892716+00:00",
+  "intel": {
+   "what": "Airbus is a European multinational aerospace corporation that designs, manufactures, and sells commercial aircraft, helicopters, and defense systems.",
+   "scale": "large multinational corporation",
+   "language_culture": "German (job posting is in German; international environment implied)",
+   "talking_points": [
+    "Hands-on support in the A320 final assembly line, a core product of Airbus",
+    "Involvement in process optimization, data analysis, and digital tool implementation",
+    "Collaboration with multifunctional teams in a structured student role with flexible hours"
+   ]
+  }
+ },
+ "b2venture GmbH": {
+  "updated_at": "2026-07-16T11:17:50.892716+00:00",
+  "intel": {
+   "what": "b2venture is a European venture capital firm founded in 2000 that makes early-stage and stage-agnostic investments, deploying over €100 million per year.",
+   "scale": "mid-sized VC firm (€100M+ annual deployment, multiple offices)",
+   "language_culture": "English (job posting in English, Berlin office)",
+   "talking_points": [
+    "Deepen your venture capital experience with active deal sourcing, screening, and due diligence across Europe.",
+    "Drive workflow automation and AI integration, leveraging LLMs and no-code platforms to improve investment processes.",
+    "Join a firm with a strong angel investor community and a track record backing companies like DeepL, Facebook, and SumUp."
+   ]
+  }
  }
 }
