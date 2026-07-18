@@ -89,5 +89,18 @@
     "Mention your fluency in English and working knowledge of German, as both are required for the role."
    ]
   }
+ },
+ "TOOLPLACE GmbH": {
+  "updated_at": "2026-07-18T10:46:15.443206+00:00",
+  "intel": {
+   "what": "TOOLPLACE GmbH operates a B2B platform that digitizes quotation, calculation, and procurement processes for the plastic injection molding and tool-making industry.",
+   "scale": "unknown",
+   "language_culture": "German",
+   "talking_points": [
+    "Opportunity to design AI-first automation for core business processes, from sales funnel to project data.",
+    "Hands-on work with no/low-code tools like Make, Zapier, n8n and scripting in Python, directly impacting company efficiency.",
+    "Close collaboration with founders and product team, with potential to derive a master's thesis topic from the work."
+   ]
+  }
  }
 }
