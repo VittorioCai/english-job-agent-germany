@@ -167,5 +167,18 @@
     "Cross-departmental collaboration with procurement, production, IT, and sales"
    ]
   }
+ },
+ "Mindskills": {
+  "updated_at": "2026-07-26T10:56:56.533796+00:00",
+  "intel": {
+   "what": "Mindskills helps people quit negative habits and replace them with positive ones using innovative psychological methods and digital coaching.",
+   "scale": "startup (early stage, B2B/B2C)",
+   "language_culture": "German (job posting in German, company mission in German)",
+   "talking_points": [
+    "Strong Python skills for data processing (Pandas) and API integration",
+    "Experience with web scraping, browser automation, and AI agent development (LLM)",
+    "Opportunity for independent work and direct insight into building modern AI-driven coaching tools"
+   ]
+  }
  }
 }
