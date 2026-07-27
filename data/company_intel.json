@@ -180,5 +180,44 @@
     "Opportunity for independent work and direct insight into building modern AI-driven coaching tools"
    ]
   }
+ },
+ "Gus Germany": {
+  "updated_at": "2026-07-27T12:42:37.808097+00:00",
+  "intel": {
+   "what": "Gus Germany is a real estate technology company rolling out an AI-driven software platform for portfolio management.",
+   "scale": "unknown",
+   "language_culture": "unknown",
+   "talking_points": [
+    "Highlight your experience managing large datasets and attention to detail in data migration projects.",
+    "Demonstrate interest in real estate operations and digital transformation.",
+    "Emphasize your ability to learn new software platforms and support user testing and documentation."
+   ]
+  }
+ },
+ "Pacemaker": {
+  "updated_at": "2026-07-27T12:42:37.808097+00:00",
+  "intel": {
+   "what": "Pacemaker develops a Sustainability Management Platform that uses machine learning and large language models to help sustainability managers calculate carbon footprints and make data-driven decisions.",
+   "scale": "unknown",
+   "language_culture": "German (job posting language) and English (explicitly required)",
+   "talking_points": [
+    "Your dual interest in AI/ML and sustainability aligns directly with the company's mission to build LLM-based tools for carbon accounting.",
+    "Hands-on experience with Python, SQL, and ML fundamentals (e.g., model training, evaluation) matches the core responsibilities for data pipelines and modeling.",
+    "Prior work with LLMs (prompting, RAG, embeddings) or sustainability frameworks (GHG Protocol, ecoinvent) would be a strong differentiator."
+   ]
+  }
+ },
+ "Assetmetrix Gmbh": {
+  "updated_at": "2026-07-27T12:42:37.808097+00:00",
+  "intel": {
+   "what": "Assetmetrix GmbH builds and operates AI-powered products for the finance industry.",
+   "scale": "unknown",
+   "language_culture": "English required, German advantageous",
+   "talking_points": [
+    "Hands-on experience with LLM evaluation pipelines and modern AI tools in a production environment",
+    "Work at the intersection of software, data, and AI for real-world financial applications",
+    "Strong emphasis on Python automation, API integration, and data quality for scalable solutions"
+   ]
+  }
  }
 }
