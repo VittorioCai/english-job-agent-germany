@@ -43,9 +43,27 @@ min_score: 30
 
 # Short pitch used by the LLM to judge fit — write it like a 3-line CV.
 cv_summary: |
-  Master in Management & Digital Technology (MMDT) student at TUM.
-  Focus: supply chain management, data analytics, and AI applications in
-  business. Skills: Python, SQL, Excel, data visualization (Tableau/Power BI),
-  basic machine learning. Looking for Werkstudent or internship roles in
-  supply chain analytics, data analysis, business intelligence, or AI —
-  English working environment. Non-EU student visa (140 full days/year).
+  M.Sc. Management & Digital Technology student at TUM seeking internships
+  as the first priority, while remaining open to high-fit working student roles.
+
+  Primary targets: Data Analyst, Business Intelligence, Business Analytics,
+  Reporting, and Controlling. Secondary targets: Supply Chain, Procurement,
+  Logistics, Operations Analytics, and Process Optimization. Also open to
+  Product Analyst or Product Operations roles with substantial analytical work.
+
+  Skills include Python, SQL/PostgreSQL, Excel/VBA, data visualization, and
+  working knowledge of Power BI and Tableau. Built Excel dashboards covering
+  50+ enterprises, identified two recurring cost inefficiencies, and automated
+  payroll calculations that saved more than 10 hours per month. Also developed
+  a supplier and market-price tracking database to support procurement decisions.
+
+  Co-developed a Python data pipeline for approximately 59,000 firm-day news
+  observations and evaluated portfolio performance using Fama-French regressions.
+  Designed a PostgreSQL/pgvector database and user interface for an AI patent-risk
+  screening tool used by non-technical users.
+
+  Prefer internships over working student positions. Prefer the greater Stuttgart,
+  Heilbronn, and Munich areas, including surrounding towns, but
+  consider strong matches anywhere in Germany. German is currently A1. Do not reject
+  an otherwise strong role solely because it lists a higher German requirement; flag
+  the language risk and reduce the score moderately.
