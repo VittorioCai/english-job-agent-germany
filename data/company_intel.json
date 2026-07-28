@@ -219,5 +219,44 @@
     "Strong emphasis on Python automation, API integration, and data quality for scalable solutions"
    ]
   }
+ },
+ "SumUp": {
+  "updated_at": "2026-07-28T11:34:48.308393+00:00",
+  "intel": {
+   "what": "SumUp is a global fintech company that provides payment solutions and point-of-sale systems for small businesses.",
+   "scale": "unknown",
+   "language_culture": "English",
+   "talking_points": [
+    "You have strong analytical skills and experience turning raw data into actionable insights for commercial teams.",
+    "You are eager to work on a real retailer expansion programme launching in 2026, supporting planning and pipeline tracking across European markets.",
+    "You are comfortable using AI tools alongside Excel and Google Slides to improve research, analysis, and business tasks."
+   ]
+  }
+ },
+ "limehome": {
+  "updated_at": "2026-07-28T11:34:48.308393+00:00",
+  "intel": {
+   "what": "limehome is a hospitality company that operates serviced apartments and builds AI tooling for internal teams and guest experience.",
+   "scale": "unknown",
+   "language_culture": "English",
+   "talking_points": [
+    "Your interest in building AI tooling for internal teams and guest experience aligns with our focus on agentic workflows and eval-driven development.",
+    "Your solid programming fundamentals and experience with Python/TypeScript match our tech stack for developer-enablement projects.",
+    "You value outcome-oriented thinking and end-to-end problem solving in a cross-functional, lightweight agile environment."
+   ]
+  }
+ },
+ "Ionos2": {
+  "updated_at": "2026-07-28T11:34:48.308393+00:00",
+  "intel": {
+   "what": "IONOS is a leading European provider of cloud infrastructure, cloud services, and hosting services.",
+   "scale": "large, established enterprise",
+   "language_culture": "English (job posting is in English)",
+   "talking_points": [
+    "Hands-on experience with generative AI tools (e.g., ChatGPT, Claude) for content creation and campaign optimization",
+    "Opportunity to work across the full marketing funnel: content, CRM, and performance marketing",
+    "Test-and-learn culture that values fresh ideas and experimentation in a B2B context"
+   ]
+  }
  }
 }
