@@ -284,5 +284,44 @@
     "Your strong organizational and analytical skills are essential for supporting HR and accounting processes while improving operational efficiency."
    ]
   }
+ },
+ "HelloFresh": {
+  "updated_at": "2026-07-30T11:29:19.289727+00:00",
+  "intel": {
+   "what": "HelloFresh is a global meal-kit delivery service that provides pre-portioned ingredients and recipes to customers.",
+   "scale": "large publicly traded company",
+   "language_culture": "English (fluency required), German (optional plus); working language likely English for international projects",
+   "talking_points": [
+    "Emphasize your analytical skills and comfort with data-driven decision-making for cross-market projects.",
+    "Highlight any experience in operations, supply chain, or project management that shows you can handle strategic initiatives.",
+    "Mention your ability to work flexibly in a dynamic, international environment and communicate across teams."
+   ]
+  }
+ },
+ "Fashion Cloud": {
+  "updated_at": "2026-07-30T11:29:19.289727+00:00",
+  "intel": {
+   "what": "Fashion Cloud is a Hamburg-based B2B software company that provides digital infrastructure for brands and retailers in the fashion industry.",
+   "scale": "~50 employees",
+   "language_culture": "English (required); German is a plus",
+   "talking_points": [
+    "The role offers direct responsibility on a live system migration where your attention to data quality and anomaly detection will be critical.",
+    "You will gain practical exposure to AI-assisted tooling and monitoring workflows, skills valuable beyond this project.",
+    "The position is designed to fit around your lecture schedule with 20 hours/week for 2 months."
+   ]
+  }
+ },
+ "Sunpeak Capital GmbH": {
+  "updated_at": "2026-07-30T11:29:19.289727+00:00",
+  "intel": {
+   "what": "Sunpeak Capital GmbH enables investments in solar energy, battery storage, and charging infrastructure by combining climate protection with financially optimized, tax-efficient structures.",
+   "scale": "unknown",
+   "language_culture": "German",
+   "talking_points": [
+    "Proven experience with AI automation tools (n8n, Zapier, LLM APIs) and scripting in Python aligns directly with the role’s focus on process optimization.",
+    "Strong interest in renewable energy and climate impact, as the company’s mission is to channel capital toward profitably scaling Germany’s energy transition.",
+    "Ability to bridge technical coding skills with business analysis, financial modeling, and HubSpot customer journey management for a versatile student role."
+   ]
+  }
  }
 }
