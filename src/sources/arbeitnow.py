@@ -17,6 +17,16 @@ def _strip_html(text: str) -> str:
     return html.unescape(re.sub(r"\s+", " ", text)).strip()
 
 
+def _string_list(value) -> list[str]:
+    if isinstance(value, dict):
+        values = value.values()
+    elif isinstance(value, list):
+        values = value
+    else:
+        return []
+    return [item for item in values if isinstance(item, str)]
+
+
 class ArbeitnowSource(Source):
     name = "arbeitnow"
 
@@ -42,7 +52,7 @@ class ArbeitnowSource(Source):
                     url=j.get("url", ""),
                     description=_strip_html(j.get("description", ""))[:6000],
                     source=self.name,
-                    tags=j.get("tags", []) + j.get("job_types", []),
+                    tags=_string_list(j.get("tags")) + _string_list(j.get("job_types")),
                     country="DE",  # Arbeitnow is a Germany-focused board
                 ))
             url = (payload.get("links") or {}).get("next")
