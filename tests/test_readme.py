@@ -20,16 +20,20 @@ class ReadmeTests(unittest.TestCase):
         self.assertIn("concurrency:", workflow)
         self.assertIn("cancel-in-progress: false", workflow)
 
-    def test_schedule_runs_after_morning_posting_window_in_berlin_time(self):
+    def test_schedule_and_deepseek_peak_guard_are_documented(self):
         workflow = (ROOT / ".github/workflows/daily.yml").read_text(encoding="utf-8")
         english = (ROOT / "README.md").read_text(encoding="utf-8")
         chinese = (ROOT / "README.zh-CN.md").read_text(encoding="utf-8")
-        self.assertIn('cron: "20 11 * * *"', workflow)
+        self.assertIn('cron: "20 10 * * *"', workflow)
         self.assertIn('timezone: "Europe/Berlin"', workflow)
-        self.assertIn("11:20 Europe/Berlin", english)
-        self.assertIn("11:20 Europe/Berlin", chinese)
-        self.assertNotIn("06:00 UTC", english)
-        self.assertNotIn("06:00 UTC", chinese)
+        self.assertIn("Wait for DeepSeek off-peak pricing", workflow)
+        self.assertIn("scripts/wait_for_deepseek_off_peak.py", workflow)
+        self.assertIn("10:20 Europe/Berlin", english)
+        self.assertIn("10:20 Europe/Berlin", chinese)
+        self.assertIn("09:00–12:00", english)
+        self.assertIn("09:00–12:00", chinese)
+        self.assertIn("no exact delivery time is guaranteed", english)
+        self.assertIn("不保证准确的执行或邮件送达时间", chinese)
 
     def test_optional_agents_are_documented_and_persisted_safely(self):
         english = (ROOT / "README.md").read_text(encoding="utf-8")

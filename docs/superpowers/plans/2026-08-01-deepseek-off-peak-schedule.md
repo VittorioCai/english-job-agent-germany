@@ -261,7 +261,7 @@ Run: `python -m unittest discover -s tests -v`
 
 Expected: all tests pass.
 
-Run: `python -m compileall -q job_agent scripts tests`
+Run: `python -m compileall -q src scripts tests`
 
 Expected: exit code 0.
 

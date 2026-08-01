@@ -2,8 +2,8 @@ name: Daily job scan
 
 on:
   schedule:
-    - cron: "20 11 * * *"
-      timezone: "Europe/Berlin"  # after most morning postings; avoids top-of-hour load
+    - cron: "20 10 * * *"
+      timezone: "Europe/Berlin"  # daily enqueue target; avoids top-of-hour load
   workflow_dispatch: {}     # manual trigger for testing
 
 concurrency:
@@ -29,6 +29,11 @@ jobs:
 
       - name: Run tests
         run: python -m unittest discover -s tests -v
+
+      - name: Wait for DeepSeek off-peak pricing
+        env:
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'anthropic' }}
+        run: python scripts/wait_for_deepseek_off_peak.py
 
       - name: Run pipeline
         env:

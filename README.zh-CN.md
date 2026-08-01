@@ -61,8 +61,10 @@ Workday、Personio、SmartRecruiters、Recruitee)——
    中预留,`COMPANY_INTEL_TTL_DAYS`(默认 30)控制缓存刷新周期。
 5. **测试**:Actions 页 → *Daily job scan* → *Run workflow*
 
-扫描每天 11:20 Europe/Berlin 开始,覆盖大多数上午发布的岗位。正常约
-11:25–11:35 收到邮件,但 GitHub Actions 仍可能延迟。
+GitHub 每天在 10:20 Europe/Berlin 将扫描加入队列。定时工作流可能延迟,
+因此不保证准确的执行或邮件送达时间。当 `LLM_PROVIDER=deepseek` 时,工作流
+将北京时间 09:00–12:00 和 14:00–18:00 视为峰价时段。如果运行在峰段开始,
+会等到北京时间 12:05 或 18:05 再启动流水线;已经处于谷段则立即运行。
 
 ### 本地运行
 

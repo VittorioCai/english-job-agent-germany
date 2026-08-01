@@ -70,9 +70,13 @@ no scraping behind login walls, no ToS violations.
    `COMPANY_INTEL_TTL_DAYS` (default 30) controls cache refreshes.
 5. **Test it**: Actions tab → *Daily job scan* → *Run workflow*
 
-The scan starts at 11:20 Europe/Berlin, after most morning postings are live. A
-normal run sends the digest around 11:25–11:35, although GitHub Actions schedules
-can still be delayed.
+GitHub queues the scan daily at 10:20 Europe/Berlin. Scheduled workflows are
+best-effort, so execution and digest delivery may be delayed;
+no exact delivery time is guaranteed. With `LLM_PROVIDER=deepseek`, the workflow treats
+09:00–12:00 and
+14:00–18:00 Asia/Shanghai as peak-pricing windows. A run that starts in either
+window waits until 12:05 or 18:05 Beijing time before starting the pipeline; a run
+already in an off-peak window starts immediately.
 
 ### Run locally
 
