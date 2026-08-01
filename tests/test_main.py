@@ -41,6 +41,31 @@ class MainTests(unittest.TestCase):
         self.assertEqual(main._llm_budgets(1, True, 5), (1, 0))
         self.assertEqual(main._llm_budgets(-1, True, 3), (0, 0))
 
+    def test_source_failure_does_not_stop_later_sources(self):
+        class BrokenSource(Source):
+            name = "broken"
+
+            def fetch(self):
+                raise RuntimeError("schema changed")
+
+        output = StringIO()
+        with patch.object(main, "load_yaml",
+                          side_effect=[{"min_score": 30}, {"companies": []}]), \
+             patch.object(main, "load_seen", return_value={}), \
+             patch("src.track.tracked_urls", return_value=set()), \
+             patch.object(main, "ATSSource", BrokenSource), \
+             patch.object(main, "ArbeitnowSource", Source), \
+             patch("src.sources.workday.WorkdaySource", EmptySource), \
+             patch.object(main, "gate", return_value=("pass", "ok")), \
+             redirect_stdout(output):
+            try:
+                main.run(dry_run=True)
+            except RuntimeError as error:
+                self.fail(f"pipeline stopped after one source failed: {error}")
+
+        self.assertIn("[source] broken failed: schema changed", output.getvalue())
+        self.assertIn("PASS  Data Intern @ Example (Berlin)", output.getvalue())
+
     def test_judgment_retries_stay_within_actual_call_budget(self):
         jobs = [Job(f"job:{index}", "Data Intern", f"Company {index}", "Berlin",
                     f"https://example.com/{index}", "data", "test", country="DE")

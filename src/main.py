@@ -170,11 +170,21 @@ def run(dry_run: bool = False):
 
     # 1. Fetch (Workday skips already-seen ids to save per-job detail requests)
     from .sources.workday import WorkdaySource
+    sources = (
+        ATSSource(companies),
+        PersonioSource(companies),
+        SmartRecruitersSource(companies),
+        RecruiteeSource(companies),
+        WorkdaySource(companies, skip_ids=seen),
+        ArbeitnowSource(),
+    )
     jobs = []
-    for source in (ATSSource(companies), PersonioSource(companies),
-                   SmartRecruitersSource(companies), RecruiteeSource(companies),
-                   WorkdaySource(companies, skip_ids=seen), ArbeitnowSource()):
-        jobs.extend(source.fetch())
+    for source in sources:
+        try:
+            jobs.extend(source.fetch())
+        except Exception as error:
+            source_name = getattr(source, "name", source.__class__.__name__)
+            print(f"[source] {source_name} failed: {error}")
     fetched = len(jobs)
     jobs = deduplicate_jobs(jobs)
     stats = {"fetched": fetched, "total": len(jobs)}
