@@ -336,5 +336,18 @@
     "Interest in B2B SaaS and demand generation"
    ]
   }
+ },
+ "selectry GmbH": {
+  "updated_at": "2026-08-02T10:13:12.743418+00:00",
+  "intel": {
+   "what": "selectry GmbH is a Berlin-based HR-tech company building a skill-based alternative to traditional job-board recruiting.",
+   "scale": "Early-stage startup with a small, cross-functional team working fully remote across Germany.",
+   "language_culture": "English is the professional working language; German is not evidenced.",
+   "talking_points": [
+    "Detail-oriented experience keeping CRM records accurate and well-organized.",
+    "Comfortable with Microsoft 365, especially SharePoint and Teams, plus quick onboarding to new tools.",
+    "Reliable task management and enthusiasm for supporting a fast-moving startup without daily check-ins."
+   ]
+  }
  }
 }
