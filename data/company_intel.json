@@ -362,5 +362,18 @@
     "Experience with SQL or BI tools such as Power BI, Tableau, or Looker adds immediate value to reporting work."
    ]
   }
+ },
+ "Teampicnic": {
+  "updated_at": "2026-08-04T11:00:24.207465+00:00",
+  "intel": {
+   "what": "Teampicnic operates an online supermarket with a shopping app and local product assortment across six regions.",
+   "scale": "unknown (six regions mentioned)",
+   "language_culture": "German (job posting is in German)",
+   "talking_points": [
+    "Emphasize logical thinking and interest in automating/optimizing operational processes.",
+    "Highlight ability to collaborate cross-functionally and handle daily category/supply issues.",
+    "Mention attention to detail for product data quality and app storefront accuracy."
+   ]
+  }
  }
 }
