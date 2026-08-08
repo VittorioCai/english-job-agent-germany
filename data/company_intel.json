@@ -401,5 +401,44 @@
     "Student background in IT, business informatics, or logistics with technical curiosity"
    ]
   }
+ },
+ "Entrix": {
+  "updated_at": "2026-08-08T10:12:47.543825+00:00",
+  "intel": {
+   "what": "Entrix is a Munich-based energy technology company operating in an office-first mode.",
+   "scale": "startup / scale-up (unknown headcount)",
+   "language_culture": "English is the working language (C1 required); German is optional.",
+   "talking_points": [
+    "Direct exposure to the CEO and Chief of Staff on strategy, investors, and operations.",
+    "Hands-on involvement in finance, investor relations, and public funding applications.",
+    "Opportunity to drive cross-functional programs across tech, security, and regulation."
+   ]
+  }
+ },
+ "Yepoda": {
+  "updated_at": "2026-08-08T10:12:47.543825+00:00",
+  "intel": {
+   "what": "Yepoda is a Berlin-based clean K-Beauty skincare brand founded in 2020, selling online and at Sephora Europe.",
+   "scale": "Scale-up; around 140 employees",
+   "language_culture": "English (international team; job posting in English)",
+   "talking_points": [
+    "Detail-oriented experience with Notion, spreadsheets, or project trackers",
+    "Interest in creative operations and project management for a fast-growing brand",
+    "Enthusiasm for sustainable, vegan, B Corp certified skincare"
+   ]
+  }
+ },
+ "Mercedes-Benz.io GmbH": {
+  "updated_at": "2026-08-08T10:12:47.543825+00:00",
+  "intel": {
+   "what": "Mercedes-Benz.io GmbH is a Mercedes-Benz subsidiary that develops digital solutions for the Mercedes-Benz brand.",
+   "scale": "unknown (subsidiary of Mercedes-Benz; exact headcount/stage not specified)",
+   "language_culture": "English (job posting is in English); German working-language evidence not provided",
+   "talking_points": [
+    "Interest in supporting HR digitalization, automation, and AI-driven process initiatives",
+    "Relevant coursework or experience in HR operations, payroll preparation, or HRIS testing",
+    "Comfort with a hybrid work setup based in Stuttgart with remote flexibility"
+   ]
+  }
  }
 }
