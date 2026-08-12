@@ -440,5 +440,18 @@
     "Comfort with a hybrid work setup based in Stuttgart with remote flexibility"
    ]
   }
+ },
+ "CERTA": {
+  "updated_at": "2026-08-12T10:15:09.232968+00:00",
+  "intel": {
+   "what": "CERTA is a German startup developing an AI-powered property valuation platform to provide faster, data-driven real estate appraisals.",
+   "scale": "Early-stage startup; exact size unknown",
+   "language_culture": "German; job posting is in German and requires fluent written and spoken German.",
+   "talking_points": [
+    "Hands-on experience with AI tools and automation workflows such as ChatGPT, Claude, Make, or n8n.",
+    "Ability to own analytical workstreams and prepare decision-ready recommendations for management.",
+    "Strong interest in working directly with founders on strategy, operations, and market expansion."
+   ]
+  }
  }
 }
