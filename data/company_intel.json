@@ -349,5 +349,31 @@
     "Strong interest in working directly with founders on strategy, operations, and market expansion."
    ]
   }
+ },
+ "Airbus": {
+  "updated_at": "2026-08-19T10:15:45.653483+00:00",
+  "intel": {
+   "what": "Airbus Defence and Space is a division of Airbus that works on military aerospace, security, and related systems.",
+   "scale": "Large multinational; hundreds of thousands of employees globally.",
+   "language_culture": "English (job posting and role are in English; German likely relevant for the German site).",
+   "talking_points": [
+    "Emphasize interest in procurement/supplier management for IT hardware and software.",
+    "Highlight ability to support cross-functional commodity teams with administrative and analytical tasks.",
+    "Mention motivation to contribute to standardization and supplier evaluation while balancing an 18-hour student schedule."
+   ]
+  }
+ },
+ "Checkmk GmbH": {
+  "updated_at": "2026-08-19T10:15:45.653483+00:00",
+  "intel": {
+   "what": "Checkmk GmbH develops Checkmk, an IT monitoring solution used worldwide by IT professionals.",
+   "scale": "unknown",
+   "language_culture": "English is required; German is a plus but not necessary",
+   "talking_points": [
+    "Show ability to quickly grasp technical concepts such as Kubernetes and cloud infrastructure.",
+    "Highlight analytical skills for translating user research and market data into product insights.",
+    "Express enthusiasm for contributing to product-led growth and competitive positioning."
+   ]
+  }
  }
 }
