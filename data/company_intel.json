@@ -375,5 +375,31 @@
     "Express enthusiasm for contributing to product-led growth and competitive positioning."
    ]
   }
+ },
+ "Meierhofer": {
+  "updated_at": "2026-08-22T10:16:36.131909+00:00",
+  "intel": {
+   "what": "Meierhofer is a German healthcare IT company that develops and operates the M-KIS hospital information system.",
+   "scale": "unknown",
+   "language_culture": "German; the job requires very good German (C1)",
+   "talking_points": [
+    "Leverage hands-on Power BI and SQL experience to build reports and dashboards for healthcare data",
+    "Bring knowledge from data science or health informatics to support data analysis and process automation",
+    "Show motivation to collaborate at the interface between IT, departments, and stakeholders in the clinic environment"
+   ]
+  }
+ },
+ "isaraerospace": {
+  "updated_at": "2026-08-22T10:16:36.131909+00:00",
+  "intel": {
+   "what": "Isar Aerospace is a German rocket startup building orbital launch vehicles for the European market.",
+   "scale": "unknown",
+   "language_culture": "English (job posting is in English); no German-language evidence in posting.",
+   "talking_points": [
+    "Hands-on experience operating self-managed AI inference endpoints and Docker-based deployments",
+    "Interest in evaluating open-source models and agentic workflows for practical engineering impact",
+    "Comfort with REST APIs, MCP servers, and automation tools such as n8n"
+   ]
+  }
  }
 }
