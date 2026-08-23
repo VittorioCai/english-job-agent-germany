@@ -1,30 +1,4 @@
 {
- "Solaris": {
-  "updated_at": "2026-07-23T11:25:10.374020+00:00",
-  "intel": {
-   "what": "Solaris is a Berlin-based embedded finance platform and licensed bank that provides Banking-as-a-Service to businesses.",
-   "scale": "300 employees",
-   "language_culture": "English",
-   "talking_points": [
-    "Interest in non-financial risk management and regulatory compliance within a banking-as-a-service environment",
-    "Analytical and detail-oriented, with basic knowledge of banking law and regulatory standards",
-    "Proficient in Google Workspace/MS Office and clear written communication skills for reporting and incident escalation"
-   ]
-  }
- },
- "idealo internet GmbH": {
-  "updated_at": "2026-07-23T11:25:10.374020+00:00",
-  "intel": {
-   "what": "idealo internet GmbH operates a price comparison platform and runs paid search advertising campaigns across multiple European markets.",
-   "scale": "unknown",
-   "language_culture": "English",
-   "talking_points": [
-    "Direct mentoring from experienced Performance Marketing Managers on real campaign operations",
-    "Hands-on ownership of Google Ads tasks such as optimization, reporting, and keyword analysis",
-    "Exposure to international campaign management across several European markets"
-   ]
-  }
- },
  "TWAICE": {
   "updated_at": "2026-07-24T11:18:17.918552+00:00",
   "intel": {
@@ -399,6 +373,32 @@
     "Hands-on experience operating self-managed AI inference endpoints and Docker-based deployments",
     "Interest in evaluating open-source models and agentic workflows for practical engineering impact",
     "Comfort with REST APIs, MCP servers, and automation tools such as n8n"
+   ]
+  }
+ },
+ "Liqid Lig": {
+  "updated_at": "2026-08-23T10:15:38.712503+00:00",
+  "intel": {
+   "what": "Liqid Lig is a fintech company that automates operations and relationship management workflows.",
+   "scale": "unknown",
+   "language_culture": "English",
+   "talking_points": [
+    "Hands-on experience with n8n and AI-powered workflow automation",
+    "End-to-end process analysis and optimization for client-facing operations",
+    "Interest in fintech scalability and intelligent automation"
+   ]
+  }
+ },
+ "Edri": {
+  "updated_at": "2026-08-23T10:15:38.712503+00:00",
+  "intel": {
+   "what": "Edri is the company name listed for a job posting on the Arbeitnow platform.",
+   "scale": "unknown",
+   "language_culture": "unknown",
+   "talking_points": [
+    "Research Edri’s own website or public profiles to learn what it actually does before applying.",
+    "Tailor your application to the specific responsibilities and requirements in the original job posting.",
+    "Highlight skills that are directly relevant to the role, since the posting gives no further company details."
    ]
   }
  }
