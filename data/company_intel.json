@@ -1,43 +1,4 @@
 {
- "TWAICE": {
-  "updated_at": "2026-07-24T11:18:17.918552+00:00",
-  "intel": {
-   "what": "TWAICE builds software that transforms battery data into insights to support the energy transition.",
-   "scale": "scale-up",
-   "language_culture": "unknown",
-   "talking_points": [
-    "Hands-on experience with real operational battery data and digital twins",
-    "Opportunity to contribute to algorithm and data pipeline development",
-    "Customer-facing role in a fast-growing scale-up with flexible hours"
-   ]
-  }
- },
- "Boeing": {
-  "updated_at": "2026-07-25T10:50:30.426908+00:00",
-  "intel": {
-   "what": "Boeing is an aerospace company that designs, manufactures, and services commercial airplanes, defense products, and space systems.",
-   "scale": "large multinational corporation",
-   "language_culture": "English (required), German (beneficial but not required)",
-   "talking_points": [
-    "Internship in the Boeing Innovation Lab in Neu-Isenburg, Germany, focusing on future flight operations research.",
-    "Opportunity to work in an interdisciplinary, international team with global stakeholders.",
-    "Strong alignment for students in aerospace, computer science, data analytics, human factors, or related fields."
-   ]
-  }
- },
- "ZEISS": {
-  "updated_at": "2026-07-25T10:50:30.426908+00:00",
-  "intel": {
-   "what": "ZEISS is a global technology company specializing in optics and precision engineering.",
-   "scale": "large enterprise",
-   "language_culture": "German",
-   "talking_points": [
-    "Hands-on involvement in logistics process analysis, optimization, and documentation",
-    "Opportunity to develop data analysis and reporting skills with real operational data",
-    "Cross-departmental collaboration with procurement, production, IT, and sales"
-   ]
-  }
- },
  "Mindskills": {
   "updated_at": "2026-07-26T10:56:56.533796+00:00",
   "intel": {
@@ -399,6 +360,19 @@
     "Research Edri’s own website or public profiles to learn what it actually does before applying.",
     "Tailor your application to the specific responsibilities and requirements in the original job posting.",
     "Highlight skills that are directly relevant to the role, since the posting gives no further company details."
+   ]
+  }
+ },
+ "Sereact GmbH": {
+  "updated_at": "2026-08-25T10:15:27.056440+00:00",
+  "intel": {
+   "what": "Sereact GmbH is an AI robotics startup building perception and decision-making software for industrial robots in warehouses and factories.",
+   "scale": "startup; headcount unknown",
+   "language_culture": "English (job posting is in English; internal language unclear)",
+   "talking_points": [
+    "Hands-on experience labeling and preparing real-world sensor data (images, point clouds) for robotic ML systems.",
+    "Apply Python, NumPy, Pandas, and data visualization skills to improve ML data pipelines and annotation quality.",
+    "Interest in computer vision and model evaluation for industrial robotics beyond lab settings."
    ]
   }
  }
