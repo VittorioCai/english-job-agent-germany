@@ -1,43 +1,4 @@
 {
- "HelloFresh": {
-  "updated_at": "2026-07-30T11:29:19.289727+00:00",
-  "intel": {
-   "what": "HelloFresh is a global meal-kit delivery service that provides pre-portioned ingredients and recipes to customers.",
-   "scale": "large publicly traded company",
-   "language_culture": "English (fluency required), German (optional plus); working language likely English for international projects",
-   "talking_points": [
-    "Emphasize your analytical skills and comfort with data-driven decision-making for cross-market projects.",
-    "Highlight any experience in operations, supply chain, or project management that shows you can handle strategic initiatives.",
-    "Mention your ability to work flexibly in a dynamic, international environment and communicate across teams."
-   ]
-  }
- },
- "Fashion Cloud": {
-  "updated_at": "2026-07-30T11:29:19.289727+00:00",
-  "intel": {
-   "what": "Fashion Cloud is a Hamburg-based B2B software company that provides digital infrastructure for brands and retailers in the fashion industry.",
-   "scale": "~50 employees",
-   "language_culture": "English (required); German is a plus",
-   "talking_points": [
-    "The role offers direct responsibility on a live system migration where your attention to data quality and anomaly detection will be critical.",
-    "You will gain practical exposure to AI-assisted tooling and monitoring workflows, skills valuable beyond this project.",
-    "The position is designed to fit around your lecture schedule with 20 hours/week for 2 months."
-   ]
-  }
- },
- "Sunpeak Capital GmbH": {
-  "updated_at": "2026-07-30T11:29:19.289727+00:00",
-  "intel": {
-   "what": "Sunpeak Capital GmbH enables investments in solar energy, battery storage, and charging infrastructure by combining climate protection with financially optimized, tax-efficient structures.",
-   "scale": "unknown",
-   "language_culture": "German",
-   "talking_points": [
-    "Proven experience with AI automation tools (n8n, Zapier, LLM APIs) and scripting in Python aligns directly with the role’s focus on process optimization.",
-    "Strong interest in renewable energy and climate impact, as the company’s mission is to channel capital toward profitably scaling Germany’s energy transition.",
-    "Ability to bridge technical coding skills with business analysis, financial modeling, and HubSpot customer journey management for a versatile student role."
-   ]
-  }
- },
  "Quid": {
   "updated_at": "2026-08-01T15:46:04.219526+00:00",
   "intel": {
@@ -269,6 +230,45 @@
     "Direct hands-on SEM training and ownership of real Google Ads campaigns with no prior experience required.",
     "Opportunity to build practical skills in Google Ads, GA4, Looker Studio, and data analysis in Excel/Google Sheets.",
     "Flexible hybrid working setup in Berlin designed to fit around university studies."
+   ]
+  }
+ },
+ "Lendable": {
+  "updated_at": "2026-08-29T14:01:18.194303+00:00",
+  "intel": {
+   "what": "Lendable is a profitable UK fintech unicorn that builds consumer finance products such as loans, credit cards, and car finance.",
+   "scale": "Unicorn; ~700 employees; profitable since 2017.",
+   "language_culture": "English (job posting written in English; UK-based).",
+   "talking_points": [
+    "Strong quantitative and problem-solving skills for data-driven lending strategy and NPV modelling",
+    "Experience or interest in hypothesis testing, fraud detection, or pricing decisions",
+    "Ability to present insights to senior leaders and work with product/tech teams to implement changes"
+   ]
+  }
+ },
+ "Sungrow Europe - Welcome traveler!": {
+  "updated_at": "2026-08-29T14:01:18.194303+00:00",
+  "intel": {
+   "what": "Sungrow Europe is the European arm of Sungrow Power Supply, a global manufacturer of solar inverters and energy storage systems.",
+   "scale": "Large global parent company; European subsidiary",
+   "language_culture": "English required; German a plus",
+   "talking_points": [
+    "Your engineering, energy, or project-management background fits the rework coordination and technical documentation role.",
+    "Your organizational skills support accurate tracking, supplier follow-up, and structured reporting.",
+    "You are motivated to gain hands-on experience in renewable-energy service operations across Europe."
+   ]
+  }
+ },
+ "Isar Aerospace": {
+  "updated_at": "2026-08-29T14:01:18.194303+00:00",
+  "intel": {
+   "what": "Isar Aerospace is a German aerospace company developing orbital launch vehicles and launch services.",
+   "scale": "scale-up (private company; exact headcount not confirmed)",
+   "language_culture": "English (job posting is in English; German company)",
+   "talking_points": [
+    "Apply AI/ML skills to manufacturability assessments and automated design checks.",
+    "Emphasize understanding of production engineering for advanced manufacturing processes.",
+    "Highlight experience with digital workflows, PLM/ERP systems like Teamcenter or SAP."
    ]
   }
  }
