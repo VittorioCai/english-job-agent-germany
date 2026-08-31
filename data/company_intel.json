@@ -1,17 +1,4 @@
 {
- "Quid": {
-  "updated_at": "2026-08-01T15:46:04.219526+00:00",
-  "intel": {
-   "what": "Quid is an early-stage Berlin startup building AI to automate accounts payable invoice processing for multi-entity, multi-ERP businesses.",
-   "scale": "Early-stage startup; small team",
-   "language_culture": "English (German a bonus)",
-   "talking_points": [
-    "Hands-on ownership of cold outreach and growth experiments from day one",
-    "Experience with Apollo, Sales Navigator, and data-driven A/B testing",
-    "Interest in B2B SaaS and demand generation"
-   ]
-  }
- },
  "selectry GmbH": {
   "updated_at": "2026-08-02T10:13:12.743418+00:00",
   "intel": {
@@ -269,6 +256,19 @@
     "Apply AI/ML skills to manufacturability assessments and automated design checks.",
     "Emphasize understanding of production engineering for advanced manufacturing processes.",
     "Highlight experience with digital workflows, PLM/ERP systems like Teamcenter or SAP."
+   ]
+  }
+ },
+ "ZEISS": {
+  "updated_at": "2026-08-31T16:21:30.995593+00:00",
+  "intel": {
+   "what": "ZEISS's SPU is the shared production unit that manufactures key components for ZEISS divisions.",
+   "scale": "unknown",
+   "language_culture": "German; English required",
+   "talking_points": [
+    "Combine engineering/economics studies with interest in data analytics and KPI systems",
+    "Hands-on experience with Excel and business intelligence tools like Power BI or SAP Analytics Cloud",
+    "Motivated to support maintenance and equipment-management reporting and standardization"
    ]
   }
  }
