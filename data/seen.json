@@ -1,1406 +1,6 @@
 {
 "seen": [
 {
-"id": "arbeitnow:local-marketing-manager-karlsruhe-260900",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:machine-learning-engineer-all-genders-bremen-387333",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:machine-learning-engineer-all-genders-bremen-414400",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:manager-energy-operations-metering-frankfurt-am-main-418617",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:marketing-assistant-zum-einstieg-ins-marketing-30-40-h-berlin-218930",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:marketplace-manager-otto-kaufland-co-freelancer-100-remote-heilbronn-13456",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:mechatronics-technician-for-robotics-automation-fohren-452747",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:mechatroniker-fur-robotik-automatisierung-fohren-167904",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:mitarbeiter-fur-kundenbetreuung-und-organisation-uetze-133399",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:netzwerk-engineer-wiesbaden-351412",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-berlin-300680",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-cologne-454397",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-darmstadt-134060",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-dresden-399776",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-dusseldorf-361445",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-hamburg-141258",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-heilbronn-400283",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-ingolstadt-233971",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-kassel-446550",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-koblenz-347449",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-konstanz-428175",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-leipzig-84904",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-mainz-216336",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-munich-54876",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-nuremberg-227817",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-regensburg-152725",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-schweinfurt-156712",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:niederlassungsleiter-pflege-ulm-214976",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:objektverwalter-facility-management-munich-69513",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:office-management-inkl-hr-administration-company-culture-in-bilk-dusseldorf-243120",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:online-marketing-manager-stuttgart-63397",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:onsite-marketing-manager-hamburg-44480",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:operational-excellence-coordinator-gn-munich-209818",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:operational-excellence-coordinator-gn-munich-314078",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:organic-content-marketing-manager-beauty-d2c-cologne-404813",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:people-operations-manager-munich-295341",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:personalleiter-paderborn-191952",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:personalreferent-hr-administration-arbeitnehmeruberlassung-munich-78315",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:personalreferent-munich-2482",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:personalreferent-personalentwicklung-ausbildung-munich-423695",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:personalreferent-personalentwicklung-ausbildung-munich-467736",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:personalreferentin-teilzeit-60-80-als-elternzeitvertretung-stuttgart-6457",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:pflichtpraktikum-im-bereich-grafikdesign-stuttgart-342925",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:pflichtpraktikum-online-marketing-manager-stuttgart-299473",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:platform-engineer-mit-karriereambitionen-markt-indersdorf-232407",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:pr-beraterin-healthcare-hamburg-380716",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:praktikant-human-resources-am-standort-frankfurt-am-main-196978",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:praktikant-im-bereich-touristische-medien-projekte-konstanz-15785",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:praktikant-im-marketing-konstanz-147891",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:praktikant-wirtschaftsprufung-steuerberatung-betriebswirtschaftlicher-beratung-heilbronn-374319",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:praktikum-amazon-ppc-performance-marketing-im-e-commerce-start-up-stuttgart-346754",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:praktikum-founders-associate-founder-in-residence-fokus-social-media-growth-hamburg-482907",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:praktikum-im-consulting-bei-horbach-stuttgart-178779",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:praxissemester-bwl-controlling-und-buchhaltung-regensburg-377770",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:procurement-quality-manager-aerospace-luft-und-raumfahrt-taufkirchen-165084",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:product-engineer-munich-341583",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:product-manager-business-analyst-enterprise-banking-munich-233538",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:product-owner-onsite-experience-berlin-257284",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:produktmanager-squad-factory-magdeburg-469751",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:professional-system-engineer-cloud-native-80-100-remote-id260709-neitersen-455386",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:project-manager-cms-benelux-berlin-483866",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projekt-manager-100-remote-hanover-182547",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projekt-manager-100-remote-hanover-298483",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektassistenz-heilbronn-133259",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektassistenz-projektkoordination-munich-479092",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektcontroller-munich-468720",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektingenieur-tga-fur-umspannwerke-frankfurt-am-main-462063",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektleiter-innovation-fur-kerntechnische-anlagen-deutschlandweit-ulm-79161",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektleiter-simulationssysteme-munich-59240",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektleiter-steuerungstechnik-viersen-446859",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektleiter-technisches-gebaudemanagement-dresden-200290",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektmanager-crm-e-mail-marketing-dusseldorf-382665",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektmanager-e-commerce-dusseldorf-365301",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektmanager-e-mail-marketing-dusseldorf-331249",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektmanager-prozessoptimierung-munich-462225",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektmanager-vertragsmanagement-munich-173390",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:projektmanagerin-gn-social-media-influencer-marketing-berlin-393639",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:promoter-fur-wahlkampfstande-gesucht-1700-eur-pro-stunde-uetersen-45373",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:qualitatsmanager-fur-lieferantenaudits-hamburg-166422",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:recruiterin-talent-acquisition-lead-berlin-87122",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:recruiting-hr-operations-manager-berlin-230382",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:referentin-fur-digitalsierung-und-ki-freiburg-im-breisgau-85483",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:release-manager-enterprise-banking-munich-409998",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:researcher-applied-ai-all-genders-bremen-248010",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:researcher-applied-ai-all-genders-bremen-253020",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:robot-perception-ml-engineer-autonomous-mobile-robots-munich-327983",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:robot-perception-ml-engineer-autonomous-mobile-robots-munich-423510",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sachbearbeiter-controlling-und-finanzen-munich-209854",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sachbearbeiter-customer-service-und-kundenbetreuung-munich-333961",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sachbearbeiter-finanzen-verwaltungsfachkraft-munich-18101",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sachbearbeiter-logistik-materialdisposition-munich-333036",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sap-data-analytics-consultant-frankfurt-am-main-345581",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sap-ewm-berater-bielefeld-258750",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sap-ewm-consultant-frankfurt-am-main-1033",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sap-ewm-consultant-frankfurt-am-main-155908",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sap-hcm-beraterin-frankfurt-am-main-477547",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sap-ibp-consultant-munich-382475",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sap-inhouse-consultant-business-partner-munich-463899",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sap-inhouse-consultant-business-partner-munich-83178",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sap-senior-co-beraterin-frankfurt-am-main-472489",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sap-successfactors-beraterin-frankfurt-am-main-270426",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-accountant-berlin-6627",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-accountant-hamburg-324568",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-ai-engineer-mlops-engineer-munich-86006",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-azure-cloud-platform-architect-nuremberg-103189",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-azure-synapse-specialist-refnr-47205-munich-372049",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-business-controller-hr-controlling-cologne-85260",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-corporate-controller-laudenbach-8587",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-customer-success-solutions-manager-rosenheim-361004",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-data-scientist-consumer-core-berlin-331913",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-digital-commerce-consultant-frankfurt-399830",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-disponent-flixtrain-berlin-310354",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-e-commerce-consultant-frankfurt-191146",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-e-commerce-marketer-meta-google-funnels-ki-remote-cologne-79494",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-enterprise-architect-insurance-industry-berlin-242499",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-full-stack-engineer-backend-focus-berlin-90834",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-full-stack-java-entwickler-munich-158575",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-full-stack-java-entwickler-munich-242949",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-fullstack-developer-munich-404351",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-global-integrated-b2b-marketing-manager-berlin-121709",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-google-performance-analytics-manager-stuttgart-262806",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-innovation-consultant-im-bereich-new-business-innovation-aachen-266079",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-it-administrator-in-der-workplace-verwaltung-ehingen-170702",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-linux-developer-linux-recovery-system-refnr-47214-munich-384995",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-manager-marketing-intelligence-d-berlin-375095",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-microsoft-ai-copilot-engineer-nuremberg-139325",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-microsoft-cloud-transformation-architect-nuremberg-328531",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-native-advertising-manager-mannheim-416408",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-pr-consultant-cologne-402065",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-product-category-operator-bremen-186375",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-product-manager-mwd-advertising-products-berlin-371719",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-python-engineer-cad-3d-geometry-machine-learning-leipzig-314152",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-sap-btp-developer-munich-308528",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-sap-entwickler-cologne-385154",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-sea-consultant-all-genders-berlin-197363",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-software-developer-hamburg-442269",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-software-engineer-core-experiences-dusseldorf-germany-dusseldorf-35062",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-software-engineer-device-connectivity-go-berlin-308082",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-software-engineer-enterprise-ai-java-angular-karlsruhe-463945",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-software-engineer-perception-autonomous-systems-berlin-426413",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-solutions-architect-nuremberg-492297",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-system-engineer-cloud-native-80-100-remote-id260710-neitersen-290842",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-technical-product-manager-berlin-288942",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:senior-ux-designer-all-genders-karlsruhe-428902",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:seniorservice-manager-mobilfunk-b2b-key-account-energiewirtschaft-cologne-331648",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:servicetechniker-telekommunikation-it-munich-393721",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:software-developer-junior-java-groovy-scriptrunner-forge-munich-144529",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:software-entwickler-tool-update-vs17-stuttgart-299225",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:software-entwicklerin-mentorin-ai-software-engineering-bootcamp-cologne-209077",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:software-entwicklerin-mentorin-ai-software-engineering-bootcamp-cologne-220210",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:softwareentwickler-c-qt-munich-68166",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:solution-it-architekt-munich-85393",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:spezialist-zeitwirtschaft-remscheid-3384",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:stabstelle-fachkraft-fur-arbeitssicherheit-sicherheitsfachkraft-sicherheitsingenieur-bad-oeynhausen-103767",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-bornsen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-24776",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-breitenburg-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-419955",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-cleebronn-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-209680",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-eibenstock-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-91537",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-eisleben-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-106095",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-erfurt-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-79611",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-esselbach-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-170631",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-frammersbach-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-69712",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-guggenhausen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-475988",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-kaisersesch-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-242750",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-lahnstein-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-144098",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-lenzen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-231975",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-leonberg-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-436255",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-muhlacker-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-109243",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-newel-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-91004",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-oberhaching-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-229931",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-oberstaufen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-342110",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-pellingen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-333517",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-rottach-egern-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-310680",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-schonefeld-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-16470",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-sulfeld-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-70590",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-weissenfels-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-70123",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-widdern-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-135829",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:steuerberater-in-wiehl-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-175164",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:strategischer-projektentwickler-erfurt-35251",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:sympathischer-it-systemadministrator-standort-munster-hybrid-437225",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:system-engineer-cloud-datacenter-services-monchengladbach-243882",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:system-engineer-requirements-systemarchitektur-munich-154471",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:systemadministrator-munich-322891",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:talent-acquisition-specialist-berlin-263396",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:teamleitung-servicenow-consulting-berlin-315164",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:technical-account-manager-b2b-m2m-mobilfunk-cologne-413316",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:technical-account-manager-b2b-mcptt-mobilfunk-cologne-282519",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:technical-ai-consultant-all-genders-berlin-37305",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:techniker-systemintegration-mechatronik-munich-424558",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:technischer-objektbetreuer-weg-verwaltung-hausverwaltung-immobileinverwaltung-bausachverstandiger-garbsen-409843",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:technischer-objektverwalter-stuttgart-211223",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:technischer-product-owner-ki-automatisierung-dortmund-161832",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:technischer-projektmanager-teamleiter-sales-fur-hydrogen-und-kompressoren-systme-immenhausen-304635",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:technischer-property-manager-munich-432363",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:telefonisten-fur-umfragen-im-homeoffice-gesucht-taunusstein-401161",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:testmanager-software-und-systemtests-munich-407862",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:touchdesigner-developer-berlin-484867",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:trainee-arabic-financial-consulting-entrepreneurship-berlin-376377",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:trainee-artist-manager-influencer-manager-berlin-7841",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:trainee-artist-manager-influencer-manager-mulheim-412969",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:trainee-online-marketing-in-berlin-354512",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:trainee-persian-financial-consulting-entrepreneurship-berlin-260834",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:trainee-spanish-financial-consulting-entrepreneurship-berlin-187687",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:vergabemanager-offentliche-ausschreibung-munich-494072",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:vertriebscontroller-im-bankenumfeld-munich-196253",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:verwaltungsfachwirt-sachbearbeiter-finanzwesen-munich-291027",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:voice-ai-engineer-all-genders-bremen-271406",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:voice-ai-engineer-all-genders-bremen-437202",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-52609",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudent-fur-product-enablement-munchen-13745",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudent-in-finanzbuchhaltung-schwerpunkt-forderungsmanagement-bochum-195143",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudent-in-in-der-telefonischen-immobilienberatung-20-stunden-woche-bochum-143006",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudent-it-berlin-48176",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudent-ki-bad-worishofen-457610",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudent-recruiting-dusseldorf-50369",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudentin-communication-community-berlin-290902",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudentin-devops-infrastruktur-automatisierung-it-ot-sicherheit-100-remote-only-from-germany-dortmund-367923",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudentin-esg-sustainability-hamburg-210790",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudentin-in-der-softwareentwicklung-bitburg-186317",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:werkstudentin-praktikantin-projektmanagement-im-smart-energy-startup-cologne-59879",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "arbeitnow:working-student-for-product-enablement-munich-313788",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:0275f215-493b-428c-82ca-024e5dd14c3d",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:0800fd15-46d6-4709-ab3b-ea2a421f4afe",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:08752b8d-993a-408c-9843-350d10b97706",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:2d6ae20b-2fd9-4fde-89c2-847df1a86ede",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:41ac1f23-fb05-4429-9ba9-70f7b4666c36",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:4c5c2cba-9f11-4bb3-b5fc-e63c52c0a9bd",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:4c725910-ddbc-49c7-92e3-052e1478778b",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:558ea9cd-bc8a-421b-97d4-ff17f568c696",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:5866aba2-4ab3-4913-a135-62fd582280fb",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:6841ab40-426c-4cf8-a74f-0fbc39f2a962",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:7fb1ae61-8c8f-41e5-a089-8d02711fb791",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:8670d0fe-1ad4-4931-beec-8f44c7c9f82b",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:890e27cb-8cc2-4c53-8e66-b189bbe15fc6",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:89470d75-c6e1-4056-8a18-f7878572350b",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:9201245b-9e9a-4281-80b4-3f90a2b9df01",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:9af5e9e0-8d18-4a09-a987-31af87d3ca57",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:a46b0577-2c58-41ef-a277-643691f9d16f",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:a49e7ac5-da65-420b-93b1-cf964bf48d44",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:a83e504e-42b2-4e6b-b537-a36ae15f1766",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:c17bdb8a-86b5-41ba-9c23-f8548269614a",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:c8910470-62ec-47d4-8055-e6adbd43c346",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:caf97bc0-63bf-469a-a35c-00a229f9e745",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:cee0747b-3e0d-4de7-a0e4-61b7e6e9938e",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:d6b1998b-3d40-4670-9c45-31878bf438b8",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:d9326162-4255-4bd3-9047-8dda11eab716",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:e4be1a41-b343-4c8b-856a-411ba7e58da6",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:e5113767-6807-463f-8d08-08de024c9a36",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:f8c201d8-7d51-4bb7-8e44-7c8945093ff9",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:moss:fc73cae1-d511-4884-bfc7-aa920a18e988",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:035da58b-ff30-44ec-893b-6a765acf7213",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:1b7c08ae-1082-4dfa-9d1f-83eeb09b9593",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:28611a3e-a728-4e69-83b7-e985a9594854",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:29539be2-a6bd-4fb7-b705-d5e800455f23",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:3e9158b3-e5f3-48f3-9347-c6a07f58a141",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:42cb2a76-36c6-4307-aefc-e4459fecbf5d",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:4cec886a-9f85-4376-84f9-619bcd103a9b",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:572c11a4-353e-4b73-99bb-943cc213599c",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:6b175aec-f934-4e19-9c0a-3bbc6c3b4825",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:701763c6-151c-4883-bd3e-e86ad3f6b07f",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:71de8a86-3115-4186-a5ba-a9f549d378de",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:72c22c43-3417-4c0b-82bb-6546901943fd",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:7768cca7-b2a3-476d-8c04-21dc83271735",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:839557cd-5cfd-4bc8-a62b-7be17f8cd3f3",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:935ca8cd-c56c-486f-908c-9ca307061b19",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:a5b7e3c5-c186-4fc9-9c95-a5cee65f3bf5",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:a6d65a5e-baf8-4731-abe7-4ed8aeb44578",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:ba75bff3-0b8e-4136-8dae-54314758118b",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:bce9fb85-f72d-4d8c-94a6-4f2324a6e690",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:c52d6138-bf87-4a20-8998-9976630aba92",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:e8b676a1-ac94-495e-938c-ec491c0dcd47",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:ec0bccd8-00ff-438d-a322-8d9c6695e0ec",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:f46ba0dc-824c-4e10-a70f-31a91bb2812a",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "ashby:tacto:f5a6b6d3-9038-4d1f-b81f-b57e3f407e9b",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:blacklane:8403338002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:blacklane:8403340002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:blacklane:8516184002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:blacklane:8516185002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:blacklane:8516186002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:blacklane:8531272002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:blacklane:8587838002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:blacklane:8604417002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:blacklane:8617544002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:5928673003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:6048490003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:6313858003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:6313860003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:6318670003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:6485699003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:6587626003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:6672115003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7478077003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7479634003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7493569003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7507750003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7507911003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7539033003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7539075003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7545451003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7548628003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7551536003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7559247003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7559294003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7588655003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7606482003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7607677003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7608430003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7610415003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7610416003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7611841003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7614485003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7614493003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7614795003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7618692003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7618718003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7618724003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7620467003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7627021003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7627681003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7627752003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7630970003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7631132003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7631651003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635114003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635142003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635190003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635246003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635314003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635326003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635342003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635358003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635374003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635483003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7635486003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7638119003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7643335003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7643337003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7648582003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7650598003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7662738003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7668846003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7676432003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7678804003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7681577003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7681581003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7681585003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7681601003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7681606003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7683570003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:celonis:7683572003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
 "id": "greenhouse:celonis:7683575003",
 "seen_at": "1970-01-01T00:00:00+00:00"
 },
@@ -79999,6 +78599,1406 @@
 {
 "id": "arbeitnow:senior-software-engineer-i-paris-paris-341689",
 "seen_at": "2026-09-06T12:18:23.857481+00:00"
+},
+{
+"id": "arbeitnow:robotics-software-engineer-intern-swarm-systems-munich-deu-27742",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:hr-management-intern-working-student-munchen-207018",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:praktikum-im-financial-consulting-berlin-299772",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:multilingual-financial-consultant-praktikum-berlin-475523",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-core-developer-platform-60113",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-consultant-konzernkunden-strategieberatung-hamburg-85337",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-sales-manager-infrastruktur-services-all-genders-hamburg-17609",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:head-of-ai-engineering-berlin-267386",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-marketing-operations-managerin-crm-growth-hubspot-hamburg-385005",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:projektleiter-customer-projects-gn-bielefeld-21633",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-backend-engineer-london-24424",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-embedded-software-entwickler-braunschweig-454340",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:network-infrastructure-engineer-gn-hamburg-236342",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-e-commerce-consultant-in-stuttgart-hamburg-oder-berlin-hybrid-268123",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:robotik-entwickler-munster-430009",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:engineering-manager-mobiles-arbeiten-deutschland-270110",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-software-developer-in-ci-munich-128295",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-text-content-berlin-404279",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:sterling-account-executive-paris-20882",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:ag:/job/Mnchen-Area/Cybersecurity-Researcher--d-f-m-_JR10437656",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:projektleiter-rd-fur-naval-communication-systems-kiel-173041",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-engineering-manager-geneva-switzerland-paris-267417",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-core-developer-node-28104",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-finance-controlling-munchen-352815",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:pflichtpraktikum-im-bereich-grafikdesign-stuttgart-95771",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:embedded-software-systems-consultant-all-genders-wiesbaden-wie-138982",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:embedded-software-engineer-iot-connectivity-munchen-402243",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:praktikantin-projektmanagement-im-smart-energy-startup-cologne-78915",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-295267",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:production-support-engineer-ii-uk-london-218867",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-junior-software-engineer-platforms-all-genders-57344",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-fullstack-engineer-all-genders-munchen-25560",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:office-assistant-part-time-uk-london-448542",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-sales-consultant-vollzeit-german-speaking-heitersheim-41076",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:principal-engineer-autonomous-systems-munich-deu-306781",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-sap-master-data-management-consultant-heidelberg-germany-187983",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-brand-visual-designer-elternzeitvertretung-berlin-hybrid-78002",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-user-experience-wissensmanagement-mit-fokus-ki-munchen-41556",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:cybersecurity-senior-software-engineer-munchen-227484",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:account-executive-uk-17298",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:performance-marketing-manager-berlin-479831",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:head-of-sales-berlin-323226",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-manager-retail-operations-paris-241277",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ai-developer-nuremberg-458711",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "greenhouse:flix:8785222002",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:instandhaltungstechniker-teilzeit-oder-werkstudentin-hamburg-210665",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:director-of-product-design-cardiff-80217",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:account-executive-dach-market-berlin-office-430069",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:forward-deployed-engineer-cologne-306325",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "greenhouse:flix:8755380002",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:data-manager-paris-478505",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:junior-social-media-manager-hamburg-465602",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:head-of-datacenter-frankfurt-shared-office-71919",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:influencer-marketing-manager-stuttgart-158988",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-hseq-karlsruhe-235621",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-manager-martech-sales-oriented-paris-112887",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-lead-national-security-london-389499",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:product-manager-munich-germany-492918",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-energy-optimization-product-management-munchen-417481",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:staff-technical-lead-marketing-studio-intelligence-482884",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:director-business-development-paris-78490",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:product-manager-financial-services-bordeaux-56704",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-grossposna-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-1507",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-legal-counsel-fur-den-bereich-commercial-berlin-hybrid-357815",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-finance-manager-gn-media-marketing-berlin-150708",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:bookkeeper-london-339192",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:react-developerin-im-kolner-startup-cologne-477894",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-albstadt-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-149313",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-accounting-solutions-consultant-342112",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-software-developer-nuremberg-323372",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ex-steuerfachangestellter-stfa-im-customer-support-kundenbetreuung-mit-buchhaltung-100-remote-berlin-254350",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-it-ot-systems-specialist-gn-hamburg-132817",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:e-commerce-product-ownerin-all-genders-berlin-359227",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ingenieur-fur-technische-dokumentation-produktsicherung-frankfurt-am-main-458061",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:servicemanager-servicekoordinator-bremen-336505",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:mitarbeiter-im-homeoffice-100-remote-monchengladbach-209557",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:forward-deployed-engineer-berlin-45604",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-talent-acquisition-manager-standort-munchen-189120",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:buchhalter-mieten-teilzeit-munich-256341",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-operations-specialist-e-commerce-retail-detmold-163437",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:software-developer-schwerpunkt-angular-nuremberg-357575",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:ag:/job/Ulm-Area/Senior-Generative-AI-Agentic-AI-Engineer--d-f-m-_JR10433766-1",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:projektleiter-customer-projects-gn-kirchlengern-100578",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:global-talent-acquisition-partner-gtm-all-genders-berlin-385736",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:consultante-senior-transformation-marketing-experience-client-paris-35583",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-tax-manager-konzernsteuerreferentin-munich-office-444014",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:projektleiter-customer-projects-gn-osnabruck-88683",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:iqvia:/job/Athens-Greece/Intern-in-Evidence-Synthesis---Health-Economics---Athens-or-Lisbon--hybrid-_R1526838",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:talent-acquisition-team-leader-europe-germany-munich-307884",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Oberkochen/Praktikum---Human-Resources--m-w-x-_JR_1052651",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-technical-advisor-data-use-and-decision-science-remote-us-uk-france-drc-us-uk-drc-131243",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:ag:/job/Hamburg---Finkenwerder/UX---Digital-Product-Specialist---IoT--f-m-d-_JR10427186",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-artist-manager-influencer-manager-mulheim-298699",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:vfx-artist-regular-senior-munchen-139049",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-projektleiter-digitalisierung-a-stuttgart-486850",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-technical-service-manager-hamburg-310898",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-account-manager-all-genders-hamburg-22701",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:data-scientist-berlin-hybrid-327994",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-accountant-bilanzbuchhalter-berlin-office-270019",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-performance-marketing-manager-google-ads-voll-remote-deutschlandweit-germany-wide-298109",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-business-controller-production-de-berlin-310164",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "greenhouse:n26:8184721",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:working-student-category-management-munich-office-344704",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "greenhouse:raisin:4963993101",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:helpdesk-first-level-support-olpe-387308",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:flutter-developer-bling-berlin-407777",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:projektleiter-customer-projects-gn-minden-4394",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:alliances-director-france-paris-316257",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-sales-consultant-smart-grids-all-genders-91686",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:supply-chain-quality-engineer-mait-bordeaux-313589",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ai-engineer-dealflow-berlin-483749",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:tech-advisory-senior-consultant-munchen-59206",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-data-scientist-london-183366",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-dahlem-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-5914",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:crm-subscription-managerin-cologne-405658",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:director-business-development-corporate-division-paris-124990",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-payload-integration-engineer-ugv-platforms-munchen-81725",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-frontend-angular-developer-all-genders-hamburg-142014",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "greenhouse:sumup:8773682002",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:account-director-stuttgart-2259",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:freelancer-kundenservice-mobilfunk-inbound-eu-ausserhalb-deutschland-100-remote-berlin-143894",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-deployment-lead-accounting-solutions-195709",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-information-security-hamburg-137001",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:artist-manager-influencer-manager-mulheim-141149",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:ag:/job/Hamburg-Area/Solution-Architect---Technical-Data-Management--d-f-m-_JR10432298",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:team-lead-accounting-bochum-387972",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-security-consultant-garching-bei-munchen-bayern-33449",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:global-talent-acquisition-partner-gtm-all-genders-berlin-366770",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "greenhouse:n26:8172838",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:azure-cloud-architect-hamburg-427466",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-frontend-angular-developer-all-genders-berlin-201352",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ai-seniorconsultant-munchen-56921",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-support-specialist-endkundenbetreuung-munchen-87551",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-business-transformation-advisor-supporting-functions-dusseldorf-269054",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:teamleiter-elektro-und-msr-technik-frankfurt-hochst-413566",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:cybersecurity-risk-management-consultant-munchen-340436",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-lead-government-innovation-and-economic-growth-manchester-245044",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-managerin-creation-design-frankfurt-am-main-420545",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:technical-sap-enterprise-architect-heidelberg-germany-56273",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-producerin-audio-video-omr-podcast-hamburg-447885",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-software-engineer-teilprojektleitung-munchen-195012",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:solutions-architect-s-4hana-logistics-heidelberg-germany-452824",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ai-security-senior-consultant-munchen-1027",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:product-manager-platform-dresden-32512",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:bilanzbuchhalter-fonds-immobiliengesellschaft-munich-381371",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-global-talent-acquisition-partner-product-all-genders-berlin-18762",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:zeppelin:/job/Glinde/Ausbildung-zum-Kaufmann--m-w-d--fr-Gro--und-Auenhandelsmanagement_JR_18484",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:consultant-education-sales-operations-hamburg-360835",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:backend-developer-golang-hamburg-420727",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-principal-security-researcher-92261",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-frontend-software-engineer-angular-berlin-198663",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:director-of-strategic-accounts-paris-198706",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:software-engineer-ii-c-rust-kassel-hesse-452567",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-ludwigsfelde-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-219224",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:junior-artist-manager-influencer-manager-berlin-33331",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:full-stack-kotlin-java-entwicklerin-im-kolner-startup-cologne-124198",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:ag:/job/Mnchen-Area/Project-and-Service-Controller-SBW3---other-projects--d-m-w-_JR10398562",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:consultant-data-analyst-marketing-f-h-paris-449933",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:head-of-ai-engineering-frankfurt-am-main-332298",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-crm-automation-lifecycle-manager-all-genders-munchen-472955",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:practice-director-sap-supply-chain-planning-heidelberg-germany-133825",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:it-application-manager-erp-sap-support-und-systembetreuung-isny-im-allgau-125896",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:projektleiter-customer-projects-gn-herford-352685",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-219400",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-concept-creative-social-media-hamburg-174481",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-it-project-manager-koln-nordrhein-westfalen-473844",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-staff-it-operations-specialist-berlin-456284",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:director-of-performance-caversham-87379",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-kerpen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-9961",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-accountant-finance-specialist-remote-56259",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:devops-infra-lead-paris-54868",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-qa-tester-cambridge-hybrid-104954",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:praktikantin-finance-controlling-im-kolner-startup-cologne-453986",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:software-engineer-b2b-saas-i-berlin-hybrid-86074",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:technical-product-manager-berlin-217600",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:praktikant-controlling-frankfurt-am-main-120479",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:praktikantin-e-mail-marketing-crm-performance-marketing-hamburg-469057",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-account-manager-munchen-192452",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:product-manager-pos-fiscalization-de-munchen-264702",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:creative-director-art-hamburg-490148",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "greenhouse:celonis:7815133003",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:data-protection-ai-governance-advisor-munchen-286091",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-microsoft-ai-copilot-engineer-nuremberg-59082",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:director-international-relations-and-diplomacy-programs-paris-10277",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-solutions-consultant-352815",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-business-intelligence-lead-all-genders-munchen-198779",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-ui-ux-designer-all-genders-berlin-315766",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-product-marketing-manager-london-237132",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-instandhaltung-werkstudentin-hamburg-359374",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:cybersecurity-ai-engineer-automation-f-h-paris-194861",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-solution-consultant-paris-440429",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:artist-manager-influencer-manager-berlin-198529",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:fullstack-engineer-frontend-leaning-berlin-141634",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:cloud-senior-engineer-architect-m-w-d-koln-168121",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:english-language-instructor-paris-21233",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:french-speaking-account-executive-paris-221840",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:personalreferent-recruiting-und-personalbetreuung-nordlich-braunschweig-an-der-a2-492997",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-microsoft-cloud-transformation-architect-nuremberg-355412",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:praktikantin-fur-das-buro-der-bundesvorsitzenden-franziska-brantner-berlin-74976",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:product-engineer-backend-rust-paris-270716",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-bei-correctivexile-berlin-9801",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-founders-associate-voll-remote-oder-vor-ort-deutschlandweit-germany-wide-50966",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:praktikantin-sales-marketing-berlin-18963",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:projektleiter-customer-projects-gn-bunde-403286",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-google-performance-analytics-manager-stuttgart-23527",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:bilanzbuchhalter-munich-478131",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:director-business-development-transperfect-life-sciences-paris-49842",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-account-managerin-hamburg-155064",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:business-development-manager-ai-data-solutions-paris-117054",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-community-management-mainz-oder-berlin-16948",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-consultant-digital-ai-strategy-pharma-healthcare-munchen-23040",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-projektkoordination-warmepumpe-berlin-remote-73143",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-account-executive-enterprise-paris-382462",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:cad-zeichnerin-berlin-266087",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:projektleiter-customer-projects-gn-lubbecke-341735",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:junior-google-performance-analytics-manager-stuttgart-478481",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-fullstack-engineer-frontend-fokus-munchen-297802",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:junior-software-engineer-focus-on-ios-munchen-372407",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:devops-engineer-application-management-services-berlin-bonn-essen-68664",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:it-systemadministrator-datacenter-infrastructure-karlsruhe-347437",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-projektmanager-sap-s-4hana-dortmund-481379",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:data-architecture-consultant-wiesbaden-hybrid-371523",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:online-marketing-manager-stuttgart-183830",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-talent-acquisition-french-fluency-france-59684",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:e-commerce-manager-pleidelsheim-346553",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:head-of-finance-deggendorf-328930",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-recruitment-sourcer-302296",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-b2b-marketing-managerin-lead-generation-hamburg-286525",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-security-engineer-remote-301763",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:assistant-store-manager-berlin-2305",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-talent-lead-81850",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-frontend-angular-developer-all-genders-koln-435039",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:leitung-qualitatsmanagement-qualitatswesen-wurzburg-137307",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:account-executive-france-176503",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:head-of-data-tech-e-com-munchen-429831",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-unterdiessen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-345971",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-mechanical-design-engineer-munchen-102282",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-backend-engineer-berlin-353982",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:softwaretester-healthcare-saas-dusseldorf-210306",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:business-development-manager-schallodenbach-399813",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:it-systemadministrator-in-vollzeit-munchen-227738",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-consultant-endpoint-management-garching-bei-munchen-bayern-341135",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:pflichtpraktikum-online-marketing-manager-stuttgart-284217",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:cybersecurity-senior-consultant-munchen-472757",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-in-der-robotik-entwicklung-munster-133358",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-social-media-manager-stuttgart-291420",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-datenbankadministrator-oracle-postgresql-munich-459633",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:product-manager-westwing-collection-munich-office-458345",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "greenhouse:raisin:4954101101",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-experience-engineer-126529",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:seo-geo-managerin-munster-300774",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:devops-engineer-paris-13207",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:head-of-finance-data-munchen-293651",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:sap-sales-director-germany-heidelberg-germany-496372",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:product-manager-b2b-saas-martech-europe-berlin-germany-34094",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:consultant-public-sector-all-genders-hamburg-310787",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:solution-architect-sap-ewm-heidelberg-germany-487150",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:multimodal-ml-engineer-paris-67208",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:head-of-b2b-energy-f-h-senior-manager-paris-26468",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ai-governance-senior-consultant-munchen-382841",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:teilzeit-controllerin-at-studio-natura-berlin-413743",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:customer-support-pflegesoftware-dusseldorf-281483",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:business-development-manager-ai-data-solutions-paris-311534",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:portfolio-beteiligungscontroller-hamburg-456999",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-python-engineer-platform-libraries-munchen-363975",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-frontend-angular-developer-all-genders-munchen-203451",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:devops-engineer-leipzig-sachsen-478361",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:financial-accountant-berlin-59744",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "greenhouse:n26:8184770",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-account-executive-enterprise-munchen-80968",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-account-manager-londres-236323",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:spanish-instructor-pt-adjunct-faculty-or-freelance-paris-358075",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-office-feelgood-management-1komma5-nurnberg-134127",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:gsk:/job/USA---Pennsylvania---Upper-Providence/Senior-Director--R-D-AI---Technology-Portfolio_447160",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:job-31207-data-analyst-uk-6-month-ftc-london-418930",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:junior-artist-manager-influencer-manager-mulheim-78700",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ausbildung-fachinformatiker-fur-systemintegration-hamburg-313275",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-compliance-management-munchen-11808",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:consultant-public-sector-all-genders-berlin-493945",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:staff-offensive-security-engineer-109752",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:produktentwicklerin-dusseldorf-74431",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ai-senior-developer-munchen-276811",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:inhouse-marketing-specialist-hybrid-remote-grossraum-koln-184515",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-461414",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-rudolstadt-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-156259",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:enterprise-account-executive-london-131527",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:gsk:/job/UK---Hertfordshire---Stevenage/Executive-Assistant_446326-2",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:fuhrungskraft-eingliederungshilfe-soziale-teilhabe-rheine-469094",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:licensing-director-paris-186920",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-legal-counsel-munchen-35482",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-artist-manager-influencer-manager-berlin-36944",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:nebenberuflicher-einstieg-im-bereich-finanzen-beratung-pfeffelbach-188008",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:instandhaltungstechniker-werkstudentin-hamburg-167185",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-ayl-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-303804",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:fullstack-developer-koln-442845",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-deployment-lead-erp-solutions-76108",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "greenhouse:sumup:8784570002",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-bi-developer-munich-306496",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:stage-assistante-talent-acquisition-specialist-h-f-paris-186656",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:projektleiter-customer-projects-gn-lohne-258979",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:design-manager-all-genders-luxury-retail-stuttgart-293211",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:cybersecurity-manager-munchen-365778",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:working-student-it-infrastructure-munchen-115109",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-om-asset-manager-europe-uk-london-292920",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-manager-customer-development-europe-paris-249459",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:staff-engineer-web-platform-london-232412",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-praktikantin-produktmanagement-im-kolner-startup-cologne-384460",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:consultant-public-sector-all-genders-mainz-209284",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:quality-assurance-engineer-wiesbaden-32562",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:it-system-engineer-bochum-135054",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-395232",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:sales-account-executive-enterprise-uki-london-309630",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-it-administrator-bochum-271951",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ai-automation-engineer-marketing-operations-consulting-in-stuttgart-hamburg-oder-berlin-hybrid-362836",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:product-engineer-frontend-all-genders-berlin-hybrid-115094",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:consultant-public-sector-all-genders-koln-295447",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-microsoft-dynamics-365-business-central-specialist-gn-hamburg-463972",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:ai-strategy-senior-consultant-munchen-167851",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:solutions-engineer-france-lyon-lyon-saint-priest-30828",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-product-manager-geneva-switzerland-paris-215658",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:ag:/job/Ulm-Area/Project-Manager--d-m-w--Ground-Based-Air-Defence_JR10432990-1",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-frontend-angular-developer-all-genders-mainz-488215",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-chief-of-staff-for-engineering-1581",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-backend-engineer-paris-324081",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:chief-product-officer-product-growth-systems-ai-berlin-378308",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-finanzbuchhalter-berlin-462333",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-backend-engineer-energy-management-platform-all-genders-297211",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:firmware-validation-engineer-embedded-systems-testing-quality-assurance-de-berlin-81364",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-business-developer-berlin-37569",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-chief-of-staff-business-ops-france-115880",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:qualitatsprufer-qualitatssicherung-kunststoff-und-metall-gosheim-30939",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:eu-freelancer-inbound-customer-service-100-homeoffice-eu-ausserhalb-de-hamburg-345624",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-im-bereich-veranstaltungssicherheit-munchen-399486",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-seo-copywriter-french-market-france-129523",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:site-reliability-engineer-storage-geneva-switzerland-paris-367370",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-project-integration-manager-karlsruhe-358004",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:remote-account-executive-164600",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-energy-optimization-development-munchen-237839",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:freelancer-first-level-support-deutsch-danisch-french-leipzig-140384",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:it-systemelektroniker-bochum-174976",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-account-manager-paris-127825",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:developer-fokus-secure-software-nuremberg-493105",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-social-media-manager-hamburg-386020",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-azure-cloud-platform-architect-nuremberg-471086",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-art-director-stuttgart-10811",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:brand-builder-berlin-318667",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:senior-project-manager-hamburg-139581",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "workday:zeppelin:/job/Achim/Ausbildung-zum-Kaufmann--m-w-d--fr-Gro--und-Auenhandelsmanagement_JR_18503",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:mid-market-account-executive-london-88951",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-im-verkauf-dusseldorf-1978",
+"seen_at": "2026-09-07T14:25:40.779161+00:00"
 }
 ]
 }
