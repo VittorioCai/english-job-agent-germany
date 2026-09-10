@@ -1,2802 +1,6 @@
 {
 "seen": [
 {
-"id": "greenhouse:sumup:7809649002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7810133002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7810136002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7810142002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7810145002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7810159002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7810182002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7846111002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7846113002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7846114002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7859641002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7868915002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7868929002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7868999002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7869240002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7869304002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7869648002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7869734002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7871945002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875302002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875332002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875334002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875347002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875352002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875376002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875398002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875400002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875407002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875409002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7875410002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7927596002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7927598002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7927624002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7941398002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7945103002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7988602002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7988604002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7988606002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7988613002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7988640002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7988666002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7988679002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7988683002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7993285002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:7993293002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8013031002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8013034002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8018544002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8032073002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8032091002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8032092002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8063881002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8066192002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8081942002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8081983002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8082023002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8082062002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8082105002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8097283002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8097411002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8114250002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8118762002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8118920002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8119003002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8119004002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8125743002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8125775002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8147929002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8150303002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8154575002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8154601002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8174816002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8183479002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8192637002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8197069002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8207386002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8207403002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209155002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209162002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209165002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209173002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209186002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209216002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209227002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209282002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209300002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209309002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209311002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209395002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209406002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209409002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8209410002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8213032002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8221929002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8222274002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8225503002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8225729002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8234319002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8285272002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8287111002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8291314002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8294821002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313716002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313726002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313736002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313746002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313760002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313772002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313796002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313807002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313837002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313856002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313865002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313875002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8313886002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8317300002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8317342002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8317381002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8317423002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8317464002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8317991002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8321194002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8321240002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8325599002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8329149002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8329211002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8329254002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8329730002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8331418002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8331481002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8331535002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8331561002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8331590002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8331628002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8331654002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8331682002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8331719002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8331747002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8340138002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8341516002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8343751002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354954002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354971002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354974002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354975002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354976002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354977002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354978002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354979002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354982002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354983002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8354984002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8355672002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8367793002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8370118002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8370140002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8371943002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8375826002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8376237002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8376247002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8381301002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8381319002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8383464002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8388078002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8388293002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8388565002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8388972002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8401428002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8401442002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8401894002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8401895002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8402313002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8403892002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8416174002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8416226002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8418083002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8418287002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8424312002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8426778002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8427111002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8427119002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8427124002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8429335002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8429621002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8435161002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8437657002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8441295002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8441337002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448476002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448482002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448519002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448521002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448523002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448526002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448531002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448536002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448539002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448680002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8448681002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8450896002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8454634002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8454657002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456523002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456525002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456528002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456529002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456531002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456534002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456536002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456541002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456546002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456549002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456554002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456566002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8456628002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8458573002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8458918002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8459126002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8459127002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8465871002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8466284002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8467940002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8467947002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8468000002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8468017002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8468019002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8468190002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8468191002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8468194002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8468195002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8468196002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8468197002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8478728002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8478931002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8481527002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8482964002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8482965002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8483620002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8485243002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8488967002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8489685002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8491087002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8493802002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8493810002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8494767002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8497866002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8498275002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8498277002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8498750002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8498752002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8498753002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8498755002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8498757002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8498759002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8503607002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8505515002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8507674002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8507799002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8508079002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8509669002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8511537002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8511538002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8511845002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8518456002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8518889002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8520346002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8520357002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8520366002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8520784002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8522383002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8522563002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8525568002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8526216002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8526376002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8529496002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8529498002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8529500002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8530960002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8531513002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8532892002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8534577002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8534643002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8535776002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8536339002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8537094002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8537346002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8537352002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8539456002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8539626002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8539636002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8542561002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8545005002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8545288002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8546979002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8546982002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8547155002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8547633002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8547634002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8555715002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8556227002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8557439002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8558369002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8558372002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8558683002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8558843002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8558956002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8559007002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8559397002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8559523002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8559967002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8561134002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8561143002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8564784002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8566460002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8566473002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8566492002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8566597002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8567336002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8567355002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8570743002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8570754002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8570763002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8570770002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8570775002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8570784002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8573120002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8573136002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8576656002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8576657002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8576659002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8576660002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8576661002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8576666002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8576667002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8578073002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8579991002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8580002002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8580008002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8580040002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8582743002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8583427002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8583434002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8583444002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8585779002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8585780002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8586029002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8586092002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8586510002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8586640002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8586816002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8587363002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8587511002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8587512002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8587936002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8588675002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8596335002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8596342002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8596506002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8596512002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8596621002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8597489002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8597891002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8598617002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8599165002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8600419002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8601021002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8602283002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8602383002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8602756002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8605625002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8605639002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8606610002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8607477002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8607480002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8607495002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8607497002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8613598002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8615298002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8615309002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8616372002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8616617002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8616619002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8616621002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8617477002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8617810002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8617814002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8618347002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8621194002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8622059002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8622070002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8622242002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8622315002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8622736002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8623014002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8623026002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8623999002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:sumup:8624001002",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:4221684003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:6322003003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:6327292003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:6539038003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:6539149003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:6589276003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:6683716003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:6685458003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7323003003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7509277003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7518558003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7527243003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7528749003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7547153003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7550818003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7586142003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7599040003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7611698003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7623416003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7623444003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7623498003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7623520003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7623536003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7623915003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7626425003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7648847003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7652222003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7653497003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7659553003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7685037003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7685043003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7685045003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7685052003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7699949003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7707526003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7718242003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7719522003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7723561003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7728234003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7728317003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7730105003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7730182003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7735387003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7766979003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7771539003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7775140003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7781222003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7782815003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7783008003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7791098003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7798549003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "greenhouse:traderepublicbank:7801048003",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Airbus-DS-Airborne-Solutions-GmbH---In-Service-Support-Engineer--d-m-w-_JR10393438-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Airbus-DS-Airborne-Solutions-GmbH---In-Service-Support-Specialist--d-m-w-_JR10428810",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Airbus-DS-Airborne-Solutions-GmbH---Software-Architekt--d-m-w--mit-Schwerpunkt-IT-Security_JR10428857",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Airbus-DS-Airborne-Solutions-GmbH---Structure---Mechanic-Design-Engineer--d-m-w-_JR10428877",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Airbus-DS-Airborne-Solutions-GmbH---Werkstudent-im-Bereich-Production-and-Maintenance--d-m-w-_JR10424635",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Praktikant--m-w-d--im-Qualittsmanagement_JR10421969",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Schulpraktikum-Airbus-Bremen-im-Monat-Januar--110127---290127-_JR10426065",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Testia-GmbH---HR-Werkstudent-in--w-m-d-_JR10417725-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Testia-GmbH---Praktikant-in-HR-Recruiting--m-w-d-_JR10424492",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Werkstudent-in--d-m-w--im-A400M-Engineering_JR10421848",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Working-Student-within-Robotics-and-Automation--d-f-m-_JR10412249",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Bremen-Area/Working-student-within-Prototyping-Engineering--d-f-m-_JR10415301",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Getafe-Area/XMLNAME--MMCC-2026-2027---Internship---Master-in-Composite-Materials_JR10394802",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Duales-Studium-Bachelor-of-Science--d-m-w--Maschinenbau-und-Produktion-zum-01102027_JR10421409",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Duales-Studium-Bachelor-of-Science-Computer-Science--d-m-w--zum-01102027_JR10424208",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Duales-Studium-Bachelor-of-Science-Elektrotechnik-und-Informationstechnik-mit-Master-of-Science-Elektrotechnik--d-m-w--zum-01102027_JR10420413",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Duales-Studium-Bachelor-of-Science-Maschinenbau-mit-Master-of-Science-Luft--und-Raumfahrttechnik--d-m-w--zum-01102027_JR10421408",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Duales-Studium-Bachelor-of-Science-Maschinenbau-mit-Master-of-Science-Luftfahrttechnik--d-m-w--zum-01102027_JR10424207",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Duales-Studium-Bachelor-und-Master-of-Science-Informatik-Ingenieurwesen--d-m-w--zum-01102027_JR10420408",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Head-of-Quality--D-M-W--fr-die-Airbus-Logistik-GmbH_JR10427503",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Master-Thesis--d-f-m--within-AI-Suitability-Evaluation-for-Modelica-Physical-Models_JR10421486-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Master-Thesis--d-f-m--within-Digitalization-Projects-and-Project-Management_JR10377820",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Praktikant--d-m-w--Informatik-Testautomatisierung-Simulation--im-Flugzeugkabinen-Testzentrum_JR10423501",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Schulpraktikum-Airbus-Hamburg-1101---22012027_JR10426044",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Schulpraktikum-Airbus-Hamburg-1801---29012027_JR10426053",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Schulpraktikum-Airbus-Hamburg-2501---05022027_JR10426056",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Studentisches-Praktikum--m-w-d--im-Ausbildungsrecruiting---Employment-Marketing_JR10417143",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Werkstudent--d-m-w--Digital---Physical-Archive-Support_JR10409940",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Werkstudent--d-m-w--im-Bereich-A320-Final-Assembly-Line-Center-2--Management-Support_JR10425289-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Werkstudent--d-m-w--im-Bereich-Interior-Noise-_JR10422052",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Werkstudent--d-m-w--im-Bereich-Prozessplanung_JR10425866-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Werkstudenten--d-m-w--in-der-Unternehmenskommunikation_JR10425794",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Working-Student--d-f-m----Support-in-Customer-Service-AOS---Continuous-Improvement_JR10425052",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Working-Student--d-f-m---for-Digital-Workplace-Knowledge-Management-and-User-Experience_JR10418369",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Working-Student--d-f-m--Operational-Quality-Management---Business-Improvement-Support_JR10405303",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Working-student-Industrial-Strategy--d-w-m-_JR10407511",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/XMLNAME-1ZCB-Working-Student_JR10417579-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Lisbon-Airbus-Portugal/Data-Scientist_JR10424588-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/Internship--d-f-m--within-AIT--Assembly-Integration-and-Test--for-optical-Instruments---Mechanical_JR10379016",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/Master-Thesis-on-Characterization-of-Sequence-Robustness-for-Secure-NTN-Communications--d-f-m-_JR10424504-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/Master-student---d-f-m---in-the-field-of-onboard-AI-ML-for-5G-6G-Satellite-Non-Terrestrial-Networks_JR10423332-3",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/PHD-Thesis--Quantum-Sensing-for-Navigation--d-f-m-_JR10416564",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/PhD-student--d-f-m--in-the-field-of-Advanced-Navigation-Payloads_JR10367305",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/Werkstudent--d-m-w--im-Bereich-Employer-Branding_JR10426148",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/Werkstudent--d-m-w--im-Bereich-Sales-Operations---Performance-Management_JR10421070",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/Werkstudent-im-Bereich-TCADI--d-f-m-_JR10400462",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/Working-Student--d-f-m--for-Development-of-AI-models-for-Spacecraft-FDIR_JR10423292",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/Working-Student-in-AD-Ethics---Compliance-Programme-Office---D-M-W_JR10421118",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Mnchen-Area/Working-student---digital-transformation-architecture--d-f-m-_JR10366010",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Stuttgart-Area/Automatisierte-SoC-Erstellung-mit-KI---bring-Raumfahrt-und-AI-zusammen--Werkstudententtigkeit-d-m-w-_JR10415085",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Stuttgart-Area/JR10416290--Praktikum-Abschlussarbeit-im-Bereich-Development-Security-Operations---d-m-w-_JR10416290",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Stuttgart-Area/Praktikum--Aufbau-eines-Emulators-fr-die-Verifikation-einer-optischen-Datenschnittstelle---d-m-w-_JR10401380",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Stuttgart-Area/Praktikum--Positioning--Navigation--and-Timing-Konzept---d-m-w-_JR10414172",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Stuttgart-Area/Praktikum-Abschlussarbeit--Entwicklung-eines-Simulators-zur-Bestimmung-abgestrahlter-Noise-Power-Ratio-bei-Phased-Array-Antennen---d-m-w-_JR10385880",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Stuttgart-Area/Praktikum-im-Bereich--Power-Supply-Entwicklung-fr-Raumfahrtanwendungen---d-m-w-_JR10415743",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Stuttgart-Area/Praktikum-im-Einkauf--m-w-d-_JR10410423-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Taufkirchen--Ottobrunn/WERKSTUDENT-IM-BEREICH-SUSTAINABILITY--D-F-M-_JR10416187-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Ulm-Area/Werkstudent-fr-Drone-C2-Projekte--d-m-w---Open-_JR10422329",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:ag:/job/Ulm/Technical-Sales-Engineer--m-w-d-_JR10373357",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:boeing:/job/AUS---Brisbane-Australia/Global-Engagement-Intern_JR2026517374-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:boeing:/job/DEU---Henstedt-Ulzburg-Germany/Shipping-Receiving-Spec--Data-Shipping-_JR2026517198-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:boeing:/job/GBR---Bristol-UK/Human-Resources-Generalist-Intern--12-Months-Placement_JR2026517833-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:boeing:/job/POL---Gdansk-Poland/Associate-Software-Systems-Engineer_JR2026507429-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:boeing:/job/POL---Gdansk-Poland/C---Linux-Software-Engineer--Associate-or-Experienced-Level-_JR2026511231-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:boeing:/job/USA---Berkeley-MO/Lead--Senior-or-Experienced-Electronic-Systems-Design--Integration--Analysis--and-Test-Engineers---Sign-on-Bonus-Potential--_JR2026510427",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:boeing:/job/USA---Hazelwood-MO/Associate-Real-Time-Software-Engineer--Phantom-Works_JR2026518308-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:boeing:/job/USA---Hazelwood-MO/Associate-Systems-Engineer--FL-June-23-25-_JR2026512499-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:boeing:/job/USA---Hazelwood-MO/Associate-Systems-Engineer_JR2025489712",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:boeing:/job/USA---Saint-Charles-MO/Phantom-Works-Mechanisms-Design-Engineer--Senior-or-Experienced-_JR2026516100",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:borgwarner:/job/Arnstadt---Germany/Werkstudent--Praktikant-Anwendungstechnik--m-w-d-_R2023-7698",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:borgwarner:/job/Darmstadt-HQ---Germany/Account-Manager--Senior-Battery-Energy-Storage-Systems--m-f-d-_R2026-1730",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:borgwarner:/job/Darmstadt-HQ---Germany/Kreditorenbuchhalter--m-w-d-_R2026-2241-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:borgwarner:/job/Darmstadt-HQ---Germany/Scrum-Developer_R2026-1860",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:borgwarner:/job/Darmstadt-HQ---Germany/Werkstudent-Produktmanagement--m-w-d-_R2026-2601",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:borgwarner:/job/Darmstadt-HQ---Germany/Working-Student-Simulations--m-w-d-_R2026-2482",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:borgwarner:/job/Darmstadt-HQ---Germany/Working-Student-System-Development--m-w-d-_R2026-1001",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:borgwarner:/job/Heidelberg-Tech-Center---Germany/Werkstudent--m-w-d--Quality---Digital-Support_R2026-2641",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:borgwarner:/job/Kirchheimbolanden---Germany/Werkstudent--m-w-d--Project-Management_R2026-2643",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:db:/job/Mumbai-Nirlon-Knowledge-Pk-B1/CFO-Intern_R0415916",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:db:/job/Shanghai-Two-IFC/Corporate-Bank---Local-Intern-China_R0390987",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:db:/job/Shanghai-Two-IFC/Investment-Bank---Local-Intern-China_R0391022",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:freshfields:/job/Berlin/Studentische-Mitarbeiter--m-w-x--Legal-Tech_R-01330",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:freshfields:/job/Dusseldorf/Associates--m-w-x----Wirtschaftsstrafrecht--Internal-Investigations---Compliance_R-00977",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:freshfields:/job/Dusseldorf/Referendare--wissenschaftliche-Mitarbeiter--m-w-x----Wirtschaftsstrafrecht--Internal-Investigations---Compliance_R-00972",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:freshfields:/job/Dusseldorf/Studentische-Hilfskraft--m-w-d--Empfang_R-07770-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:freshfields:/job/New-York/Lateral-Recruiting-Assistant_R-08172",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/Baar-Onyx/Executive-Medical-Director--Clinical-Development-Lead---Oncology---Lung---Head-Neck-Cancers_443723",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/Canada--Ontario--Ottawa/COPD-Specialty-Sales-Representative---Ottawa-Kingston_444291-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/Field-Worker---DEU-Munich/Key-Account-Manager-Rheumatologie-Nephrologie--m-w-d-_437096-3",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/Field-Worker---DEU-Munich/Netzwerkmanager-in-Hmatologie--m-w-d----Nordrhein-Westfalen--Niedersachsen--Mnsterland_442203-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/Field-Worker---USA/ViiV-Healthcare--GSK--Regional-Medical-Director--Southeast_444390-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/France---Saint-Amand-les-Eaux/Supply-Chain-Lead--H-F-_444678-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/Munich-Prinzregentenplatz/Produktmanager-in--m-w-d--Hmatologie_444438-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/UK--London--New-Oxford-Street/Global-Medical-Affairs-Director-Hepatology_443627-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/USA---Illinois---Bloomington/Vaccine-Account-Manager---Champaign--IL_437331",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/USA---Massachusetts---Waltham/Director--Oncology-Clinical-Pharmacology--Modeling-and-Simulation_437819",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/USA---North-Carolina---Durham/ViiV-Healthcare--GSK--Director--Clinical-Pharmacology_442930-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/USA---Pennsylvania---Philadelphia/Director--US-Real-World-Evidence-and-Health-Outcomes---Oncology-Pipeline_442721",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:gsk:/job/Waltham/Director-Epidemiology-Respiratory_438775-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:hitachi:/job/Arnstadt-Thringen-Germany/Dualer-Student-Elektrotechnik---Automatisierungstechnik--m-w-d-_R1010086-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:hitachi:/job/Brilon-North-Rhine-Westphalia-Germany/Werksstudent-Continuous-Improvement--m-w-d-_R0129763",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:hitachi:/job/Halle-Saale-Saxony-Anhalt-Germany/XMLNAME--Trafoleben---Dualer-Student---Bachelor-of-Engineering-Mechatronik---Allgemeine-Mechatronik--m-w-d--2026_R0111285",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:hitachi:/job/Halle-Saale-Saxony-Anhalt-Germany/XMLNAME--Trafoleben---Dualer-Student---Elektrische-Energietechnik--m-w-d-_R0111249",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:hitachi:/job/Kosice-Kosice-Slovakia/Associate-designer---3D-cable-systems-in-electric-substations_R0135538",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:hitachi:/job/Kosice-Kosicky-kraj-Slovakia/Senior-Project-Engineer_R0116928",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:hitachi:/job/Krakow-Lesser-Poland-Poland/Finance-Graduate-Development-Program_R0129851-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:hitachi:/job/San-Isidro-Lima-Peru/Legal-Intern---Pre-Professional_R0126513",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:hitachi:/job/San-Isidro-Lima-Peru/Professional-Intern---Sales-Area_R0079678",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:hitachi:/job/Stuttgart-Baden-Wrttemberg-Germany/Schulpraktikum---BORS---BOGY--m-w-d-_R1011734-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:intel:/job/Malaysia-Penang/CPU-SoC-Silicon-Design-Engineering-Intern_JR0285551",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:intel:/job/US-Arizona-Phoenix/Software-Engineer---Compute-Infrastructure-and-Security_JR0285006",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:intel:/job/US-California-Santa-Clara/Analog-Circuit-Design-Engineer-Graduate-Intern_JR0284503",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:intel:/job/US-Oregon-Hillsboro/Accounting-Manager_JR0284963-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:intel:/job/US-Oregon-Hillsboro/Senior-AI-Software-Architect---Runtime_JR0283399",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:intel:/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/Barcelona-Spain/Analyst---HE-HTA-Speicalist-for-the-UK-market---Multiple-locations_R1542508",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/Barcelona-Spain/Global-HTA-Strategy--Senior--Consultant---Spain--Hybrid-Home-based-_R1556229",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/Durham-North-Carolina-United-States-of-America/Therapeutic-Strategy-Director---Cardiovascular_R1520305",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/Frankfurt-Hesse-Germany/Therapeutic-Strategy-Lead----Internal-Medicine-Immunology---Home-Based--m-w-d-_R1553461",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/Irving-TX-United-States-of-America/Pharmacy-Technician_R1544651",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/London-United-Kingdom/Epidemiologist--Internal-Medicine--Inflammation---Immunology--FSP-Sponsor-Dedicated-_R1543201-3",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/Madrid-Spain/Intern---Clinical-Coding_R1550143",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/Madrid-Spain/Pharma-Panel-Intern_R1556261",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/Reading-Berkshire-United-Kingdom/Therapeutic-Strategy-Lead----Internal-Medicine-Immunology--home-based-_R1526063",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/San-Antonio-TX-United-States-of-America/Pharmacy-Graduate-Intern_R1536609-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/Shanghai-China/-Health-Economics---Real-World-Insights-Intern_R1535897",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:iqvia:/job/Taguig-City-Philippines/INTERNAL-AUDITOR_R1540414",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/China---Beijing---Beijing/GCA-China-Analytics-Innovation-Lead_4954681",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/China---Beijing---Beijing/Pricing-Coordination-Manager-_4938902-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/China---Shanghai---Shanghai/Head-of-International-Policy---Communications--IPC---China_4944564",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/Germany---Berlin/Duales-Studium-Business-Administration-International-Industrial-Management--BA--Standort--Berlin--Start-192027_4959209",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/Germany---Berlin/Pharmazeut-im-Praktikum--Intensiv--oder-Kombipraktikum-_4790916-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/Germany---Berlin/Pharmazeut-in--m-w-d--im-Praktikum-Regulatory-Affairs_4959973-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/Germany---Freiburg/Pflichtpraktikant--m-w-d--im-Bereich-Finance_4920391-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/Germany---Freiburg/Pharmazeut-im-Praktikum--m-w-d-_4925545-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/Malaysia---Kuala-Lumpur/RIO-Execution-Hub-Manager_4960274-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/Philippines---Makati-City/RIO-Execution-Hub-Sr-Associate_4960288",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/United-States---New-York---New-York-City/Global-Development-Lead--Internal-Medicine--MD--Sr-Director-_4959022-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/United-States---Pennsylvania---Collegeville/Global-Development-Lead--Internal-Medicine--Sr-Director--MD-_4956752-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/United-States---Pennsylvania---Collegeville/Global-Development-Lead--Internal-Medicine--Sr-Director--non-MD-_4956753-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:pfizer:/job/United-States---Pennsylvania---Remote/Key-Account-Manager---Internal-Medicine---Antiviral---Pennsylvania_4960299-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Berlin/Head-of-Government-Affairs-Berlin---m-w-d-_JR0000013864-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Bochum/Berufsfeldorientierung-Technisch-Bochum--1-Tag-_JR0000011229",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Bochum/Leiter-in-Werkfeuerwehr-abwehrender-Brandschutz--m-w-d-_JR0000013850-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Bochum/Praktikant-in-Wissensmanagement-und-Prozessdokumentation-Schubbeize--m-w-d-_JR0000014003-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Bochum/Schlerpraktikant-in-Bochum--m-w-d-_JR0000013791-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Dortmund/Berufsfeldorientierung-Technisch-Dortmund--1-Tag-_JR0000011231",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Dortmund/Schlerpraktikant-in-Dortmund--m-w-d-_JR0000010793",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Hamborn/Initiativ---Hochschulpraktikant-in--m-w-d-_JR0000010659",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Hamborn/Praktikum-Bachelor--Masterarbeit-im-Bereich-Instandhaltung-Elektrik--m-w-d-_JR0000012720",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Hamborn/Praktikum-Bachelor--Masterarbeit-im-Bereich-Instandhaltung-Mechanik--m-w-d-_JR0000012721",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Hamborn/Praktikum-Bachelor--Masterarbeit-im-Bereich-Moderner-IT-Anwendungen--m-w-d-_JR0000013893-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:steeleurope:/job/Hamborn/Praktikum-Bachelor--Masterarbeit-im-Bereich-Produktionstechnik--m-w-d-_JR0000012722",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Braunschweig/Werkstudent-fr-die-Forschung-und-Entwicklung-von-hochgenauen-Mechatronikbaugruppen--m-w-x-_JR_1047846-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Jena/Supplier-Quality-Manager-Mikrooptik--m-w-x-_JR_1044356",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Jena/Werkstudent-Digital-Process-Excellence--m-w-x-_JR_1051083",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Karlsruhe/Internship---Working-Student---Physics-Simulation-for-Medical-Soft-Body-Modeling--f-m-x-_JR_1050068-4",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Karlsruhe/Internship-in-Agriculture-Technology-and-Robotics--f-m-x-_JR_1049137",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Mnchen/Internship---Post-Merger-Integration--PMI--Excellence--f-m-x-_JR_1051252",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Mnchen/Internship-Machine-Learning--Synthetic-Data-Generation---f-m-x-_JR_1050687",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Mnchen/Internship-Software-Development-Team-for-Medical-Robotic-Systems--f-m-x-_JR_1051268",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Mnchen/Internship-in-Machine-Learning--Visual-Language--Action--Models--f-m-x-_JR_1050685",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Mnchen/Sicherheitsingenieur-Arbeitsschutz---Prvention--m-w-x-_JR_1050806-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Mnchen/Werkstudent-Technische-Redaktion--m-w-x-_JR_1050668",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Mnchen/Working-Student-Frontend-Development--m-f-x-_JR_1050400",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Diagnose-und-Monitoring-Experte--m-w-x-_JR_1050144-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Intern--Post-sales-digital-customer-interactions--f-m-x-_JR_1050008-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Internship---Physically-Based-Rendering--Vulkan---Digital-Twins--f-m-x-_JR_1051106-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Internship---Working-Student---Technical-Artist--3D-Artist---3D-Asset-Creation-for-Digital-Twins--f-m-x-_JR_1051099",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Internship-in-Next-Generation-System-Interaction-with-Eye-Tracking--f-m-x-_JR_1045462",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Internship-or-Working-Student-in-3D-Computer-Vision_JR_1023225-3",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Masterthesis-Analyse-von-reinraum--und-vakuumtauglichen-Schnellverbindungssystemen-zur-Gasversorgung--m-w-x-_JR_1050763-4",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Patentkoordinator---IP-Management---Patent-Strategy--m-w-x-_JR_1051107-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Praktikum-Optik-Elektronik--m-w-x-_JR_1050073-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Praktikum-Optik-Elektronik--m-w-x-_JR_1050074-4",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Praktikum-Schichtentwicklung----analyse--m-w-x-_JR_1051172",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Senior-Data-Architect---Global-HR--f-m-x-_JR_1049347-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Senior-Entwicklungsingenieur-Mechatronik-mit-Fokus-auf-Dynamik-und-Regelungstechnik--m-w-x-_JR_1050251-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Specialist-Inbound---Outboundlogistics--m-w-x-_JR_1049589-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werksstudent-Diagnose-und-Monitoring--m-w-x-_JR_1048222-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-AI---Automatisierung--m-w-x-_JR_1048495-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Automation-Technology--m-w-x-_JR_1050113-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Automation-Technology--m-w-x-_JR_1050114-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Automation-Technology--m-w-x-_JR_1050115-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Controlling--m-w-x-_JR_1050485-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Manufacturing-Engineering-Configurable-Devices--m-w-x-_JR_1049149-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Mechanical-Design---Konstruktion---Simulation--m-w-x-_JR_1049037-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Mechanical-Design-Konstruktion--m-w-x-_JR_1049038",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Mechanikentwicklung-Data-Science--m-w-x-_JR_1049828-3",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Mechatronik--m-w-x-_JR_1049147",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Mechatronik-Dynamik-und-Regelungstechnik--m-w-x-_JR_1050513-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Mechatronik-und-Qualifizierung--m-w-x-_JR_1049424-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-PFAS---Project-Support--m-w-x-_JR_1050580-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Produktentwicklung-NPI---Supply-Chain--m-w-x-_JR_1048454-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Qualitt--Datenmanagement-und-Reporting--m-w-x-_JR_1047841-3",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Supply-Chain-Excellence---Exportkontrolle--m-w-x-_JR_1050487-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Supply-Chain-Excellence---Prozesse--m-w-x-_JR_1050604",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-Supply-Chain-Management---Schwerpunkt-Warengruppenmanagement-im-strategischen-Einkauf-Mechanik--m-w-x-_JR_1048894-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-in-der-Produktions-IT--m-w-x-_JR_1048620-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Werkstudent-optische-Messtechnik--m-w-x-_JR_1049112-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Working-Student-Marketing-Asset-Management--f-m-x-_JR_1049774",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Working-Student-Structural-Mechanics---Computation--f-m-x-_JR_1050229-3",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Remote---USA-NC/Territory-Account-Manager---Southeast_JR_1051155-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Wetzlar/Werkstudent---Process-Excellence--m-w-x-_JR_1050224-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Berlin-Sd-Berlin-Schenkendorf-ZBM/Ausbildung-zum-Kaufmann--m-w-d--fr-Gro--und-Auenhandelsmanagement_JR_15987-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Berlin/Ausbildung-zum-Elektroniker-fr-Betriebstechnik-oder-Industrieelektriker--m-w-d-_JR_18330-3",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Erlangen/Schlerpraktikum-als-Land--und-Baumaschinenmechatroniker--m-w-d-_JR_1436",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Essen/Ausbildung-zum-Elektroniker-fr-Betriebstechnik-oder-Industrieelektriker--m-w-d-_JR_18377",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Fischamend-Wien/Initiativbewerbung-Zeppelin-sterreich-GmbH_JR_10439",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Frankfurt/Auszubildender-zum-Elektroniker-fr-Betriebstechnik-oder-Industrieelektriker--m-w-d-_JR_15601",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Frankfurt/Projektmanager-Events--m-w-d-_JR_17440-3",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Friedrichshafen-ZSD/Werkstudent--m-w-d--im-Bereich-IT_JR_17838-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Friedrichshafen/Duales-Studium---Allgemeiner-Maschinenbau---2027_JR_18155",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Friedrichshafen/Duales-Studium---Mechatronik---2027_JR_18156",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Friedrichshafen/Projektkoordinator--m-w-d-_JR_17247-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Friedrichshafen/Schlerpraktikum--m-w-d--an-unserem-Standort-in-Friedrichshafen_JR_5909-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Exportkontrollmanager--m-w-d-_JR_18269-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/HSE-Manager--m-w-d-_JR_18323",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Head-of-CoE-Accounting--m-f-d-_JR_18313",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Head-of-CoE-Risk--ICS---Insurance--m-f-d-_JR_18315",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Head-of-Division-Platforms---Infrastructure_JR_17437",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Projektmanager-Event--m-w-d----Vertriebsgebiet-Bayern_JR_17576",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Sachbearbeiter-Entgeltabrechnung---Payroll-Specialist--m-w-d-_JR_18179",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/System-Engineer--m-w-d--Citrix_JR_17874",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Tax-Manager-Group-Tax--m-w-d-_JR_18180",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Werkstudent--m-w-d--Accounting_JR_17793",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Werkstudent--m-w-d--Unternehmenskommunikation_JR_18005",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Werkstudent-HR-Systems---Processes--m-w-d-_JR_17099",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Werkstudent-Sales-Excellence--m-w-d-_JR_17919-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Garching/Werkstudent-im-Bereich-Recruiting---Employer-Branding--m-w-d-_JR_18000",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Hamburg---Wilhelmsburg/Sachbearbeiter-Innendienst--Baumaschinen---Baugerte--m-w-d-_JR_17068",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Hamburg-West/Ausbildung-zum-Fachlageristen--m-w-d-_JR_17757",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Hannover/Auszubildener-zum-Elektroniker-fr-Betriebstechnik--m-w-d--oder-Industrieelektriker--m-w-d-_JR_15589",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Kln-ZRD/Ausbildung-zum-Fachlageristen--m-w-d-_JR_17861",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Kln/Ausbildung-zum-Kaufmann-fr-Bromanagement--m-w-d-_JR_18266",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Kln/Ausbildung-zum-Kaufmann-fr-Gro--und-Auenhandelsmanagement--m-w-d-_JR_15367-2",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Kln/Ausbildung-zum-Kaufmann-fr-Gro--und-Auenhandelsmanagement--m-w-d-_JR_17477",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Magdeburg/Schlerpraktikum-Straenwrter--m-w-d-_JR_13420",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Osnabrck/Ausbildung-zum-Kaufmann--m-w-d--fr-Gro--und-Auenhandelsmanagement_JR_17802",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Paderborn/Ausbildung-zum-Kaufmann-fr-Gro--und-Auenhandelsmanagement--m-w-d-_JR_15689",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Rdermark/Projektingenieur-Anlagentechnik--m-w-d-_JR_15678",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Stuttgart/Ausbildung-zum-Kaufmann-fr-Gro--und-Auenhandelsmanagement--m-w-d-_JR_18002-1",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:zeppelin:/job/Unterschleiheim/Werkstudent--m-w-d--Prozessmanagement_JR_18172",
-"seen_at": "1970-01-01T00:00:00+00:00"
-},
-{
-"id": "workday:intel:/job/Germany-Munich/Supply-Chain-Intern---Engineering-and-Research-and-Development-Services--m-f-d-_JR0284943-1",
-"seen_at": "2026-07-13T09:06:49.985841+00:00"
-},
-{
-"id": "workday:borgwarner:/job/Darmstadt-HQ---Germany/Working-Student-GSM-Processes-and-Tools--m-w-d-_R2026-2611",
-"seen_at": "2026-07-13T09:06:49.985841+00:00"
-},
-{
-"id": "greenhouse:hellofresh:8035217",
-"seen_at": "2026-07-13T09:06:49.985841+00:00"
-},
-{
-"id": "smartrecruiters:SevenSenders:744000133372730",
-"seen_at": "2026-07-13T09:06:49.985841+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Praktikant-in-im-Bereich-digitale-Knowledge-Plattform-des-globalen-Service-Teams-der-ZEISS-IQS--m-w-x-_JR_1049824",
-"seen_at": "2026-07-13T09:06:49.985841+00:00"
-},
-{
-"id": "workday:zeissgroup:/job/Oberkochen/Praktikum-strategischer-Einkauf-Schwerpunkt-Projektmanagement--m-w-x-_JR_1043801-4",
-"seen_at": "2026-07-13T09:06:49.985841+00:00"
-},
-{
-"id": "workday:ag:/job/Hamburg-Area/Internship-within-VSM-Industrial-Evolution--d-f-m-_JR10423788",
-"seen_at": "2026-07-13T09:06:49.985841+00:00"
-},
-{
 "id": "workday:iqvia:/job/Munich-Bavaria-Germany/Intern---Advisory-Services_R1539595",
 "seen_at": "2026-07-13T09:06:49.985841+00:00"
 },
@@ -79999,6 +77203,2802 @@
 {
 "id": "arbeitnow:junior-production-engineer-munich-193188",
 "seen_at": "2026-09-09T13:08:31.235967+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4970106101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:procurement-manager-reading-191957",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-informationssicherheit-bonn-488469",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4864332101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8012244",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:data-analyst-8-month-ftc-london-303756",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:7786771002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7721298",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-devsecops-engineer-london-405907",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-planner-ooh-mensch-dusseldorf-134660",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:founding-growth-partner-ai-marketing-lead-berlin-294314",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-marketing-und-design-dusseldorf-274079",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-project-manager-rooftop-pv-systems-emobility-bess-frankfurt-am-main-152802",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-field-marketing-manager-london-149510",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:director-of-engineering-content-platform-catalog-london-329213",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7966472",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-qa-automation-engineer-uddingston-229952",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-werkstudent-minijob-ikundenservice-flexible-arbeitszeiten-home-office-im-e-commerce-start-up-stuttgart-11900",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-manager-media-investment-mensch-tv-advanced-tv-dusseldorf-93011",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:quality-manager-quality-control-quality-assurance-all-genders-berlin-75232",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-solutions-specialist-connected-devices-manchester-467815",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4695891101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-enterprise-account-executive-new-business-54601",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-product-manager-claims-x-berlin-471320",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:rider-onboarding-associate-6-months-ftc-london-201781",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4864330101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:backend-engineer-golang-transfers-eu-berlin-291024",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-software-engineer-munich-389272",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:8020521",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4907496101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-plauen-499195",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-customer-experience-dental-lab-technician-germany-113001",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:java-full-stack-developer-martinsried-85702",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8052044",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4897511101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:getyourguide:8088221",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8030522",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:software-support-testing-spezialist-fur-microsoft-dynamics-crm-weinstadt-261844",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-post-market-surveillance-manager-france-8227",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:success-story-communicator-cologne-369331",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:customer-support-manager-fur-kobold-frankfurt-am-main-49233",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4925162101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-data-engineer-real-time-analytics-62324",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-support-analyst-london-467519",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-developer-experience-platform-engineer-london-415344",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4897729101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:growth-manager-berlin-186716",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4636046101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4814866101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4765503101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7988923",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:operational-excellence-lead-london-119969",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:software-engineer-backend-bi-platform-london-59220",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-data-analyst-financial-health-cardiff-415195",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-sales-operations-manager-gn-59773",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-bautzen-376579",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4737396101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:database-administrator-starnberg-345484",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:web-grafikdesignerin-fur-e-mail-marketing-klaviyo-hamburg-248156",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7949752",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:smb-sales-team-leader-12-months-ftc-manchester-298227",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:softwarearchitekt-cnet-starnberg-322230",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:operations-lead-london-482171",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:lead-business-analyst-process-automation-berlin-remote-342685",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Oberkochen/Product-Lifecycle-Manager--m-w-x--Befristet-auf-24-Monate_JR_1052077",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Oberkochen/Softwareentwickler-fr-Montageprozesse--m-w-x-_JR_1052318-4",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-kassel-24438",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4785053101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7974300",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-online-marketing-strategy-manager-mensch-hamburg-95121",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-lead-product-designer-operations-cardiff-407417",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4809399101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:full-stack-engineer-london-224546",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-systemadministrator-moderne-it-flexible-arbeitszeiten-viel-homeoffice-lilienthal-435124",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:shop-lead-shopify-e-commerce-hamburg-230354",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:account-executive-enterprise-acquisition-uk-205427",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7869765",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8044891",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8044916",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Oberkochen/Development-Engineer-for-Drive-Technology-in-Measurement-Systems--m-f-x-_JR_1052343-2",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-dormagen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-193049",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-developer-experience-security-engineer-london-175591",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4896442101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:lead-data-scientist-cardiff-40119",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8009998",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4713413101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:onboarding-specialist-emea-london-210412",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-systemadministratorin-all-genders-frankfurt-am-main-426091",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4923491101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:staffbase:4355974002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:lead-communications-architect-munich-germany-56043",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-post-producer-12-month-ftc-london-396384",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:8794667002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7982013",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:steuerfachangestellter-oder-fachinformatiker-schwerpunkt-kanzleiorganisation-datev-hamburg-270613",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:recoveries-agent-autolend-chatham-496907",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8049106",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:managing-director-koln-18476",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-software-engineer-agentic-search-web-access-engineer-27959",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8045980",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-sap-consultant-real-estate-management-re-re-fx-berlin-227287",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:director-engineering-partnerships-london-273906",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-success-engineer-manchester-67833",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-production-engineer-reading-425502",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:scout24:7761017",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7896899",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:serviceberater-berlin-13766",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-product-manager-search-infrastructure-london-329496",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:8790864002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8038010",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-asset-management-dresden-250913",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:german-tax-specialist-berlin-498378",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-creative-berlin-100209",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-staff-lead-software-developer-ai-agents-integrations-435211",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:head-of-operations-london-418887",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4904390101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4873799101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-talent-acquisition-partner-people-experience-europe-berlin-27390",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:data-scientist-fraud-payments-manchester-464882",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:geschaftsleitung-reha-standard-sanitatshaus-kamp-lintfort-274732",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:staffbase:8622016002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8003705",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-manager-equity-tax-national-171960",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:rugby-systems-operator-london-195258",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:staff-product-designer-business-banking-cardiff-59906",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-search-backend-engineer-berlin-34822",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8031742",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4714971101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4701668101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-software-engineer-backend-data-streaming-362952",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7916922",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:raisin:4728489101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-financial-accountant-real-estate-leipzig-491032",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:field-chief-technology-officer-field-cto-225880",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-technical-writer-london-351249",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7960138",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7988614",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:staff-software-engineer-paris-office-172974",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-dresden-141662",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4820723101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:junior-it-supporter-1st-2nd-level-weissensberg-382913",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:associate-account-executive-germany-berlin-293879",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8025786",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:aero-software-developer-bicester-united-kingdom-13373",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4919871101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7967829",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-suhl-312360",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8030076",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-success-manager-munchen-bayern-460974",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-hr-assistenz-frankfurt-443959",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:head-of-social-media-berlin-197387",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4738326101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8378932002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:solutions-engineer-emea-munich-285871",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-ai-engineer-notebooks-116524",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-software-developer-for-thinkrail-innovation-hub-463531",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:technical-sourcer-ftc-london-282704",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-director-customer-success-emea-413771",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-385283",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:centrale-lyon-enise-post-doctorat-modelisation-et-optimisation-de-la-spheroidisation-de-poudres-metalliques-par-plasma-rf-st-etienne-356835",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:tutor-lehrkraft-produkt-projekt-change-management-all-genders-berlin-448650",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8028077",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-accountant-buchhalter-in-standort-herne-2-tage-homeoffice-51278",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-brand-managerin-hamburg-87719",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Jena/Technical-Project-Lead---Production---Delivery--m-w-x-_JR_1052775-1",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:solutions-architect-i-berlin-138627",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-gottingen-26126",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:specialist-portfolio-manager-healthcare-london-346986",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8030063",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:commercetools:7990429003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-success-manager-london-184085",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-im-people-culture-team-hannover-hanover-153571",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Oberkochen/Pechpolierer--m-w-x-_JR_1051885-1",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8050379",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-dessau-rosslau-329432",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-consultant-information-security-aalen-351527",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:grafikdesign-branding-werkstudentin-teilzeit-20-std-woche-100-remote-berlin-333458",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-digital-creative-gn-ai-focus-226612",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:robotics-software-engineer-grasping-munich-277308",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:people-culture-supervisor-personalsachbearbeiter-in-ingolstadt-210820",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-staff-ai-engineer-developer-tools-237775",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4737987101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Oberkochen/Entwicklungs--und-Systemingenieur-Mikrosysteme--m-w-x-_JR_1052188-1",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:reparatur-und-logistikmitarbeiter-tumi-store-munchen-munich-323674",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7913103",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:director-customer-success-london-110593",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:staffbase:7982519002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-events-manager-emea-12-14-month-fixed-term-contract-london-hybrid-80183",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:7786555002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:ag:/job/Mnchen-Area/Working-Student--d-f-m--within-Spectrum---Regulatory-Affairs-team_JR10438527-1",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-sales-engineer-paris-paris-133020",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7992499",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7981883",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4866214101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:head-of-security-berlin-66725",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:product-manager-iii-seller-experience-berlin-367795",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4923755101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-fullstack-developer-munchen-159373",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:teamleiter-accounting-dusseldorf-204450",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-im-bereich-abrechnung-von-betriebskosten-rechnungswesen-leipzig-389729",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4907850101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:social-media-und-influencer-lead-all-genders-berlin-337881",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8028067",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-forward-deployed-engineer-stuttgart-258011",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Jena/Project-Manager---Global-Technology-Production---Delivery--m-w-x-_JR_1052774-1",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8030038",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:customer-value-architect-emea-london-441509",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7988551",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-solution-architect-germany-munich-498114",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:8713865002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:scout24:7996488",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Oberkochen/Projekt-Manager-in-Produktentwicklung-Elektronenmikroskopie--m-w-x--Befristet-fr-2-Jahre_JR_1052728",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:commercetools:7988732003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:flix:8794220002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:commercetools:7988729003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-grc-analyst-mfx-berlin-berlin-357788",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:datev-techniker-operations-manager-remote-vollzeit-teilzeit-munich-18836",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:data-architect-london-38317",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:sales-operations-coordinator-brighton-97766",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:content-creator-dusseldorf-173263",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:business-operations-manager-product-data-insights-reporting-manchester-403733",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:flix:8794199002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7842504",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "personio:unternehmertum:2734191",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:ag:/job/Mnchen-Area/SpS-Procurement--Performance-Controlling_JR10410597-1",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-software-engineer-engineering-operations-29349",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-media-consultant-mensch-westlotto-dusseldorf-89867",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8190679",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7963120",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-regulatory-officer-paris-168394",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:marketing-operations-executive-london-267174",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4869206101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-research-associate-london-411793",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:junior-art-director-berlin-schlesische-strasse-26-330607",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-zwickau-139439",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:data-engineer-mid-level-berlin-de-63464",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:forward-deployed-engineer-manager-london-123580",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4905260101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:operations-strategy-lead-london-105355",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4907422101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-software-engineer-core-experiences-dusseldorf-germany-108552",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:chief-marketing-officer-cmo-berlin-standard-423966",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7672627",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8020924",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:konux:4109616003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-audio-visual-technician-live-events-london-23205",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:8784027002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-product-manager-charging-tax-london-255854",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4903168101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-account-managerin-munich-435544",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4738332101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-national-account-manager-london-400587",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-principal-product-manager-operations-london-219614",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4604587101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:technical-customer-support-lead-london-united-kingdom-361731",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-im-bereich-innovation-new-business-startups-all-people-leipzig-472996",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-enterprise-account-executive-manchester-489766",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-product-manager-vertical-search-london-96229",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7977406",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-compliance-legal-manager-karlsruhe-fautenbruchstrasse-433731",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-giebelstadt-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-132578",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:analytics-engineer-berlin-300399",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:warehouse-trainer-garching-bei-munchen-63606",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:microsoft-dynamics-365-business-central-consultant-russelsheim-444382",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7745747",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:compliance-manager-data-protection-officer-regulatory-compliance-privacy-234119",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:project-manager-functional-consultant-munich-11667",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8035229",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8615448002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-account-executive-enterprise-sales-paris-107102",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8014359",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:gsk:/job/USA---Pennsylvania---Upper-Providence/Associate-Director--Clinical-Pharmacology-Modeling-and-Simulation-Oncology_447169",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:ausbildung-zum-fachinformatiker-fur-systemintegration-010227-hamburg-299512",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7862406",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-forensiker-analysten-miwid-frankfurt-am-main-146608",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-accountant-all-genders-berlin-377918",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-support-engineer-brighton-370396",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4877821101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-public-sector-consulting-projektmanagement-dusseldorf-221722",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-data-scientist-german-speaking-224551",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-information-security-awareness-automation-munchen-499257",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:commercial-strategy-manager-london-479502",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-key-account-managerin-berlin-berlin-78325",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:sme-relationship-services-associate-director-london-386517",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:customer-success-manager-berlin-2508",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:b2b-demand-generation-manager-london-235223",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:scout24:7369381",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7552415",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:commercetools:7989363003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-product-manager-abrechnung-erp-berlin-112538",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:account-director-london-369051",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-ecommerce-manager-munchen-151549",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:account-executive-commercial-accounts-public-munich-357236",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-it-systems-engineer-windows-nuremberg-233950",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-essen-429499",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-consultant-manager-operational-transformation-in-energy-utilities-resources-dusseldorf-munich-298865",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:staffbase:8619083002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-sre-manager-9140",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:flix:8792472002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:director-customer-success-259308",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4907775101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:staffbase:8622017002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8188035",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-sales-director-germany-423204",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7992395",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Jena/Lasertechniker-Holographie--m-w-x-_JR_1052730",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7988919",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4877851101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4778527101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:8773691002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-care-manager-paris-70263",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:logistics-warehousing-coordinator-reading-22119",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4861863101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-support-specialist-weissensberg-223576",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:software-engineer-platform-berlin-germany-367467",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:business-development-executive-london-253465",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:chief-executive-officer-gn-maschinenbau-bielefeld-39165",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-dortmund-130342",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-systems-engineer-munich-germany-183495",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8030692",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Oberkochen/Head-of-Facility-Management-Germany--m-w-x-_JR_1051756-1",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-international-sourcing-sfn-manager-42980",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:growth-marketing-manager-performance-marketing-cologne-226571",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-software-engineer-agentic-search-web-rendering-engineer-261665",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7981199",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-investment-manager-video-mensch-dusseldorf-frankfurt-33059",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-analytics-engineer-run-grow-berlin-359633",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:creative-strategist-paid-social-cologne-215991",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-director-legal-compliance-ous-regions-munich-bavaria-451028",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:softwareentwickler-wetzlar-106151",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7869763",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:gis-systemarchitekt-arcgis-enterprise-bonn-360346",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:raisin:4919850101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-braunschweig-168665",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:celonis:7815061003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:people-operations-manager-berlin-16394",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:marketing-video-artist-new-apps-paris-471178",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4877859101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-financial-accountant-real-estate-munchen-303983",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:practice-director-market-vets-south-molton-devon-england-282056",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4642289101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:gestionnaire-de-produit-iii-experience-vendeurse-berlin-26460",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:pfizer:/job/United-States---New-York---New-York-City/Field-Medical-Excellence---Enterprise-CF-Systems---Enablement_4963330-1",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8037653",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4857035101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-florist-12-month-ftc-3-days-per-week-london-45480",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-cyber-risk-compliance-hannover-341174",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-systemadministrator-windows-server-frankfurt-am-main-191233",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Oberkochen/System-Engineer-PIC--m-f-x-_JR_1039207-1",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:azure-infrastructure-engineer-in-koln-buro-koln-288433",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7908331",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-data-manager-mensch-dusseldorf-495930",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:director-financial-services-governance-risk-compliance-london-47573",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-solutions-architect-emea-dach-german-speaking-226482",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-growth-manager-berlin-256955",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:chef-de-projet-activation-b2b-france-paris-460004",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-data-scientist-berlin-242013",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-onsite-techniker-mainz-477432",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4864857101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-content-manager-seo-aeo-179737",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8052823",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:privacy-and-ai-counsel-emea-london-458417",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4835367101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-manager-business-development-all-genders-berlin-258413",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8605280002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:celonis:7990158003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-software-engineer-backend-data-layer-395284",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-customer-success-engineer-390555",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7905593",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:people-business-partner-emea-apac-london-3218",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:getyourguide:7422312",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-software-engineer-backend-data-layer-479869",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4776679101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7950249",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4844862101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-project-manager-all-genders-stuttgart-84411",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7988511",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7967793",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-purchasing-manager-munchen-294291",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:junior-operations-specialist-berlin-199087",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:working-student-business-development-growth-strategy-all-genders-munchen-189700",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-pmo-all-genders-hamburg-1437",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-data-engineer-london-278714",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-rostock-205753",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeppelin:/job/Garching/Werkstudent-Immobilienmanagement--m-w-d-_JR_18981",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-ludenscheid-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-222448",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4815705101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:lead-analytics-engineer-borrowing-cardiff-411497",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-engineer-stuttgart-243530",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8028102",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7834256",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8028576",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8028342",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:commercetools:7988731003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:systems-engineer-reading-188179",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:field-account-executive-london-122506",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:software-engineer-infrastructure-london-437423",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:software-engineer-platform-frankfurt-germany-45244",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8026035",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:lead-analytics-engineer-london-283935",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:content-marketing-manager-berlin-398395",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-commercial-finance-manager-berlin-346965",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:lead-software-engineer-berlin-250844",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:graduate-sales-development-representative-birmingham-37541",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4354664101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:tech-guy-automatisierungsexperte-munster-466718",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7963135",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:mitarbeiter-buchungsmanagement-gasteservice-vorstetten-443652",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:application-security-engineer-berlin-berlin-342451",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4917970101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:stage-data-scientist-paris-9th-arrondissement-of-paris-75009-paris-141837",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-partnerships-manager-london-54003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:business-operations-manager-product-data-insights-reporting-york-429174",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeppelin:/job/Garching/Werkstudent-Qualittsmanagement-IMS--m-w-d-_JR_18917",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:qa-engineer-manual-berlin-365145",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-software-engineer-london-486762",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:office-manager-empfang-administration-all-genders-berlin-415339",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:finance-grants-manager-berlin-447220",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:celonis:7791283003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4783764101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-leipzig-315954",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:business-operations-lead-london-362219",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:account-manager-midlands-birmingham-112273",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8585238002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-elektroingenieur-analogelektronik-messtechnik-berlin-64670",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-director-organizational-transformation-workforce-design-london-313048",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8596522002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7927153",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-ai-engineer-219471",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-controller-munchen-314137",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:partner-manager-gsi-uki-northern-europe-london-371424",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-ev-field-service-engineer-uk-uk-milton-keynes-187489",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:devops-engineer-release-deployment-frankfurt-am-main-399075",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4772636101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-product-designer-london-28076",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-software-engineer-backend-data-streaming-333804",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:communications-lead-london-432102",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:student-postions-unsolicited-application-all-genders-munich-303888",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-projektentwicklung-batteriespeicher-munich-314051",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:head-of-peopleculure-all-genders-modefachhandler-heide-316840",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:ki-tutor-lehrkraft-all-genders-berlin-78488",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-dynamics-365-consultant-weinstadt-143086",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4719998101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-field-marketing-manager-german-speaking-66359",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:data-engineer-junior-schwerpunkt-datenpipelines-bonn-33567",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:flix:8794198002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-business-development-offenbach-am-main-54121",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:warehouse-trainer-bischofsheim-403498",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:8053277",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-stendal-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-212763",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-johanngeorgenstadt-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-223160",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:staffbase:8619079002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-people-business-partner-london-462815",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-planner-ooh-mit-schwerpunkt-programmatic-dooh-mensch-dusseldorf-306079",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8426774002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-account-manager-mat-cover-9-months-ftc-watford-33747",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4694390101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:legal-counsel-farringdon-114346",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:chemical-laboratory-assistant-lab-technician-analytics-synthesis-leipzig-196673",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:software-engineer-data-infrastructure-acquisition-stuttgart-germany-218032",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-systems-engineer-london-170070",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4715159101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:raisin:4722893101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4206414101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:software-engineer-data-infrastructure-acquisition-dusseldorf-germany-267171",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-cottbus-483301",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:secondary-markets-analyst-evergreen-talent-pool-london-259798",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:automation-engineer-magnet-industrialisation-munich-204654",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7982991",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:celonis:7885977003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-engineering-manager-berlin-20585",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-projektmanager-print-berlin-schlesische-strasse-26-198561",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:teamleiter-it-infrastructure-karlsruhe-fautenbruchstrasse-84827",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:commercetools:7989356003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:flix:8789871002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:tech-lead-ia-h-f-paris-370675",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-manager-associate-director-commercial-operations-germany-918",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:principal-site-reliability-engineer-berlin-484740",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-people-culture-all-genders-recruiting-munchen-132996",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:recipes-working-student-etudiante-temps-partiel-h-f-paris-paris-387584",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:8034981",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-erneuerbare-kraftstoffe-energie-berlin-fasanenstrasse-63726",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-director-customer-success-emea-429624",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-produktmanagement-munchen-127891",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7834301",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:8190710",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-wildenfels-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-117998",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-people-partner-manchester-288517",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:praktikantin-business-development-berlin-339648",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:staffbase:8619075002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4844867101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:strategic-alliances-director-497217",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:pflichtpraktikum-als-crm-manager-fur-b2b-software-bochum-240709",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8596685002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:quereinsteiger-im-vertrieb-mannheim-293498",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7988877",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7981179",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:manufacturing-engineer-magnet-industrialisation-munich-267359",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8189300",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:campaign-manager-munich-311325",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:manager-agent-architecture-31217",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-python-backend-engineer-berlin-248550",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:engineering-manager-java-paris-353264",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-risk-manager-london-65576",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7820504",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:chief-executive-officer-gn-healthcare-plattform-dusseldorf-193409",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7976435",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:raisin:4901686101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:production-assembly-test-engineer-reading-452995",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-manager-fpa-274281",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:raisin:4884939101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4912131101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7963016",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8554454002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8596423002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-audio-visual-technician-live-events-london-239322",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:lead-business-analyst-ba-contract-role-london-394423",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-qa-engineer-berlin-254105",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-sales-manager-uk-london-206313",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8043204",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4729635101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-servicetechniker-onsite-support-standort-berlin-darmstadt-126985",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8049094",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:technical-cx-specialist-emea-wed-sun-london-89099",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8045694",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-match-3-designer-new-game-london-127125",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:teamleiter-softwareentwicklung-wetzlar-175720",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4763928101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-projektentwicklung-dresden-80156",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:6651430002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:developpeur-backend-php-alternance-12-mois-rouen-401721",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4972381101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4695889101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:lead-solutions-architect-munich-297257",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4920269101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:field-account-executive-edinburgh-155435",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4206511101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-online-marketing-strategy-manager-mensch-dusseldorf-472084",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-manager-fpa-72959",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-success-manager-berlin-469023",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-performance-marketing-manager-mensch-dusseldorf-405630",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:raisin:4910005101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4917838101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:8020517",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7405138",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:account-executive-french-italy-and-middle-east-markets-paris-office-94942",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-test-automation-engineer-teamcity-138995",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-oberhaching-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-406808",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4843468101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-data-engineer-real-time-analytics-paris-office-122301",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:8794670002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-sales-support-technician-munich-germany-282057",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8030408",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-data-scientist-data-cloud-acceleration-berlin-347439",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4828025101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:8790886002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-director-health-safety-operations-europe-berlin-berlin-262094",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-people-business-partner-london-410501",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7845570",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-consultant-mit-schwerpunkt-organisationsentwicklung-und-strategie-im-public-sector-dusseldorf-155522",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-cologne-362734",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:junior-finance-assistant-brighton-hove-13925",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-customer-success-engineer-94290",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-sales-manager-heidenheim-451495",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-product-designer-munchen-192082",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-strategy-research-berlin-schlesische-strasse-26-392329",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:test-manager-communication-management-berlin-81075",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:raisin:4903287101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:gsk:/job/Australia---QLD---Regional/Sales-Representative_447393",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-revenue-operations-business-partner-emea-paris-office-191439",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4802720101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-azure-cloud-security-consultant-frankfurt-am-main-331918",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:performance-marketing-manager-berlin-273240",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:embedded-data-engineer-ml-london-455252",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-product-manager-digital-health-berlin-hybrid-33975",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4756747101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7929851",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:commercetools:7988730003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4586040101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-people-partner-london-manchester-203365",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:celonis:7775171003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:growth-marketing-manager-automation-cologne-367694",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-creator-marketing-coordinator-berlin-222135",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-jena-403179",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4700434101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:privatkundenbetreuer-emden-246644",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-salesforce-developer-temporary-berlin-231535",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:traderepublicbank:7990879003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:staff-product-manager-product-discovery-engine-munich-74636",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-forward-deployed-engineer-stuttgart-373240",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-data-engineer-london-496047",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:product-lead-london-486642",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-beraterin-und-programm-managerin-kooperationen-collective-impact-berlin-83223",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudentin-recruiting-employer-branding-hamburg-211870",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:controllerin-senior-business-analystin-in-bonn-383448",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:celonis:7986287003",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7984681",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:intel:/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:solutions-engineer-london-455834",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-market-fleet-manager-dach-9673",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:account-associate-retail-grocery-h-f-paris-436840",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:data-science-manager-cardiff-16772",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4587242101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:engineering-manager-stuttgart-72092",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4720039101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7988916",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7996932",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:working-student-electronics-munich-86628",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:auszubildender-fachinformatiker-systemintegration-2027-kotz-393949",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-engineer-stuttgart-76594",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8028117",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-amazon-retail-media-consultant-356171",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-working-student-junior-solutions-consultant-18810",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:pflichtpraktikum-social-media-marketing-heilbronnlebt-94379",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "personio:unternehmertum:2786202",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:quantitative-analyst-evergreen-talent-pool-london-90553",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4885192101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-sales-director-dach-335357",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-senior-commercial-counsel-460153",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:engineering-manager-entertainment-h-f-paris-38225",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-investment-manager-mensch-dusseldorf-451019",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:product-engineer-ai-native-berlin-104380",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4877824101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:fpa-analyst-uk-bristol-270123",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:7563017",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:ai-product-manager-london-146975",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-eisenach-454467",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:product-analyst-hamburg-50111",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-product-manager-storage-networking-london-10758",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-frontend-engineer-visual-experiences-munich-299236",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:commercial-account-executive-london-hybrid-london-189478",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:projektmanager-wegerecht-und-flachensicherung-erneuerbare-energien-molbergen-476427",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-bremen-159842",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:steuerberater-in-feucht-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-53049",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:1st-2nd-level-support-bad-homburg-215115",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-success-manager-with-italian-london-254098",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:group-tax-manager-4-month-fixed-term-contract-london-263692",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-account-managerin-berlin-473717",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-hanover-274716",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8030662",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8048171",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7845008",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8591968002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:project-planner-united-kingdom-66345",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:n26:8015153",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:staffbase:8622018002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:chief-operating-officer-coo-munchen-318105",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-success-manager-berlin-428918",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:intel:/job/US-Arizona-Phoenix/Advanced-Packaging-Integration-and-Simulation-Intern_JR0287009",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:remote-part-time-media-search-analyst-german-de-berlin-78860",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7989052",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7974427",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:product-manager-home-energy-solution-b2c-munchen-91004",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:software-engineer-p2p-search-team-100-remote-worldwide-london-405442",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-software-engineer-london-329592",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4903164101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:isaraerospace:4749166101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8014360",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:parloa:4897497101",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:contract-platform-engineer-259901",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:venture-development-new-products-uk-market-ai-x-greentech-berlin-258841",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:solarisbank:8545092002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:product-designer-ux-ui-digitale-gesundheitsplattform-munchen-389562",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-marktanalyse-vertriebskonzeption-im-bereich-biologische-landwirtschaft-dresden-375105",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-erfurt-191683",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:7101191002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-business-development-strategy-manager-augsburg-53064",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-search-backend-engineer-munchen-bayern-372650",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-customer-success-manager-with-french-london-238489",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8186655",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:werkstudent-legal-tech-sales-berlin-408176",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeppelin:/job/Bblingen/Ausbildung-zum-Kaufmann--m-w-d--fr-Gro--und-Auenhandelsmanagement_JR_18452",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-chemnitz-416221",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7807207",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:smb-operations-support-manager-manchester-129028",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-embedded-software-engineer-i-munich-germany-258724",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:head-of-peopleculure-all-genders-modefachhandler-flensburg-83654",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:creator-marketing-coordinator-berlin-277092",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:db:/job/Bangalore-Velankani-Tech-Park/Apprentice---HR_R0419160",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "workday:zeissgroup:/job/Oberkochen/Global-Head-of-IT--m-w-d-_JR_1049309",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-azure-cloud-security-consultant-munich-165179",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:engineering-manager-berlin-109173",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-hr-specialist-munchen-264080",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:scout24:8009834",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:frontend-engineer-germany-87472",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-commercial-finance-manager-hamburg-105073",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:working-student-system-administration-all-genders-berlin-413727",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-project-management-officer-berlin-104595",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:it-systemadministrator-50-remote-inhouse-bremen-114879",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:flix:8792457002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7967828",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:8028354",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:team-lead-it-infrastructure-it-operations-all-genders-berlin-48061",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:sumup:8729773002",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-fullstack-engineer-llms-ai-agents-munich-248284",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "greenhouse:hellofresh:7926685",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:servicetechniker-im-aussendienst-gn-magdeburg-398567",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:senior-implementation-specialist-digital-analytics-munich-118308",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
+},
+{
+"id": "arbeitnow:finance-bizops-marketing-london-23189",
+"seen_at": "2026-09-10T13:03:16.010978+00:00"
 }
 ]
 }
